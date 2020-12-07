@@ -1,9 +1,10 @@
 --- 
-title: "MKA Summaries"
-author: "Fréderic Van der Cruyssen"
+title: "Compendium MKA"
+author: "dr. Fréderic Van der Cruyssen"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Aandoeningen van de speekselklieren
-Hier komt het eerste hoofdstuk.
+# Inleiding
+Dit zijn samenvattingen voor de Mond-, Kaak-, en Aangezichtschirurg. Veel van de informatie is gebaseerd op de meest recente cursus MKA van Leuvens diensthoofd prof. dr. C. Politis. Hiermee hoop ik de clinicus snel de correcte informatie aan te bieden. 
+
