@@ -1,6 +1,7 @@
 bookdown::gitbook:
   css: style.css
   config:
+    sharing: null
     toc:
       collapse: subsection
       toc_depth: 4

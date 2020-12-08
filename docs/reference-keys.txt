@@ -8,10 +8,11 @@ zwakke-opoïden
 sterke-opoïden
 neuropathische-pijn
 antibiotica
+principes-van-verantwoord-therapeutisch-antibioticagebruik
 verantwoordelijke-kiemen
 profylaxe-bij-majeure-chirurgie
 profylaxe-bij-kleine-mondheelkunde
-endocarditisprofylaxis
+endocarditisprofylaxe
 oncologie-profylaxe
 schisischirurgie-profylaxe
 implantologie
