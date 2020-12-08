@@ -8,4 +8,13 @@ zwakke-opoïden
 sterke-opoïden
 neuropathische-pijn
 antibiotica
+verantwoordelijke-kiemen
+profylaxe-bij-majeure-chirurgie
+profylaxe-bij-kleine-mondheelkunde
+endocarditisprofylaxis
+oncologie-profylaxe
+schisischirurgie-profylaxe
+implantologie
+uitgebreide-infecties-flegmones-therapeutisch
+parotitis-therapeutisch
 magistrale-bereidingen

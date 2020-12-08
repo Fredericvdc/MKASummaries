@@ -82,4 +82,211 @@ R/ Durogesic (Morfine)
 
 ## Antibiotica
 
+[AB-gids UZ Leuven](https://files.uzleuven.be/antibioticagids/2019/index.html)
+
+###Principes van verantwoord therapeutisch antibioticagebruik
+
+1. Verwijderen van de oorzaak en drainage van collecties is primair, antibiotica zijn adjuvante therapie
+
+> “Source control” is het fysiek verwijderen van geïnfecteerd materiaal zoals pus, necrotisch weefsel, bacteriële colonisaties en vegetaties, en vreemde voorwerpen.
+De meeste hoofd-hals infecties worden veroorzaakt door abces-vormende gram-positieve coccen en anaeroben, is het mechanisch draineren van natuurlijke holten (sinus, neus, orbita) en gevormde abcessen vaak noodzakelijk.
+
+2. Selectie van empirische antibiotica begint met een goede differentieel diagnose, inclusief vermoedelijke bacteriële infecties
+
+Opstellen van een gedetailleerde differentieel diagnose van de toestand van de patiënt
+Antibiotica dient enkel gegeven te worden indien er mogelijks een invasieve bacteriële infectie aanwezig is
+“Common pitfalls”
+Overschatten van de kans op een bacteriële infectie, en het gevaar van het niet of laattijdig behandelen. Bijkomend is er een onderschatting van de mogelijke gevaren van antibioticagebruik (20% ervaart bijwerkingen!)
+Een positieve kweek/cultuur in de afwezigheid van symptomen, is géén bewijs van een infectie. Dit is zeker zo bij stalen uit niet-steriele plaatsen (vb. mondholte).
+
+3. Zelfs in een patiënt met bacteriële infectie, behandel deze enkel indien de therapie het klinisch verloop verandert
+
+Antibioticatherapie maakt steeds deel uit van een veralgemeend, rationeel behandelplan voor de patiënt
+Bv.: osteomyelitis bij chronisch geëxposeerd bot
+persisterende antibioticatherapie kan niet rationeel zijn indien een flap-herstel geïndiceerd is
+Een korte kuur voor omliggende cellulitis kan wel geïndiceerd zijn, maar dient niet chronisch verlengd te worden met oog op monotherapie voor de osteomyelitis
+
+4. Behandel empirisch deze micro-organismen die de aandoeningen veroorzaken in de differentieel diagnose
+
+Gebruik zo veel mogelijk de lokale richtlijnen (zie antibioticagids UZ Leuven), maar durf hiervan afwijken in specifieke klinische situaties
+Het spectrum moet slechts zó breed zijn dat het de micro-organismen in de differentieel diagnose dekt
+Bv. Amoxicilline-clavulaanzuur dekt de meeste orale pathogenen, Piperacilline-Tazobactam ook maar is te breed voor eerste lijn
+Kijk naar de klinische setting: nosocomiale infecties worden vaker veroorzaakt door resistente pathogenen en Pseudomonas of andere non-fermenterende gram-negatieven, terwijl dit bij “community-acquired” infecties niet zo is
+
+5. Hanteer een lagere drempel voor empirische therapie in ernstig zieke patiënten
+
+Evalueer de algemene medische toestand van de patiënt en schat de dringendheid van nodige zorgen in
+Op spoedgevallen: overleg tijdig met urgentie-arts, infectiologie of intensieve zorgen
+
+6. Gastheerfactoren bepalen het spectrum van empirische therapie door een shift in de mogelijke oorzakelijke micro-organismen
+
+Bij immuungecompromiteerde patiënten moet prompt de differentieel diagnose van mogelijke oorzakelijke micro-organismen verbreed worden
+Neutropene patiënten hebben een verhoogd risico op acute pyogene bacteriële micro-organismen en invasieve mycosen
+Patiënten met T-cel deficiënties hebben een verhoogd risico op chronische infecties door atypische pathogenen (tuberculose, cryptococcen, …)
+Patienten met deficiënties van de humorale immuniteit (ook verworven B-cel defecten, vb. auto-immuunaandoeningen door therapie met Rituximab!) hebben vaker infecties door omkapselde bacteriën
+Cave: het is NIET zo dat immuungecompromiteerde patiënten vaker infecties krijgen met antibiotica-resistente micro-organismen
+
+7. Farmacokinetische-farmacodynamische principes kunnen de optimale therapie beïnvloeden
+
+Bacteriëmie wordt behandeld met antibiotica die een hoge plasma-concentratie hebben, terwijl infecties van weefsels behandeld worden met antibiotica met een groot distributievolume
+Bot-infecties worden klassiek behandeld met intraveneuze antibiotica
+Echter, verschillende antibiotica bereiken eenzelfde concentratie in bot om osteomyelitis te behandelen als IV antibiotica: TMP-SMX, clindamycine, linezolid, rifampicine, metronidazole
+In specifieke indicaties (vb. acute osteomyelitis) kunnen orale antibiotica even effectief zijn als IV antibiotica, met minder bijwerkingen en risico’s zoals catheter-infecties
+Beta-lactam antibiotica zijn tijdsafhankelijke antibiotica
+Voornamelijk de tijd boven de MIC (minimal inhibitory concentration) bepaalt de effectiviteit van werking
+Bij deze antibiotica is het nuttig om de infusie-tijd te verlengen terwijl de piek-concentraties afgevlakt worden
+Aminoglycosiden zijn concentratie-afhankelijke antibiotica
+Adjuvante therapie met gentamycine/amikacine wordt slechts 1x per dag gegeven, om een zo hoog mogelijke piek te bereiken
+Cave: lage zuurstofspanning en pH in abcessen inactiveert aminoglycosiden, waardoor deze niet gebruikt kunnen worden in de behandeling van abcessen
+Sommige antibiotica hebben een non-lineaire dosis farmacokinetiek (vb. Levofloxacine, Rifampicine)
+
+8. De-escaleer de antibioticatherapie obv. microbiologie resultaten, klinische en biochemische respons
+
+Na de start van empirische therapie dient deze aangepast te worden adhv verschillende factoren
+1/ Het al dan niet aantonen van een specifieke bacteriële oorzaak. Microscopie en cultuur zijn vaak voldoende om de therapie te de-escaleren, zelfs zonder sensitiviteitstesten. Zelfs bij negatieve culturen kan therapie aangepast worden (vb. het niet kweken van MRSA verantwoordt het stoppen van empirisch Vancomycine)
+2/ Klinische respons op de therapie. Symptomen en biomarkers moeten binnen 1-2 dagen drastische verbetering tonen. Koorts, leukocytose en CRP worden klassiek opgevolgd en gebruikt om respons op therapie te beoordelen. Recent wordt ook het gebruik van procalcitonine meer gebruikt.
+
+9. Als de therapie niet werkt, overweeg dan eerst “source control” en alternatieve diagnoses vóór antibioticaresistentie en het escaleren van de therapie
+
+Klinische en biochemische respons op de therapie moet gezien worden binnen 1-2 dagen. Indien niet, dienen onderstaande oorzaken uitgesloten te worden
+Er is geen adequate “source control” bekomen, vb abces is niet volledig gedraineerd, vreemd lichaam in situ
+Heeft de patiënt wel een bacteriële infectie? Herevalueer de differentieel diagnose en geef aandacht aan aandoeningen die een infectie kunnen nabootsen
+Er bestaan verschillende niet-infectieuze oorzaken van koorts, zoals medicatie-geïnduceerde koorts, maligniteit, reumatologische aandoeningen, …
+
+10. De duur van de therapie moet evidence-based zijn, en zo kort als mogelijk
+
+Volg de lokale richtlijnen (antibioticagids UZ Leuven) waar mogelijk, maar durf afwijken in specifieke situaties
+Korte kuren (vb. tot 2 dagen geen koorts meer) hebben een aantal voordelen tov langdurige kuren
+Voor vele indicaties is er geen slechtere outcome aangetoond
+Verminderd risico op bijwerkingen
+Verminderd risico op aantasting van het microbioom, vooral bij kinderen en jongvolwassenen, met minder risico op superinfectie
+
+### Verantwoordelijke kiemen
+Staph. Aureus
+Aërobe en anaërobe streptokokken
+Anaërobe gram-negatieve bacillen
+
+### Profylaxe bij majeure chirurgie?
+- Ingrepen met openen van farynxmucosa zonder bijkomende risicofactoren
+  - Cefazoline 2g IV bij inductie (kinderen: cefazoline 50 mg/kg IV). Nadien op tijden 8u en 16u
+- Ingrepen met openen van farynxmucosa met bijkomende risicofactoren
+  - Augmentin 1g, 4dd
+  - Risicofactoren:
+    - Na radiotherapie
+    - Slechte algemene toestand, inclusief diabetes
+    - Grote tumor T3-T4 waarvoor grote resectie en flapreconstructie
+    - Voorafgaande tracheotomie en dus kolonisatie van de luchtwegen
+- Orale approach
+  - Amoxiclav 1g, 4dd
+- Transcutane approach
+  - Cefazoline 2 g IV pre-operatief
+
+### Profylaxe bij kleine mondheelkunde?
+Profylactisch gebruik van antibiotica voorafgaand aan invasieve mondheelkundige ingrepen is gewettigd bij patiënten met:
+
+### Endocarditisprofylaxis
+Patiënten met de ziekte van Rendu-Osler-Weber die ook een pulmonale arterioveneuze malformatie vertonen, dienen antibioticaprofylaxie te krijgen bij tandheelkundige interventies om hersenabcessen te vermijden.
+Hemodialyse of na een niertransplantatie
+Hemofilie
+Sickle cell anemie
+Slecht gecontroleerde insuline-dependente diabetes mellitus
+Systemische lupus erythematosus
+Patiënten met een chirurgisch aangelegde shunt tussen systeem en longcirculatie
+Immuungecompromitteerd zijn door medicatie (monoclonale antistoffen, langdurige corticosteroïden
+Immunosuppressie na kanker of chemotherapie
+Immunosuppressie na HIV/aids
+Splenectomie bij volgende primaire aandoeningen: Cooley’s anemie; Wiskott-Alrich syndroom – histiocytosis – vetstapelingsziektes.
+Radiotherapie in het hoofd-hals gebied
+Onder bisfosfonaten of denosumab (botresorptie-inhibitoren)
+Sommige syndromen, bv. Kartagener syndroom met primaire ciliaire dyskinesie waarbij mucussekreet ophoopt en recidiverende bovenste luchtweginfecties ontstaan, oa recidiverende sinusitis, otitis, rhinosinusitis
+Profylaxe: Endocarditis
+Endocarditisprofylaxe wordt énkel gegeven bij hoog-risicopatiënten die een hoog-risico ingreep ondergaan. De twee voorwaarden moeten SIMULTAAN voorkomen.
+
+Hoog risico-patiënten bij wie endocarditisprofylaxe is geïndiceerd, zijn patiënten met:
+
+kunstkleppen of prothetisch materiaal voor klepherstel (zowel biologische als mechanische kleppen, met inbegrip van hemogreffen)
+die ooit een bacteriële endocarditis hebben doorgemaakt
+met congenitale hartdefecten:
+cyanotische congenitale hartafwijkingen zoals shunt of banding bij pulmonalisatresie, Fallot, tricuspidalisatresie, univentriculair hart, die niet of slechts gedeeltelijk  behandeld zijn. Inbegrepen zijn palliatieve shunts en verbindingen
+congenitale hartafwijkingen die hersteld werden met prothetisch materiaal of toestel, hetzij chirurgisch geplaatst hetzij via endovasculaire interventie
+Herstelde congenitale hartafwijkingen met residueel defect nabij prothetisch luik of toestel (verhindert endotheel vorming)
+harttransplantatie met ontstaan van klepaantasting
+Hoogrisico ingrepen:
+
+preventie wordt ingesteld bij zowel tandheelkundige, respiratoire, gastro-intestinale als urogenitale ingrepen
+hoog-risico-ingrepen in de gelaatshuid betreffen ingrepen in geïnfecteerd (huid)weefsel zoals incisie van een huidabces en ontlasten van een furunkel.
+hoog-risico-ingrepen in de tandheelkunde betreffen alle tandheelkundige ingrepen die gepaard gaan met chirurgische manipulatie van het tandvlees, chirurgische manipulaite van de periapicale regio bv. instrumenteren doorheen het foramen apicale of bij perforatie van mondmucosa, bij tandextracties, bij verwijdering van wortelresten en alle overige MKA-ingrepen.
+Eerste keuze
+
+Amoxicilline (penicilline-derivaat) per os
+Kind: 50mg/kg
+Volwassene: 2g
+Alternatief: ampicilline IM of IV
+Kind: 50mg/kg
+Volwassene 2g
+Tweede keuze: bij niet IgE-gemedieerde penicilline-allergie
+
+Cefalexine
+Kind: 50mg/kg
+Volwassene: 2g
+ Cefadroxil
+Kind: 30mg/kg
+Volwassene: 2g
+Derde keuze: bij IgE gemediëerde penicilline-allergie
+
+Clindamycinde per os
+Kind: 20mg/kg
+Volwassene: 600mg
+Clarithromycine of azithromycine per os
+Kind: 40mg/kg
+Volwassene: 2g
+
+### Oncologie (profylaxe)
+- Bij extra-orale approach: 2g cefazoline IV bij inductie, nadien op tijden 8u en 16u cefazoline 2g IV (indien OK tijd zo lang duurt).
+- Bij intra- en extra-orale approach: amoxi-clav 4x 1g IV elke 6u
+- Bij grote resecties en reconstructies: amoxi-clav 1g IV om de 4u (6g/dag). Te starten 2u voor de ingreep en te continueren gedurende 3 dagen
+- Indien reeds radiotherapie in het verleden: amoxi-clav 4x 1g IV om de 6u (4g/dag). Te starten 2u voor de ingreep en te continueren gedurende 7 dagen
+
+### Schisischirurgie (profylaxe)
+Standaard:
+
+- Augmentin bij inductie volgens gewicht en vervolgens te continueren 3x daags voor 7 dagen bij schisis (10 dagen indien bevuilde wonde, slechte mondhygiëne, precaire wondheling etc).
+- Bij minimaal invasieve procedures en goede prognose wondheling (vb kleine lipsluiting): Augmentin start bij inductie volgens gewicht en nadien te continueren 3x daags voor 3 dagen
+
+Alternatief (vb bij peni-allergie):
+
+- Bij inductie cefazoline 2 g IV (kinderen cefazoline 50 mg/kg IV)
+- Nadien op tijden 8u en 16u cefazoline 2 g IV
+- Verder gedurende 6 dagen na de ingreep cefazoline 2 g IV 3x/dag
+
+### Implantologie
+- Amoxicilline 2g in te nemen 2 uur voor de ingreep (R/Amoxicilline 1 g DT/8 co), uitnemen na de ingreep: 2 co/d
+- Azithromycine 500 mg in te nemen 2u voor de ingreep (bij peni-allergie)
+
+### Uitgebreide infecties – flegmones (therapeutisch)
+Probeer steeds een antibiogram te bekomen!
+Wat zijn de oorzakelijke kiemen?
+
+– Enterische gram-negatieven
+– Anaeroben
+– Gram-positieven
+
+Eerste lijn antibiotica:
+
+- B-Lactamase producerende kiem
+  - R/ Amoxiclav 875 mg, Dt: caps. d.t.d. no. 20, S/ Driemaal daags 1 capsule. Kuur afmaken.  
+- Anaerobe kiemen
+  - R/ Metronidazol 500 mg (Flagyl), Dt: tab. d.t.d. no. 20, S/ Driemaal daags 1 tablet. Kuur afmaken.
+
+==> Combinatie van bovenstaande
+
+Alternatieven:
+
+- Levofloxacine 500 mg 1 co/d (Tavanic) + metronidzazole 500 mg 3 co/d (Flagyl)
+- Vancomycine 15-20 mg/kg elke 8-12 uur (max 2g/dosis). Bloedspiegels te bepalen!
+- Moxifloxacine 400mg 1 co/d (Avelox)
+
+### Parotitis (therapeutisch)
+- Cefuroxim 500 mg 3 co/d + metronidazole 500 mg 3 co/d, 14 dagen
+
 ## Magistrale bereidingen
