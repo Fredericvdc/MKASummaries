@@ -1,3 +1,4 @@
+fig:unnamed-chunk-1
 fig:unnamed-chunk-2
 inleiding
 anatomie
@@ -33,7 +34,7 @@ behandeling-van-aften-middels-lokale-steroïden
 behandeling-van-aften-middels-antiseptica-en-lokale-antibiotica
 behandeling-van-aften-middels-combinaties
 behandeling-van-aften-middels-diverse-middelen
-beçhet-achtige-aftenulcera
+behçet-achtige-aftenulcera
 systemische-therapie-bij-ernstige-vormen-van-aften-medisch
 gingivitis-ulcerosa
 zalf-met-steroïden
@@ -68,3 +69,4 @@ gevoelige-tandhalzen
 smaakstoornissen
 retrograde-vullingsmaterialen
 tetanusvaccinatie-bij-wondes
+trigeminus-letsels

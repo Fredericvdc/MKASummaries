@@ -1,0 +1,17 @@
+# Trigeminus letsels
+
+```{r echo=FALSE, fig.cap='QST Flowchart'}
+knitr::include_graphics('figures/qst-flowchart.png')
+```
+
+Table: MRCS
+
+|S0  |Afwezigheid van gevoel in het autonome gebied van de zenuw                                                                |
+|:---|:-------------------------------------------------------------------------------------------------------------------------|
+|S1  |Herstel van diepe cutane pijn en tactiele gevoeligheid                                                                    |
+|S1+ |Herstel van oppervlakkige pijngevoeligheid                                                                                |
+|S2  |Herstel van een zekere mate van oppervlakkige cutane pijn en tactiele gevoeligheid                                        |
+|S2+ |Zoals in S2, maar met een overdreven reactie                                                                              |
+|S3  |Terugkeer van pijn en tactiele gevoeligheid met verdwijnen van overrespons, statische 2PD>15mm, bewegende 2PD>7mm         |
+|S3+ |Terugkeer van gevoel zoals in S3 met enig herstel van tweepuntsdiscriminatie, statische 2PD: 7-15mm, bewegende 2PD: 4-7mm |
+|S4  |Volledig herstel, statische 2PD: 2-6mm, bewegende 2PD: 2-3mm                                                              |
