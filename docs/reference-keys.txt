@@ -1,3 +1,4 @@
+fig:unnamed-chunk-2
 inleiding
 anatomie
 medicaties-in-mka
@@ -7,6 +8,8 @@ paracetamol---nsaids
 zwakke-opoïden
 sterke-opoïden
 neuropathische-pijn
+acuut-zenuwletsel
+chronisch-neuropathische-pijn
 antibiotica
 principes-van-verantwoord-therapeutisch-antibioticagebruik
 verantwoordelijke-kiemen
