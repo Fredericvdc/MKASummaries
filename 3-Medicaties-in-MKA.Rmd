@@ -79,6 +79,36 @@ R/ Durogesic (Morfine)
 - S/ 1 pleister per 72u + Movicol!  
 
 ### Neuropathische pijn
+__Acuut zenuwletsel__
+
+- Befact forte: 1 co/day for 1 month
+- Neurobion: 1 IM injection every week for 6 weeks
+- Corticosteroids (Medrol PAK)
+
+Table: Medrol PAK schema
+
+|  |Morning  |Noon     |Evening  |
+|:-----|:--------|:--------|:--------|
+|Day 1 |2 x 4 mg |2 x 4 mg |2 x 4 mg |
+|Day 2 |2 x 4 mg |2 x 4 mg |1 x 4 mg |
+|Day 3 |2 x 4 mg |2 x 4 mg |NA       |
+|Day 4 |2 x 4 mg |1 x 4 mg |NA       |
+|Day 5 |2 x 4 mg |NA       |NA       |
+|Day 6 |1 x 4 mg |NA       |NA       |
+
+Table: Medrol high dose schema
+
+|   |Morning |Noon |Evening |
+|:------|:-------|:----|:-------|
+|Week 1 |48 mg   |NA   |NA      |
+|Week 2 |24 mg   |NA   |NA      |
+|Week 3 |12 mg   |NA   |NA      |
+
+__Chronisch neuropathische pijn__
+\@ref(neuropathic_pain_protocol)
+
+include_graphics("figures/neuropathic_pain_protocol.png")
+
 
 ## Antibiotica
 
@@ -485,7 +515,7 @@ Lokaal bij een opstoot (= nieuwe aften)
 - Tetracycline HCL 5% mondspoeling 2x/dag: spoelen en nadien uitspuwen
 - Betamethasone dipropionaat 0.05% in orobase TNF 3x/dag op de aften
 
-### Systemische therapie bij ernstige vormen van aften – medisch!
+### Systemische therapie bij ernstige vormen van aften – medisch
 R/ Korte kuur prednison bij hevige aanval (20-40 mg per dag gedurende 3-5 dagen)
 
 R/ Prednisonkuur 2 weken: 40 mg 2 dagen, 35 mg 2 dagen, 30 mg 2 dagen, 25 mg 2 dagen, 20 mg 2 dagen, 15 mg 2 dagen, 10 mg 2 dagen, dan stop. Deze kuur duurt 2 weken en vergt 70 tabletten van 5 mg.
@@ -517,7 +547,7 @@ R/ chloorhexidine mondspoeling 0.2% FNA
 DT/ mondspoeling da flacon á 250 ml  
 S/ Viermaal per dag gedurende één minuut de mond spoelen (niet innemen).
 
-### Zalf met steroïden:
+### Zalf met steroïden
 R/ 
 
 - Triamcinolone acetonide 10 mg
@@ -615,5 +645,372 @@ S/ Drie per dag 1 tablet. Kuur afmaken.
 R/ Capsaïcine (cremor capsicum FNA) 0.75%  
 DT/ creme da tube à 30 g  
 S/ 4 maal daags dun insmeren (pijnbestrijding)  
+
+### Orale candidiase
+R/ amfotericine B orale suspensie 100 mg/ml  
+DT/ flacon 80 ml  
+S/  4x/dag 1 ml in de mond houden gedurende 3 minuten en doorslikken nadien  
+
+R/ miconazol 20 mg/g  
+DT/ Tube 80 g orale gel   
+S/ 1 koffielepel 4x/dag aanbrengen op de infectie  
+
+R/ fluconazol 50 mg  
+DT/ 14 caps  
+S/ 1x/d 1 caps
+
+### ANUG
+R/ metronidazol 500 mg  
+DT/ 15 t  
+S/ 3x1t/d
+
+R/ H202 3%  
+DT/ 1 fles 200 cc  
+S/ 3x/d spoelen
+
+### Burning mouth syndroom
+R/ Prothiaden® 75 mg  
+DT/ 1doos  
+S/ 2x/dag
+
+R/ Rivotril 0,5 mg   
+DT/ 150  
+S/ 1 tablet in mond laten smelten, niet doorslikken 3x/dag
+
+R/ amitriptyline 25 mg  
+DT/ 30 co  
+S/ 2x/dag 1 tablet  
+
+R/ Clonazepam 0,5 mg  
+DT/ 100 t  
+S/ 3x/dag 5min op 1 tablet zuigen  
+
+R/ LiponixX (alfaliponzuur) 600 mg  
+DT/30 t  
+S/ 1x/dag op nuchtere maag 
+
+### Sialolithiasis  
+R/ Buscopan noncompositum®  
+DT/ 1doos  
+S/ 3x/d 1 tabl 10min a.c.  
+
+R/Rovamycine 500 mg ®  
+DT/ 1doos  
+S/ 2×2 t/dag  
+
+### Bestrijding van hyposialie 
+R/ pilocarpine HCl 5 mg  
+DT/ caps. d.t.d. no 30  
+S/ Twee tot viermaal daags 1 capsule  
+  
+R/ Oral Balance  
+DT/ tube á 50 g  
+S/ Circa één cm van de gel met de vinger in de mond aanbrengen en vervolgens met de tong door de mond verspreiden. Naar behoefte gebruiken  
+  
+R/ Saliva Orthana  
+DT/ flacon à 450 ml  
+S/ De mond met behulp van de sprayflacon ruim bevochtigen, de vloeistof met de tong door de mond verspreiden en het residu doorslikken. Naar behoefte toepassen.   
+  
+R/ Xialine  
+DT/ flacon á 500 ml   
+S/ De mond met behulp van de sprayflacon ruim bevochtigen, de vloeistof met de tong door de mond verspreiden en het residu doorslikken. Naar behoefte toepassen.   
+
+### Bestrijding van hypersialie 
+R/ scopolamine 1,5 mg  
+DT/ pleister met gereguleerde afgifte d.t.d. no. 10  
+S/ Achter het oor op een onbehaarde plaats één pleister aanbrengen. Na drie dagen eventueel een nieuwe pleister achter het andere oor aanbrengen  
+  
+R/ glycopyrolaat 3 mg  
+DT/ 60 t  
+S/ max 4x1t/d  
+
+R/ Botuline toxine A    
+25-30 E/ speekselklier  
+Injectie onder echografische geleiding  
+
+### Fluoridebescherming van tanden
+R/ 
+
+- NaF  1 g  
+- Na(2)HPO(4).1 2H(2)O   380 mg  
+- K(2)HPO(4) 180 mg  
+- methylhydroxypropylcellulose(laag visceus) 2 g  
+- methylhydroxybenzoaat 100 mg  
+- aqua dest.   ad 100 ml  
+  
+DT/ knijpfles   á 100 ml  
+S/ Om de andere dag enkele druppels met behulp van de fluoridekappen gedurende vijf minuten op het gebit aanbrengen. Knijpfles in de koelkast bewaren.  
+
+### Hemofilie A en ziekte van Von Willebrand  – ziekenhuisverband
+R/ desmopressine (DDAVP) 
+
+### Hemofilie B (en sommige vormen van hemofilie A) – ziekenhuisverband
+R/ stollingsfactorenconcentraat 
+
+### Remming fibrinolyse door tranexaminezuur 
+R/ tranexaminezuur 500 mg  
+DT/ tab. d.t.d. no. 40  
+S/ Viermaal daags 2 tabletten gedurende vijf dagen.  
+
+R/ tranexaminezuur 1000 mg  
+DT/ bruistablet d.t.d. no. 20  
+S/ Tablet oplossen in 10 ml water en viermaal tot zesmaal daags met deze oplossing de mondspoelen. Daarna doorslikken.  
+
+### Bestrijding van angst – strikte medische controle
+R/ diazepam 10 mg  
+DT/ tab. d.t.d. no. 2  
+S/ ‘s avonds voor de behandeling en één uur voor de behandeling 1 tablet  
+(Bij kinderen en ouderen 5 mg voorschrijven)  
+
+R/ lorazepam 2,5 mg  
+DT/ tab. d.t.d. no. 2  
+S/ ‘s avonds voor de behandeling en één uur voor de behandeling 1 tablet
+
+R/ midazolam 7,5 mg  
+DT/ tab. d. t. d. no. 2  
+S/ Eén uur voor de ingreep 1 tablet (zonodig 2 tabletten) innemen  
+
+R/ diazepamsiroop
+
+- diazepam 60 mg 
+- citroenzuur monohydr 125 mg 
+- excipiens pro susp met xanthaangom 45g 
+- sorbitol 70% niet kristalliseerbaar (NC) 45 g 
+- aqua conservans tot 150 ml 
+- eventueel frambozenessence 450 mg
+
+R/ Mefenesine 250 mg pro 1 tablet  
+DT/60  
+S/ 3×1 per dag (volwassene) 
+
+### Bestrijding van postoperatieve zwelling 
+R/ prednisolon 5 mg 
+DT/ tab. d.t.d. no. 16  
+S/
+
+- 1e dag post-operatief: om de zes uur 2 tabletten (totaal 8  tabletten). 
+- 2e dag post-operatief: ‘s morgens en ‘s middags 2 tabletten, ‘s avonds en voor het slapen 1 tablet. 
+- 3e dag post-operatief: ‘s morgens, ‘s middags en ‘s avonds 1 tablet.  
+
+### Neuralgiforme pijn (trigeminus neuralgie, glossopharyngeus neuralgie)
+R/ carbamazepine 100 mg  
+DT/  20 tabl  
+S/ Tweemaal per dag 1 tablet  
+(Bij onvoldoende effect geleidelijk ophogen tot maximaal 1200 mg of combineren met Baclofen 10 mg, 3x daags)
+
+### Spierspanningshoofdpijn 
+R/ amitriptyline 10 mg   
+DT/ tab. d. t. d. no 15  
+S/ Eén tablet voor het slapen gaan
+
+### Cluster headache, migraine 
+NSAID (bijvoorbeeld naproxennatrium)  combineren met sumatriptan en/of zuurstof (02 uit cilinder).  
+  
+R/ sumatriptan 100 mg  
+DT/ tab. d.t.d. no 10  
+S/ Eén tablet innemen als migraine aanval of cluster headache zich aankondigt.       
+  
+(Eventueel als  injectiepen ten behoeve van subcutane toediening of als neusspray voorschrijven) 
+
+### Oplossingen voor contactlenzen 
+Om deze kort erin te bewaren want ze moeten verwijderd worden bij mka-ingrepen.
+Solutio detergens et conservans ad lentes molles SR 
+
+R/ 
+
+- Thiomersal 0,001 g 
+- Chloorhexidinedigluconaat opl. 20% 0,025 g 
+- Natrium EDTA 0,1 g 
+- Hydroxyethylcellulose 1,0 g 
+- Boorzuur 1,5 g 
+- Borax 0,35 g 
+- Water tot 100 ml 
+- Solutio detergens et conservans ad lentes duras FNA 
+
+R/ 
+
+- Benzalkoniumchloride 20 mg 
+- Natrium EDTA 0,40 g 
+- Octoxynolum 9 (Triton X-100) 1,0 g 
+- Borax 0,20 g 
+- Water tot 200 ml
+
+### Aanstipvloeistoffen 
+Aanstipvloeistoffen of topica zijn oplossingen die op het mondslijmvlies worden aangestipt teneinde er een lokale werking uit te oefenen. 
+
+R/ Tinctura contra gingivitem FN 6
+
+- Mirretinctuur 15 ml 
+- Ratanhia tinctuur 15 ml 
+
+R/ Solutio acriflavini et lidocaini NRF 
+
+- Acriflavinechloride 50 mg 
+- Lidocaïnehydrochloride 50 mg 
+- Glycerol 85% tot 100 g
+
+### Keelinstrijksels 
+Keelinstrijksels of collutoria zijn dikvloeibare bereidingen waarmede het  slijmvlies van mond- en keelholte voor lokale behandeling wordt ingestreken.  De basisvloeistof is meestal glycerol.
+
+R/ Collutorium MFS
+
+- Benzalkoniumchloride 300 mg 
+- Muntspiritus BF V 300 mg 
+- Natriumsulfacetamide 300 mg 
+- Water 6 g 
+- Glycerol tot 30 g 
+
+R/ Collutorium acidi citrici NRF
+
+- Citroenzuur anh. 1 g 
+- Water 14,5 g 
+- Sinaasappelaroma 10 mg 
+- Glycerol 85 % tot 100 g 
+Opmerking: af te leveren met een depper. 
+
+R/ Collutorium dequalinii FN 6 
+- Dequaliniumhydrochloride 300 mg 
+- Propyleenglycol tot 60 ml  
+
+### Gorgeldranken voor orofaryngeaal gebruik
+Aangewend voor de lokale profylaxie en behandeling van keelinfecties. Meestal worden geconcentreerde oplossingen bereid, die vóór gebruik verdund dienen te worden volgens de opgegeven aanduidingen. 
+
+R/ Phenosalylum BF IV 
+
+- Benzofenol 180 g 
+- Salicylzuur 20 g 
+- Melkzuur 40 g 
+- Glycerol 200 g 
+- Natriumboraat 5 g 
+- Menthol 1 g 
+- Eucalyptol 0,6 g 
+- Citroenolie 0,6 g 
+- Water 552,8 g 
+
+Gebruik: 2 proc. in muntwater. 
+
+R/ Gargarisma concentrata phenosalyli FN 6 
+
+- Fenosalyl BF IV 2 g 
+- Resorcinol 5 g 
+- Procaïnehydrochloride 0,1 g 
+- Alcohol 5 g 
+- Glycerol 20 g 
+- Muntwater tot 100 ml 
+
+Gebruik: 1 soeplepel verdunnen met 5 soeplepels water.
+
+### Hydrocortisone in een orale suspensie met verdoezeling van de bittere smaak voor kinderen
+R/ 
+
+- hydrocortisone 20 mg 
+- propyleenglycol 1 ml 
+- xanthaangom 250 mg 
+- water 25 g 
+- Nesquick 1 afgestreken soeplepel 
+- Enkelvoudige siroop ad 100 ml
+
+### Carnoy’s solution 
+Voor nabehandeling van keratocysten peroperatief. 
+
+R/
+
+- chloroform 3ml 
+- absolute ethanol 6ml  
+- glacial acetic acid 1ml
+- ferric chloride 1g
+  
+Na gebruik de cyste overvloedig spoelen.
+
+### Whitehead’s Varnish
+Dient om een wiek in te drenken alvorens in een cyste of in een abces te stoppen met een luniatchek.
+
+R/
+- Jodoform 10g
+- Benzoë 10g
+- Styrax (pantaardige harssoort) 7,5 g
+- Tolu-balsem 5 g
+- Opgelost in ether en met ether aangevuld tot 100 ml
+
+### Jodoform-vaseline
+Dient om een wiek in te drenken alvorens in een cyste of in een abces te stoppen met een luniatchek.
+
+R/
+
+- Jodoform 5%
+- Sulfathiazol
+- Vaseline aseptisch bereid
+
+In koelkast bewaren
+
+### Gevoelige tandhalzen
+R/
+
+- Duraphat®  50mg/ml
+- Suspensie voor dentaal gebruik
+
+Het werkzame bestanddeel is natriumfluoride. 1 ml Duraphat suspensie voor dentaal gebruik bevat 50 mg natriumfluoride, overeenkomend met 22,6 mg fluoride, gesuspendeerd in een alcoholische  oplossing van natuurlijke harsen.
+
+De andere stoffen in dit middel zijn:
+
+- ethanol 96%
+- witte bijenwas E901
+- shellak E904 
+- colofonium 
+- mastiek
+- saccharine E954
+- frambozenextract
+
+De verpakking (tube) van dit geneesmiddel bevat latex rubber.
+
+### Smaakstoornissen
+R/ Zincotab ® (bevat 25 mg elementair zink)  
+DT/30 tabletten  
+S/ 1x/dag gedurende één maand  
+Zinksulfaat capsules 220 mg bevatten 50 mg elementair zink.
+
+### Retrograde vullingsmaterialen
+Biodentine®  
+Producent Septodont: tricalcium silicaat cement (Ca3SiO5) bestaat uit poeder en vloeistof:
+
+Poeder:
+
+- Tricalcium silicate (3CaO.SiO2)
+- Calcium carbonate (CaCO3)
+- Zirconium dioxide (ZrO2)
+
+Vloeistof:
+
+- Calcium chloride (CaCl2.2H2O)
+- Water reducing agent
+- Water
+- Zinkoxyde-eugenol-cement ( IRM )
+- Super EBA cement 
+- Cavit
+- zinkpolycarboxylaat cement
+- zink phosphaat cement 
+- glasionomeer cement
+- mineral trioxide aggregate (MTA)
+- calcium phosphate cement
+
+## Tetanusvaccinatie bij wondes
+Vaccinatie tegen tetanus bij wonden (bron: Hoge Gezondheidsraad)
+
+- Boostrix (difterie-anatoxine, tetanus-anatoxine, bordetella pertussis-antigenen)
+- Tetagam: tetanus-immuunglobulinen
+
+|Vaccinatiestatus                            |Oppervlakkige en schone wonde                 |Wonde met risico van tetanus^1^                                                |
+|:-------------------------------------------|:---------------------------------------------|:----------------------------------------------------------------------------|
+|Geen of onzekere vaccinatie                 |Volledige primovaccinatie^2^                    |Volledige primovaccinatie2 + specifieke immunoglobulinen^3^                    |
+|Onvolledige primovaccinatie                 |Vaccinatieschema afwerken                     |Vaccinatieschema afwerken + specifieke immunoglobulinen^3^                     |
+|Volledige primovaccinatie                   |NA                                            |NA                                                                           |
+|– Laatste vaccinatie < 5 jaar               |NA                                            |NA                                                                           |
+|– Laatste vaccinatie > 5 jaar en < 10 jaar  |NA                                            |1 dosis van het vaccin                                                       |
+|– Laatste vaccinatie > 10 jaar en < 20 jaar |1 dosis van het vaccin                        |1 dosis van het vaccin + specifieke immunoglobulinen^3^                        |
+|– Laatste vaccinatie > 20 jaar              |2 doses van het vaccin met 6 maanden interval |2 doses van het vaccin met 6 maanden interval + specifieke immunoglobulinen^3^ |
+
+^1^ Kneus- of verbrijzelingswonden, bijtwonden, prikwonden door houtsplinters of doornen, wonden bevuild met aarde of dierlijke uitwerpselen, wonden die meer dan 6 uur werden verwaarloosd  
+^2^ Vaccin tegen tetanus-difterie-kinkhoest: 2 injecties met een maand interval, gevolgd door een derde injectie 6 tot 12 maanden later  
+^3^ Specifieke immunoglobulinen
 
 
