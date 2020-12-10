@@ -204,6 +204,22 @@ Table: Trileptal® (Oxcarbazepine)
 |Day 15-31 |1 x 600 mg |/    |1 x 600 mg |
 |Day 32-39 |1 x 600 mg |/    |2 x 600 mg |
 
+#### Combineren van neuroleptica
+Table: Combineren van neuroleptica
+
+|Pregabalin/gabapentin combined with:         |CDC rating of scientific evidence |RCTs testing the combination                       |Clinical practice experience concerning combinations                                                                                                                                                     |
+|:--------------------------------------------|:---------------------------------|:--------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|TCAs                                         |I + A                             |Gilron et al10 and Holbech et al11                 |Combination well documented. Most with peripheral NeP. Useful combination for patients who do not tolerate either drug in larger doses, as well as sedative effect from TCA to improve sleep disturbance |
+|SNRIs                                        |I/II + B/C                        |Tesfaye et al12 and Tannenberg et al13             |Combination reasonably well documented. Used by some of the experts with good effect and fewer side effects than with TCA                                                                                |
+|SSRIs                                        |III + C                           |None                                               |Insufficient evidence available. SSRIs not relevant in the treatment of NeP                                                                                                                              |
+|Opioidsa                                     |I + B                             |Gilron et al16, Hanna et al17 and Caraceni et al18 |Good evidence to support combination therapy. Frequently used in daily clinical practice                                                                                                                 |
+|Other antiepilepticsb (Na+ channel blockers) |C                                 |None                                               |Insufficient evidence available. Combination could work in theory due to different mechanisms of action. Limited clinical experience                                                                     |
+|Cutaneous patches                            |I + A/C                           |Casale et al,19 Meier et al20 and Irving et al21   |Mixed evidence and results for localized NeP. Patches add-on to oral therapy are used by some experts with good effect                                                                                   |
+|Others                                       |C                                 |None                                               |Insufficient evidence and clinical practice available                                                                                                                                                    |
+Notes:aIncluding synthetics.bMainly sodium channel blockers, but also multiple mode of action drugs (valproic acid and topiramate).
+
+Abbreviations: CDC, Centers for Disease Control and Prevention; NeP, neuropathic pain; RCTs, randomized controlled trials; SNRIs, serotonin-noradrenaline reuptake inhibitors; SSRIs, selective serotonin reuptake inhibitors; TCAs, tricyclic antidepressants
+
 ## Antibiotica
 
 [AB-gids UZ Leuven](https://files.uzleuven.be/antibioticagids/2019/index.html)
@@ -1086,6 +1102,29 @@ Vloeistof:
 - glasionomeer cement
 - mineral trioxide aggregate (MTA)
 - calcium phosphate cement
+
+### Indomethacine
+R/ Magistral preparation indomethacin 25 mg pro gelula una  
+DT/ 60 capsules  
+S/ according to the schedule below  
+
+
+Day 1-3: 3×25 mg  
+If no response or limited response, continue with:  
+Day 4: 4×25 mg (spread over 3 moments, preferable with meals)  
+Day 5: 5×25 mg (spread over 3 moments, preferable with meals)  
+Day 6-10: 6×25 mg (spread over 3 moments, preferable with meals)  
+Reevaluation at the doctor  
+If high index or suspicion continue with:  
+Day 11-20: further increase with 25 mg every 2 days to 225 mg / day over 3 moments, preferable with meals  
+  
+  
+R/ omeprazole 20 mg  
+DT/ large box  
+S/ 1 Co / d  
+
+We prefer to build up the dose in increments or 25 mg per two days. We associated a proton pump inhibitor to prevent gastric side effects.
+The starting dose of indomethacin is 75 mg daily in three divided doses (ie, 25 mg three times a day). The indomethacin dose should be increased to 150 mg daily in three divided doses for 3 to 10 days if there is no response or a partial response to the starting dose after three days. The dose should be further increased to 225 mg daily in three divided doses for 10 days for partial responders if the index of suspicion is high.
 
 ## Tetanusvaccinatie bij wondes
 Vaccinatie tegen tetanus bij wonden (bron: Hoge Gezondheidsraad)
