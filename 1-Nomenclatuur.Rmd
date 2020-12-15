@@ -13,19 +13,18 @@ reactable(
   bordered = TRUE,
   resizable = TRUE, 
   wrap = TRUE,
-  groupBy = "Cat",
   columns = list(
-    Cat = colDef(aggregate = "count", width = 200),
-    Subcat = colDef(aggregate = "count", width = 100),
-    AMB = colDef(aggregate = "count", width = 100),
-    HOS = colDef(aggregate = "count", width = 100),
-    Code = colDef(aggregate = "count", width = 80),
-    Weging = colDef(aggregate = "count", width = 80),
+    Cat = colDef(width = 200),
+    Subcat = colDef(width = 100),
+    AMB = colDef(width = 100),
+    HOS = colDef(width = 100),
+    Code = colDef(width = 80),
+    Weging = colDef(width = 80),
     Waarde = colDef(format = colFormat(prefix = "€", separators = FALSE, digits = 2)),
-    Acta = colDef(aggregate = "count", width = 80),
-    Uitleg = colDef(aggregate = "count", width = 500),
-    Libelé = colDef(aggregate = "count", width = 500),
-    Commentaar = colDef(aggregate = "count", width = 500)
+    Acta = colDef(width = 80),
+    Uitleg = colDef(width = 500),
+    Libelé = colDef(width = 500),
+    Commentaar = colDef(width = 500)
   )
 )
 ```
