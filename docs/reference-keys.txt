@@ -101,9 +101,12 @@ fig:unnamed-chunk-20
 fig:unnamed-chunk-21
 fig:unnamed-chunk-22
 fig:unnamed-chunk-23
+<<<<<<< HEAD
 academisering
 overzicht-examenvragen
 tweede-jaar
 welke-criteria-bestaan-voor-een-extraorale-incisie-als-drainage-voor-dentoalveolaire-abcessen-in-de-onderkaak-welke-criteria-bestaan-voor-een-extraorale-incisie-als-drainage-voor-dentoalveolaire-abcessen-in-de-onderkaak
 vierde-jaar
 welke-criteria-bestaan-voor-een-extraorale-incisie-als-drainage-voor-dentoalveolaire-abcessen-in-de-onderkaak
+=======
+>>>>>>> 81813062b2de9f05523e029826c28d9e8a505eed
