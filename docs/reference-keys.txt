@@ -1,7 +1,7 @@
 fig:unnamed-chunk-1
 fig:unnamed-chunk-2
 inleiding
-anatomie
+nomenclatuur
 medicaties-in-mka
 pijnstilling
 algemene-richtlijnen
@@ -11,6 +11,7 @@ sterke-opoïden
 neuropathische-pijn
 acuut-zenuwletsel
 chronisch-neuropathische-pijn
+combineren-van-neuroleptica
 antibiotica
 principes-van-verantwoord-therapeutisch-antibioticagebruik
 verantwoordelijke-kiemen
@@ -68,7 +69,10 @@ jodoform-vaseline
 gevoelige-tandhalzen
 smaakstoornissen
 retrograde-vullingsmaterialen
+indomethacine
 tetanusvaccinatie-bij-wondes
+anatomie
+speekselklieren
+embryologie
+informed-consent
 trigeminus-letsels
-overzicht-courante-orofaciale-pijn-medicaties
-combineren-van-neuroleptica

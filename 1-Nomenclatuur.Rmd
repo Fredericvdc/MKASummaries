@@ -1,0 +1,31 @@
+# Nomenclatuur
+```{r nomensoft, echo=FALSE}
+library("readxl")
+library("reactable")
+data <- read_excel("Nomenclatuur.xlsx")
+reactable(
+  data,
+  pagination = FALSE,
+  filterable = TRUE,
+  searchable = TRUE,
+  striped = TRUE,
+  highlight = TRUE,
+  bordered = TRUE,
+  resizable = TRUE, 
+  wrap = TRUE,
+  groupBy = "Cat",
+  columns = list(
+    Cat = colDef(aggregate = "count", width = 200),
+    Subcat = colDef(aggregate = "count", width = 100),
+    AMB = colDef(aggregate = "count", width = 100),
+    HOS = colDef(aggregate = "count", width = 100),
+    Code = colDef(aggregate = "count", width = 80),
+    Weging = colDef(aggregate = "count", width = 80),
+    Waarde = colDef(format = colFormat(prefix = "€", separators = FALSE, digits = 2)),
+    Acta = colDef(aggregate = "count", width = 80),
+    Uitleg = colDef(aggregate = "count", width = 500),
+    Libelé = colDef(aggregate = "count", width = 500),
+    Commentaar = colDef(aggregate = "count", width = 500)
+  )
+)
+```

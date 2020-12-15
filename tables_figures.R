@@ -8,3 +8,5 @@ knitr::kable(tegretol_optie_1, caption = "Tegretol® Optie 1 (Carbamazepine)")
 knitr::kable(tegretol_optie_2, caption = "Tegretol® Optie 2 (Carbamazepine)")
 knitr::kable(trileptal, caption = "Trileptal® (Oxcarbazepine)")
 knitr::kable(mrcs, caption = "MRCS")
+knitr::kable(combining_neuroleptica, caption = "Combineren van neuroleptica")
+
