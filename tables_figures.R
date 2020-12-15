@@ -10,3 +10,6 @@ knitr::kable(trileptal, caption = "Trileptal® (Oxcarbazepine)")
 knitr::kable(mrcs, caption = "MRCS")
 knitr::kable(combining_neuroleptica, caption = "Combineren van neuroleptica")
 
+```{r echo=FALSE, out.width = "20%", fig.align="center", fig.cap='QST Flowchart'}
+knitr::include_graphics('figures/logo-mka.png')
+```
