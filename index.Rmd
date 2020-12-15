@@ -5,6 +5,11 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
+
 # Inleiding
+```{r echo=FALSE, out.width = "20%", fig.align="center"}
+knitr::include_graphics('figures/logo-mka.png')
+```
+   
 Dit zijn samenvattingen voor de Mond-, Kaak-, en Aangezichtschirurg. Veel van de informatie is gebaseerd op de meest recente cursus MKA van Leuvens diensthoofd prof. dr. C. Politis. Hiermee hoop ik de clinicus snel de correcte informatie aan te bieden. Voor de ASO's en AST's moet dit het verwerken van de leerstof vereenvoudigen. 
 
