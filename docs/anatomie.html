@@ -11,7 +11,7 @@
   <meta property="og:title" content="Hoofdstuk 4 Anatomie | Compendium MKA" />
   <meta property="og:type" content="book" />
   
-  
+  <meta property="og:image" content="figures/logo-mka.png" />
   
   
 
@@ -19,12 +19,12 @@
   <meta name="twitter:title" content="Hoofdstuk 4 Anatomie | Compendium MKA" />
   
   
-  
+  <meta name="twitter:image" content="figures/logo-mka.png" />
 
 <meta name="author" content="dr. Fréderic Van der Cruyssen" />
 
 
-<meta name="date" content="2020-12-15" />
+<meta name="date" content="2020-12-17" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -32,7 +32,7 @@
   
   
 <link rel="prev" href="medicaties-in-mka.html"/>
-<link rel="next" href="speekselklieren.html"/>
+<link rel="next" href="academisering.html"/>
 <script src="libs/jquery-2.2.3/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
@@ -51,6 +51,12 @@
 
 
 <script src="libs/accessible-code-block-0.0.1/empty-anchor.js"></script>
+<script src="libs/core-js-2.5.3/shim.min.js"></script>
+<script src="libs/react-16.12.0/react.min.js"></script>
+<script src="libs/react-16.12.0/react-dom.min.js"></script>
+<script src="libs/reactwidget-1.0.0/react-tools.js"></script>
+<script src="libs/htmlwidgets-1.5.3/htmlwidgets.js"></script>
+<script src="libs/reactable-binding-0.2.3/reactable.js"></script>
 
 
 
@@ -150,11 +156,13 @@
 <li class="chapter" data-level="4.1.4" data-path="anatomie.html"><a href="anatomie.html#de-schedelbeenderen"><i class="fa fa-check"></i><b>4.1.4</b> De schedelbeenderen</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="5" data-path="speekselklieren.html"><a href="speekselklieren.html"><i class="fa fa-check"></i><b>5</b> Speekselklieren</a><ul>
-<li class="chapter" data-level="5.1" data-path="speekselklieren.html"><a href="speekselklieren.html#embryologie"><i class="fa fa-check"></i><b>5.1</b> Embryologie</a></li>
-<li class="chapter" data-level="5.2" data-path="speekselklieren.html"><a href="speekselklieren.html#informed-consent"><i class="fa fa-check"></i><b>5.2</b> Informed consent</a></li>
+<li class="chapter" data-level="5" data-path="academisering.html"><a href="academisering.html"><i class="fa fa-check"></i><b>5</b> Academisering</a></li>
+<li class="chapter" data-level="6" data-path="render-function.html"><a href="render-function.html"><i class="fa fa-check"></i><b>6</b> Render function</a></li>
+<li class="chapter" data-level="7" data-path="speekselklieren.html"><a href="speekselklieren.html"><i class="fa fa-check"></i><b>7</b> Speekselklieren</a><ul>
+<li class="chapter" data-level="7.1" data-path="speekselklieren.html"><a href="speekselklieren.html#embryologie"><i class="fa fa-check"></i><b>7.1</b> Embryologie</a></li>
+<li class="chapter" data-level="7.2" data-path="speekselklieren.html"><a href="speekselklieren.html#informed-consent"><i class="fa fa-check"></i><b>7.2</b> Informed consent</a></li>
 </ul></li>
-<li class="chapter" data-level="6" data-path="trigeminus-letsels.html"><a href="trigeminus-letsels.html"><i class="fa fa-check"></i><b>6</b> Trigeminus letsels</a></li>
+<li class="chapter" data-level="8" data-path="trigeminus-letsels.html"><a href="trigeminus-letsels.html"><i class="fa fa-check"></i><b>8</b> Trigeminus letsels</a></li>
 <li class="divider"></li>
 <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
 
@@ -222,7 +230,7 @@ het os parietale) en
 </ul>
 <p>In de sutura lambdoidea vindt men soms kleine botstukjes, de zogenaamde ossa suturalia of incabeentjes.
 Het snijpunt van de sutura sagittalis met de sutura coronalis wordt het bregma genoemd; het snijpunt van de sutura sagittalis met de sutura lambdoidea is het lambda.</p>
-<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-2"></span>
+<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-3"></span>
 <img src="figures/zijaanzicht-schedel.png" alt="Zijaanzicht schedel" width="100%" />
 <p class="caption">
 Figure 4.1: Zijaanzicht schedel
@@ -233,7 +241,7 @@ In het hoofd bestaan twee soorten ‘sinussen’: een aantal schedelbotjes (maxi
 Venae emissariae zijn venen die door openingen in de schedel lopen en de intracraniële sinussen verbinden met extracraniële venen. Sommige van deze venen (met bijbehorend foramen emissarium) zijn constant, andere zijn soms afwezig. De aanwezigheid van deze verbindingen heeft zowel voor- als nadelen: in geval van stuwing in de bloedvaten van de hersenen kan bloed naar extracranieel afvloeien. Anderzijds vormen deze verbindingen een weg waarlangs infecties vanaf de hoofdhuid kunnen uitbreiden naar de hersenvliezen en hersenvliesontsteking of meningitis veroorzaken.</p>
 <div id="voorzijde-van-de-schedel-norma-facialis" class="section level3">
 <h3><span class="header-section-number">4.1.1</span> Voorzijde van de schedel (norma facialis)</h3>
-<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-3"></span>
+<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-4"></span>
 <img src="figures/voorzijde-schedel.png" alt="Voorzijde schedel" width="100%" />
 <p class="caption">
 Figure 4.2: Voorzijde schedel
@@ -250,7 +258,7 @@ Figure 4.2: Voorzijde schedel
 - de beide maxillae, ossa zygomatica en nasalia die het bovenste deel van het aangezicht voor hun rekening nemen
 - de mandibula die het onderste deel ervan vormt.</p>
 <p>Het voorhoofd (frons) wordt gevormd door de squama van het frontale. Deze squama eindigt in de margo supraorbitalis, de bovenrand van de oogkas.</p>
-<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-4"></span>
+<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-5"></span>
 <img src="figures/oogkas.png" alt="Oogkas" width="100%" />
 <p class="caption">
 Figure 4.3: Oogkas
@@ -271,7 +279,7 @@ Min of meer verticaal op één lijn liggen drie openingen waardoor cutane eindta
 </div>
 <div id="de-laterale-zijde-van-de-schedel-norma-lateralis" class="section level3">
 <h3><span class="header-section-number">4.1.2</span> De laterale zijde van de schedel (norma lateralis)</h3>
-<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-5"></span>
+<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-6"></span>
 <img src="figures/zijaanzicht-schedel.png" alt="Zijaanzicht schedel" width="100%" />
 <p class="caption">
 Figure 4.4: Zijaanzicht schedel
@@ -300,7 +308,7 @@ boogvormig over het buitenoppervlak van het os parietale loopt) en onderaan door
 </div>
 <div id="de-schedelbasis" class="section level3">
 <h3><span class="header-section-number">4.1.3</span> De schedelbasis</h3>
-<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-6"></span>
+<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-7"></span>
 <img src="figures/schedelbasis.png" alt="schedelbasis" width="100%" />
 <p class="caption">
 Figure 4.5: schedelbasis
@@ -361,13 +369,13 @@ nasalia, processus frontalis van de maxilla en ossa lacrimalia en</li>
 <li>de hierachtergelegen incisura ethmoidalis waarin de lamina cribrosa van het ethmoid
 past.</li>
 </ol>
-<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-7"></span>
+<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-8"></span>
 <img src="figures/os-frontale-1.png" alt="Os frontale" width="100%" />
 <p class="caption">
 Figure 4.6: Os frontale
 </p>
 </div>
-<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-8"></span>
+<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-9"></span>
 <img src="figures/os-frontale-2.png" alt="Os frontale" width="100%" />
 <p class="caption">
 Figure 4.7: Os frontale
@@ -391,13 +399,13 @@ De jukbogen zijn de wijdste delen van de schedel en worden bij schedeltraumata g
 <li>processus alveolaris</li>
 </ul></li>
 </ul>
-<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-9"></span>
+<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-10"></span>
 <img src="figures/maxilla-boven.png" alt="Maxilla bovenaanzicht" width="100%" />
 <p class="caption">
 Figure 4.8: Maxilla bovenaanzicht
 </p>
 </div>
-<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-10"></span>
+<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-11"></span>
 <img src="figures/maxilla-onder.png" alt="Maxilla onderaanzicht" width="100%" />
 <p class="caption">
 Figure 4.9: Maxilla onderaanzicht
@@ -409,7 +417,7 @@ De processus zygomaticus is een kort en breed uitsteeksel naar lateraal, dat art
 <p>Het os nasale is een langwerpig beenplaatje dat zowel qua lengte als qua breedte sterke individuele en raciale verschillen vertoont. De beide ossa nasalia vormen samen de nok van het neusdak. Bovenaan articuleren zij met de pars nasalis van het os frontale, lateraal met de processus frontalis van de maxilla en in de middellijn met elkaar.</p>
 <p>Het platte, vierhoekige beentje, onmiddellijk achter de processus frontalis van de maxilla gelegen, is het os lacrimale. Het laterale oppervlak of buitenzijde ervan maakt deel uit van de mediale orbitawand en vertoont een verticale beenkam, de crista lacrimalis posterior. Deze kam vormt samen met de crista lacrimalis anterior van de processus frontalis van de maxilla de fossa sacci lacrimalis, waarin de traanzak ligt.</p>
 <p>De vomer is een plat beentje met de vorm van een scherp trapezium waarvan de scherpste punt vooraan ligt. De vomer vormt het achterste-onderste gedeelte van het benige neustussenschot. Het ligt tussen het corpus van het os sphenoidale (bovenaan) en het harde verhemelte (onderaan). Het bovenste gedeelte van zijn voorrand articuleert met de lamina perpendicularis van het ethmoid.</p>
-<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-11"></span>
+<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-12"></span>
 <img src="figures/vomer.png" alt="Vomer" width="100%" />
 <p class="caption">
 Figure 4.10: Vomer
@@ -419,25 +427,25 @@ Figure 4.10: Vomer
 Deze incisura wordt door het corpus van het sphenoid omgevormd tot het foramen sphenopalatinum.</p>
 <p>De concha nasalis inferior is een apart beenstukje met de vorm van een mosselschelp. De convexe kant ervan is naar de neusholte gericht. Het is met zijn bovenrand bevestigd aan het ethmoidale labyrinth, aan de maxilla en aan lamina perpendicularis van het os palatinum.</p>
 <p>De mandibula bestaat uit een hoefijzervormig lichaam en twee verticale rami. De mandibula wordt gepaard aangelegd maar nog voor de geboorte vergroeien de twee helften met mekaar. Deze vergroeiing is meestal voltooid vóór de zesde levensmaand, wanneer de centrale melksnijtanden in de onderkaak doorbreken.</p>
-<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-12"></span>
+<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-13"></span>
 <img src="figures/mandibula-voor.png" alt="Mandibula vooraanzicht" width="100%" />
 <p class="caption">
 Figure 4.11: Mandibula vooraanzicht
 </p>
 </div>
-<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-13"></span>
+<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-14"></span>
 <img src="figures/mandibula-onder.png" alt="Mandibula onderaanzicht" width="100%" />
 <p class="caption">
 Figure 4.12: Mandibula onderaanzicht
 </p>
 </div>
-<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-14"></span>
+<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-15"></span>
 <img src="figures/mandibula-zij.png" alt="Mandibula zijaanzicht" width="100%" />
 <p class="caption">
 Figure 4.13: Mandibula zijaanzicht
 </p>
 </div>
-<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-15"></span>
+<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-16"></span>
 <img src="figures/mandibula-binnen.png" alt="Mandibula binnenaanzicht" width="100%" />
 <p class="caption">
 Figure 4.14: Mandibula binnenaanzicht
@@ -454,7 +462,7 @@ De ramus mandibulae eindigt in twee uitsteeksels, processus coronoideus en proce
 De vier hoeken liggen elk op een fysisch-anthropologisch belangrijk punt: de angulus frontalis bij het bregma; de angulus occipitalis bij het lambda; de angulus sphenoidalis bij het pterion en de angulus mastoideus bij het asterion.
 Het pterion is klinisch belangrijk omdat de voorste en grootste (frontale) tak van de a. meningea media daar in een groeve over de binnenzijde van de zijwand van de schedel loopt. Zij wordt gemakkelijk gescheurd bij fracturen van de botstukken die samenkomen in het pterion. Het gevolg is een extraduraal hematoom dat door zijn omvang druk kan uitoefenen op het omgevende hersenweefsel.
 Het pterion is ook een nuttig landmerk voor bepaalde delen van de hersenen. Zo geeft de lijn die de frontozygomatische sutuur verbindt met het pterion het niveau aan van het ondervlak van de frontale hersenlobben.</p>
-<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-16"></span>
+<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-17"></span>
 <img src="figures/zijaanzicht-schedel.png" alt="Schedel zijaanzicht" width="100%" />
 <p class="caption">
 Figure 4.15: Schedel zijaanzicht
@@ -472,7 +480,7 @@ Figure 4.15: Schedel zijaanzicht
 <p>De processus mastoideus is eigenlijk een deel van de pars petrosa: men spreekt in sommige boeken van het petro-mastoid gedeelte. Het is ook embryonaal geen afzonderlijke entiteit: de massa begint zich pas na de geboorte te ontwikkelen.
 De processus styloideus die wel vastzit aan het volwassen temporaalbeen, is eigenlijk geen deel ervan. Het wordt slechts door de pars tympanica omsloten. Het is het verbeende kraakbenige steunelement van de tweede kieuwboog (kraakbeen van Reichert).
 De benige componenten van het os temporale vergroeien met elkaar. Toch vindt men in de volwassen schedel nog aanduidingen van de oorspronkelijke grenzen.</p>
-<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-17"></span>
+<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-18"></span>
 <img src="figures/os-temporale.png" alt="Os temporale" width="100%" />
 <p class="caption">
 Figure 4.16: Os temporale
@@ -488,7 +496,7 @@ mandibularis en vóór de uitwendige gehoorgang gelegen.</li>
 <li>De achterste ‘wortel’ is de crista supramastoidea die boven de uitwendige gehoorgang naar achter loopt</li>
 </ol>
 <p>Tussen de achterzijde van de uitwendige gehoorgang en de crista ligt de area waaronder het antrum mastoideum ligt. Dit antrum is een uitbreiding van de trommelholte en in de levende bekleed met slijmvlies dat continu is met het slijmvlies van het middenoor. Het antrum is verbonden met het bovenste gedeelte (recessus epitympanicus) van de trommelholte (cavitas tympanica of cavum tympani) via een nauw gangetje de zogenaamde aditus ad antrum.</p>
-<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-18"></span>
+<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-19"></span>
 <img src="figures/mastoid.png" alt="Mastoid" width="100%" />
 <p class="caption">
 Figure 4.17: Mastoid
@@ -538,13 +546,13 @@ het bot is een ruimte die in verbinding staat met de subarachnoidale ruimte</li>
 </ul>
 <p>Het os sphenoidale bestaat uit een enkelvoudig en centraal gelegen corpus, een linker- en rechterala major, een linker- en rechter- ala minor en een naar onder uitstrekkende linker- en rechter-processus pterygoideus. Het been werd van oudsher vergeleken met een vleermuis of een katuiltje dat zijn vleugels spreidt. Het corpus vormt de kop en het lichaam, de alae majores de vleugels, de alae minores de oren en de processus pterygoidei de poten van het uiltje. Dit beeld is natuurlijk enkel duidelijk op een geïsoleerd been of op een A/P radiografie.
 Het os sphenoidale ligt in het midden ingewigd tussen ethmoid en occipitale en aan weerszijden tussen temporale en frontale, vandaar zijn naam: “wiggebeen”.</p>
-<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-19"></span>
+<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-20"></span>
 <img src="figures/os-sphenoidale-voor.png" alt="Os sphenoidale vooraanzicht" width="100%" />
 <p class="caption">
 Figure 4.18: Os sphenoidale vooraanzicht
 </p>
 </div>
-<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-20"></span>
+<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-21"></span>
 <img src="figures/os-sphenoidale-achter.png" alt="Os sphenoidale achteraanzicht" width="100%" />
 <p class="caption">
 Figure 4.19: Os sphenoidale achteraanzicht
@@ -577,7 +585,7 @@ Het laterale oppervlak van het labyrinth vormt een deel van de mozaïek van de m
 <li>de pars basilaris (vóór het foramen magnum).</li>
 </ul>
 <p>De squama occipitalis is convex naar buiten en ongeveer in het midden ligt op de buitenzijde de protuberantia occipitalis externa . De kam, die van hier af naar het foramen magnum loopt, is de crista occipitalis externa. Vanaf de protuberantia en de crista vertrekken drie boogvormige horizontale lijnen. Dit zijn de linea nuchalis suprema en superior, die beide uitgaan van de protuberantia en de linea nuchalis inferior, die in het midden van de crista vertrekt. Het inwendige aspect van de squama occipitalis wordt beschreven bij de achterste schedelfossa (zie basis cranii interna).</p>
-<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-21"></span>
+<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-22"></span>
 <img src="figures/zijaanzicht-schedel.png" alt="Os parietale" width="100%" />
 <p class="caption">
 Figure 4.20: Os parietale
@@ -589,7 +597,7 @@ De pars basilaris raakt de achterzijde van het corpus van het sphenoid. Deze ver
 Aan de onderzijde van de pars basilaris is een min of meer duidelijk tuberculum pharyngeum aanwezig, waarop de raphe pharyngis vastzit.
 De structuren die door het foramen magnum lopen, werden beschreven bij de achterste schedelfossa.</p>
 <p>Het os hyoideum is bij de mens een rudimentair been en heeft de vorm van een miniatuur hoefijzer. Het bestaat uit een corpus, twee grote hoornen, die naar achter uitsteken (cornua majora) en vooraan op het bovenvlak twee kleine hoornen (cornua minora) die in de levende vaak op kraakbeen eindigen. De verbinding tussen tongbeen en omgeving gebeurt enkel door spieren en ligamenten, vandaar zijn grote beweeglijkheid.</p>
-<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-22"></span>
+<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-23"></span>
 <img src="figures/hyoid.png" alt="Os hyoideum" width="100%" />
 <p class="caption">
 Figure 4.21: Os hyoideum
@@ -605,7 +613,7 @@ Figure 4.21: Os hyoideum
         </div>
       </div>
 <a href="medicaties-in-mka.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-<a href="speekselklieren.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="academisering.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
