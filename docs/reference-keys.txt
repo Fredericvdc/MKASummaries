@@ -21,7 +21,6 @@ fig:unnamed-chunk-21
 fig:unnamed-chunk-22
 fig:unnamed-chunk-23
 fig:unnamed-chunk-24
-fig:unnamed-chunk-25
 inleiding
 nomenclatuur
 medicaties-in-mka
@@ -100,7 +99,6 @@ de-laterale-zijde-van-de-schedel-norma-lateralis
 de-schedelbasis
 de-schedelbeenderen
 academisering
-render-function
 speekselklieren
 embryologie
 informed-consent
