@@ -5,7 +5,8 @@ library("reactable")
 data <- read_excel("Nomenclatuur.xlsx")
 reactable(
   data,
-  pagination = FALSE,
+  pagination = TRUE,
+  showPageSizeOptions = TRUE,
   filterable = TRUE,
   searchable = TRUE,
   striped = TRUE,
