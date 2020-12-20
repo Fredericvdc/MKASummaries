@@ -469,3 +469,53 @@
   - NIET-overerfbaar syndroom
 - Diagnose
   - MRI + IV Gadolinium contrast
+  
+## Hemifaciale microsomie
+
+### Pruzansky classificatie
+- I	Minimum mandibular hypoplasia with all structures present
+- II	Condyle, ramus and sigmoid notch are present, but with serious alteration in shape and size 
+- III	Mandibular ramus can be reduced to a small thin layer of bone, or does not exist
+
+### Purzanksy-Kaban classificatie
+- I	Mandibular morphology is normal but small.
+- IIA	Mandibular ramus is short but of abnormal size: glenoid cavity in right position and functional.
+- IIB	Glenoid cavity is in an altered position, in inferior, medial, and anterior position.
+- III	Absence of temporomandibular joint (TMJ)
+
+### Omens classificatie
+**O: Asymmetry of the orbit**
+
+- O0	Orbit with normal size and position
+- O1	Abnormal orbital size
+- O2	Abnormal orbital position (place a position arrow, e.g.: O2↑ for upper, O2↓ for lower)
+- O3	Abnormal orbital size and position
+
+**M: Mandibular hypoplasia**
+
+- M0	Normal mandible 
+- M1	The mandible and glenoid fossa are small, with a short ramus 
+- M2A	The glenoid fossa has an anatomically acceptable position with reference to the opposite TMJ
+- M2B	The TMJ is displaced in a lower, medial and anterior way with a severely hypoplastic condyle
+- M3	There is a complete absence of ramus, glenoid fossa and TMJ
+
+**E: Deformity of the outer ear**
+
+- E0	Normal Ear
+- E1	Mild hypopasia but all structures are present
+- E2	Absence of the external auditory canal with variable hypoplasia of the shell
+- E3	Lobe poorly positioned with absence of ear. Lobar remnant is generally moved towards a lower anterior position
+
+**N: Nerve involvement**
+
+- N0	There is no facial nerve involvement
+- N1	Upper involvement of facial nerve (temporal and zygomatic rami)
+- N2	Lower involvement of facial nerve (buccal, mandibular and cervical rami)
+- N3	All rami of facial nerve are affected. Other nerves can be involved, such as trigeminal (sensory), hypoglossal and other cranial nerves
+
+**S: Deficiency in soft tissue**
+
+- S0	There is no deficiency of soft tissue nor muscle deficiency
+- S1	Minimal soft tissue and minimal muscle deficiency
+- S2	Moderate – between both extremes S1 and S3
+- S3	Severe soft tissue deficiency due to hypoplasia of subcutaneous tissue and muscle.
