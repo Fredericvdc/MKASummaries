@@ -1,0 +1,471 @@
+# Aangeboren gelaatsafwijkingen en Zeldzame Syndromen
+## Indeling
+- Classificatie volgens timing insult
+  - Malformaties
+    - Morfologisch defect orgaan, deel orgaan, lichaamsdeel
+    - Door intrinsiek abnormaal ontwikkelingsproces
+  - Disruptie
+    - Morfologisch defect orgaan, deel orgaan, lichaamsdeel
+    - Door extrensieke storing (vasculair, infectieus, mechanisch)
+  - Deformatie
+    - Abnormale vorm of positie lichaamsdeel
+    - Extrinsieke mechanische krachtinwerking
+- Classificatie op basis van histologische verandering
+  - Hypo/hyperplasie
+    - Onder- of overontwikkeling organisme, orgaan, weefsel
+    - Door wijziging aantal cellen
+  - Hypotrofie/hypertrofie
+    - Afname/toename grootte of volume cellen, weefsel, orgaan
+  - Agenesie
+    - Afwezigheid deel lichaam
+    - Door afwezigheid aanleg
+  - Aplasie
+    - Afwezigheid deel lichaam
+    - Door gefaalde ontwikkeling van de aanleg
+  - Atrofie
+    - Afname normaal ontwikkelde massa
+    - Door vermindering celaantal of celvolume
+  - Dysplasie
+    - Abnormale organisatie van cellen in weefsel
+    - Daarvan het morfologisch resultaat
+- Klinische classificatie van geboortedefecten
+  - Enkelvoudig systeemdefect
+    - Grootste groep van geboortafwijkingen
+    - Ofwel één orgaansysteem
+    - Ofwel één enkele regio
+    - multifactoriële oorzaak met beperkt herhalingsrisico
+    - vb
+      - schisis, congenitale hartafwijking
+  - Syndroom
+    - Patroon van meerdere afwijkingen
+    - Die pathogenetisch verwant zijn
+    - Géén enkelvoudige sequentie of polytopisch veldeffect
+    - Vb. Van der Woude
+  - Associatie
+    - Niet op toeval berustend voorkomen in 2 of meer individuen van meerdere afwijkingen
+    - Die niet gekend staan als polytopisch velddefect, sequentie of syndroom (CHARGE, VACTERL)
+  - Sequentie
+    - Patroon of cascade van meerdere afwijkingen
+    - terug te brengen tot één primair defect
+    - vb. Pierre-Robin
+  - Polytopisch veld defect/complex
+    - Patroon van afwijkingen
+    - Ontstaan door verstoring enkelvoudig ontwikkelingsveld
+    - = set van morfologische defecten die tijdens embryogenese één regio aantasten
+    - Vb. Hemifaciale microsomie
+- Classificatie op basis van medische consequenties
+  - Majeure malformaties
+    - Als levensverwachting erdoor beperkt wordt
+    - OF als normaal functioneren belemmerd wordt in meerdere of mindere mate
+    - Soms moeilijk onderscheid tussen mineur en majeur
+  - Mineure malformaties
+    - Structurele afwijkingen die ofwel geen behandeling nodig hebben ofwel makkelijk behandelbaar zijn
+    - En geen blijvende consequenties hebben voor levensverwachting
+    - Geïsoleerde mineure malformaties hebben soms familiaal voorkomen
+    - BELANG: kunnen wijzen op onderliggende majeure malformatie
+      - Hoe groter het aantal mineure, hoe groter de kans op een majeure
+      - Kind met 3 of meer mineure malformaties -> 20-90% kans op een majeure
+      - Kind met 1 mineure à 3-4% kans op majeure
+- Etiologische classificatie
+  - Chromosoom
+    - Chromosoomafwijkingen
+    - Vb. Trisomie
+  - Microdeletie
+    - Submicroscopische chromosoomafwijking
+    - Miv microdeleties
+    - Vb. DiGeorge, Prader Willi
+  - Teratogenen
+    - Gekende teratogenen en prenatale infecties
+  - Nieuw dominant
+    - Achondroplasie
+    - Apert
+  - Familiaal
+    - Tuberueze sclerose
+    - Fragiel X
+  - Syndroom
+    - Erkende niet familiale, niet chromosomale syndromen
+    - Kabuki
+  - Geïsoleerde
+    - Geïsoleerde anomalieën die niet thuis horen in voorgaande categorie, gastroschisis, geïsoleerde lipspleet
+  - Multipele
+    - Anomalieën aan meer dan één systeem die niet met elkaar in verband staan zonder unificerende diagnose
+    - Vb. VACTERL
+    
+## Gebruikte indeling in UZ Leuven
+### Inleiding
+- Wij gebruiken Frans-Nederlandse school van Prof Stricker en Van der Meulen
+- Voordelen
+  - Zeer MKA chirurgisch ingesteld (beiden craniomaxillofaciaal chirurgen)
+- Nadeel
+  - Syndromen, associatie en sequenties moeilijker hier in te passen
+  - Hiervoor is de classificatie van geboortedefecten beter
+- Indeling is sterk beïnvloed door chronologie
+  - Fase 1: organisatie
+    - Histogenese: eerste twee weken
+    - Organogenese: w2 tot w8
+      - Fusieprocessen
+      - vormveranderingen
+  - Fase 2: ossificatie
+    - Tot de geboorte
+  - Fase 3: adaptatie
+    - Eenmaal bot gevormd is
+- Deze drie fasen qua pathologie in twee hoofdstukken onderbrengen
+  - Groep 1: Alles voor histogenese (tot w2 dus)
+  - Groep 2: Organogenese en groei na w2
+    - Subgroepen
+      - craniofaciale afwijkingen
+        - Clefting tussen faciale welvingen voor w8 (schisis)
+        - Voornamelijk trimester 1
+        - 1/700
+      - Dysostose ossificatiecentra na w8 (dysplasie)
+        - Voornamelijk trimester 2
+        - 1/2500
+      - Synostose is desmocranium (synostose)
+        - Voornamelijk trimester 3
+        - 1/3000
+      - Cerebrocraniale afwijkingen
+      - Cerebrocraniofaciale dysplasie
+      - Cervicale dysplasie
+
+## Andere indelingen
+- Neurocristopathieën
+  - Gevolg van verstorode migratie, groei en differentiatie van cellen uit neurale lijst
+  - Geeft verschillende syndromen
+    - CHARGE
+    - Waardenburg
+    - Treacher Collins
+    - Auriculo-condylar syndroom
+- Binding aan X-chromosoom
+  - Craniofaciale syndromen met X-gebonden overerving
+  - Orofacio-digital syndroom type 1
+  - Focale dermale hypolasie
+  - Lowe syndroom
+- Fakomatose
+  - Neurocutane aandoeningen
+  - Hoofdkenmerk
+    - Afwijking huid en centraal/perifeer zenuwstelsel
+  - Vroeger 3 aandoeningen
+    - Tubereuze sclerose
+    - Neurofibromatose
+    - Von Hippel Landau
+  - Nu > 50 aandoeningen    
+## Cerebrocraniale afwijkingen
+- Dysplasie waarbij hersenen en neurocranium betrokken is
+  - Vb. anencefalie, microcefalie, congenitaal schedeldefect, sluitingsdefect neurale buis
+- Volledig sluitingsdefect neurale buis
+  - Craniorachischisis
+- Gedeeltelijk sluitingsdefect
+  - Caudaal
+    - Spina bifida aperta
+    - Meningocele (enkel vliezen)
+    - Meningomyelocele (vliezen + ruggenmerg)
+  - Rostraal
+    - Zz’er dan caudaal
+    - Cranium bifidum apertum -> hersenen niet of partieel tot ontwikkeling + neurocranium niet gevormd
+      - Anencephalia totalis: niet met leven verenigbaar
+      - Anenchephalia partialis
+      - Exencephalia
+    - In alle gevallen zijn de ogen normaal ontwikkeld
+- Gebruik van FZ tijden periconceptieperiode 4w en 8w na conceptie voorkomt 70% van deze defecten
+ 
+## Fusiestoornissen en schisis
+
+
+## Cerebrocraniofaciale dysplasieën
+- Afwijkingen hersenen, neurocranium, ogen en aangezichtsschedel
+- Voorbeelden
+  - Rhinencefale dysplasie: cyclopie, cebocefalie, premaxillaire aplasie, synophtalmus, ethmocefalie
+  - Oculo-orbitale dysplasie: anorbitisme, micro-orbitisme en cryptoftalmie
+  - Perioculaire dysplasie: blefaro-schisis, blefaro-phimosis, telecanthus
+- Ontwikkeling hersenen en zintuigen = belangrijke rol vorming craniofaciale afwijkingen
+- Holoprosencefalie
+  - Stoornis patroonvorming prosencephalon
+  - Typisch
+    - 1 ventrikel in het prosencephalon
+    - Continuïteit hemisferen over mediaanlijn
+    - Gehandicapt en spastisch
+    - Oorzaak: mutaties in SHH (echter klein deel van aantallen)
+  - In 80-90% gepaard met mediane craniofaciale afwijkingen
+    - Agenesie premaxilla, ethomid, neusseptum en mediane deel bovenlip
+    - Hypotelorisme à extreme gevallen = cyclopia
+  - Problemen met vorming oog (oogplacode)
+    - Anoftalmie tot microftalmie
+    - Afmeting oogbeker wordt vroeg embryonaal bepaald door grootte oogblassje en ontwikkelende lens
+    - Primaire congenitale afakie
+      - Afwezigheid lens
+      - Ten gevolge van virusinfecties: rubella, ParvoB19
+      - Geeft anoftalmie of microfatlime àmicro-orbitisme en hypoplasie aangezicht
+- Craniofaciale dysplasie
+  - Inleiding
+    - Ogen en hersenen normaal
+    - Neurocranium en aangezichtsschedel tonen malformaties
+    - Alle mogelijke combinaties mogelijk à wij zien meestal dit soort patiënten op MKA
+  - Fusie aangezichtsprocessie gehinderd
+    - Oorzaken
+      - Onvoldoende uitgroei aangezichtswelvingen
+      - Onvoldoende adhesie van de welvingen, resulterend in deficënte epitheelplaatvormign
+      - Persisteren van epitheliale plaat
+    - Spleten die ontstaan door uitgebleven fusie = vier locaties = PRIMAIRE SPLETEN
+      - Latero-nasomaxillaire spleet (naso-oculaire schisis)
+      - Medio-nasomaxillaire spleet (cheilognathoschisis)
+      - Maxillo-mandibulaire spleet (macrostomie-microstomie)
+      - Intermaxillaire spleet (palatoschisis)
+    - Andere vorm van uitblijvende apoptose -> partieel persisterend van buccofaryngeale membraan ovv orale synechiae
+        - Van der Woude syndroom als vb
+        
+## Dysostosen
+- Dysostose = probleem met botproductie in ossificatiecentra
+  - Ontwikkelingsstoornis ossificatiecentrum = ° dysostose
+  - Klinisch beeld = gelaatsspleet
+  - = secundaire spleten = pseudoclefts
+  - Hebben geen vaste locaties, gezien ontstaan op plaats van dysplasie
+  - Denk steeds aan cerebrocraniofaciale dysplasie (cruciaal middellijnprobleem)
+  - Topografisch te rangschikken via craniofaciale helix
+    - Helix heeft vorm van letter S
+    - Begint aan laterale zijde van schedel = sfenofrontale dysplasie
+    - Naar mediaal via os frontale en neus
+    - Vervolgens mediaan over neus naar lateraal onder orbita
+    - Richting uitwendig oor en ramus
+    - Om zo via corpus mandibulae bij symphysis te eindigen =intermandibulaire dysplasie
+  - Voorbeelden
+    - sfenoïdale dysplasie: meningo-encefalocele,, osteoom, choanale atresie
+    - sfeno-frontale en/of frontale dysplasie: benig defect voorhoofd, benig defect orbitadak, wenkbrauw, laterale canthus, haargrens
+    - fronto-frontale dysplasie: cranium bifidum occultum, meningocele
+    - fronto-naso-ethmoïdale dysplasie, teleorbitisme, meningo-encefalocele
+    - frontonasale dysplasie of internasale dysplasie: median cleft face syndrome; bifid nose with median cleft lip;  bifide neus, Tessier nr. 0 spleet
+    - nasale dysplasie: proboscis, nasale aplasie, arhinie, nasoschisis, nasale duplicatie
+    - Morian I,Tessier nr. 3 spleet
+    - Morian II, III, Tessier nr. 4 spleet;
+    - dysostosis mandibulofacialis = syndroom van Franceschetti =  Teacher-Collins syndroom
+    - microtie, ooraplasie, Goldenhar-syndroom
+    - dysostosis otomandibularis of oculo-auriculo-vertebral spectrum (oavs) = hemifaciale microsomie = Goldenhar-syndroom = 1ste ,2de  kieuwboogsyndroom = (hemi) (cranlo) faciale microsomie
+    - Hallerman-Streiff-syndroom, otocefalie
+    - onderlip-, kaak-, tongspleet
+    - acrofaciale dysostose = syndroom van Nager
+  - botvorming à belang van bezenuwing/hersenen/spieren/weke delen
+    - dit zijn de drivers van botgroei
+    - bepalen uiteindelijke vorm
+    - agenesie van ooginhoud è geeft onvermijdelijk micro-orbita gezien ontbreken driver
+    - = secundaire effecten op bot
+  - Meningocoele en encefalocoele
+    - Als neurale buis wel gesloten is
+    - Maar bovenliggende mesenchymlagen en epidermis hebben stoornis
+
+## Synostosen
+- Suturen gevormd zodra botcentra uitgroeien en contact met elkaar krijgen
+  - Synostose è abnormale directe fusie van botkernen zonder vorming sutuur
+- Onstaan
+  - Laat embryonale/vroeg foetale periode
+- Grote invloed op uitgroei en vorm schedel
+- Synostose = premature ossificatie van suturen
+  - Obstakel skeletale ontwikkeling
+  - In de richting loodrecht op de sutuur (Virchow’s wet)
+  - Compensatoire overgroei in richting parallel aan suturale lijn
+- Faciale synostose
+  - Binder syndroom
+- Craniale synostose
+  - Scafocephalie
+  - Trigonocephalie
+  - Brachycephalie
+  - Oxycephalie
+  - Anterieure plagiocephalie
+  - Posterieure plagiocephalie
+- Combinaties van dysostose en synostose
+  - Crouzon, Apert, Acro-cefalo-syndactylie, …
+  - Veel variatie omdat defecten op verscheidene niveaus manifesteren
+  - Voorbeelden
+    - Dysostosis craniofacialis (Crouzon)
+    - Apert (acrocefalopolysyndactylie type I)
+    - Carpenter syndroom (acrocefalopolysyndactylie type II)
+    - Muenke
+
+## Dyschondrosis 
+- Kraakbenige matrices die malformatief ontwikkelen
+- Vb achondroplasie
+- Cervicale dysplasie
+  - Defecten in transformatie van kieuwbogen
+    - Branchiale sinus, laterale sinus cervicalis, branchiale fistel en agenesie van de schildklier
+  - Defecten in transformatie van de kieuwzakken
+    - Aplasie en hypoplasie van de thymus
+  - Soms kleine eilandjes ectodermale cellen in het mesoderm
+    - Geven branchiale cysten
+    - Thyreoglossuscysten
+    - Dermoïde cysten
+  
+## Dysostosis cleido-cranialis (cleidocraniale dysplasie)
+- Genetisch:
+  - Heterozygoot autosomaal dominante mutatie: 50% kans op overerving
+  - Kan ook spontane mutatie zijn
+  - RUNX2 (andere naam: CBFA1)
+- Kliniek
+  - Pathognomonisch: deels/volledig ontbreken van Claviculae=> schouders makkelijk bij elkaar
+  - Craniaal:
+    - Brachycefale schedel
+    - Uitgesproken frontale & pariëtale welving
+    - Vertraagde/afwezige sluiting van craniale suturen (fontanellen/Wormiaanse botstructuren) = Te zien op RX
+  - Faciaal
+    - Breed voorhoofd
+    - Hypoplasie van middengelaat
+    - Brede neusbasis
+    - Hypertelorisme
+    - Hypoplasie van zygoma en pseudoprogenie
+  - Oraal
+    - Crowding
+    - Surnumeraire tanden
+    - Vertraagde doorbraak
+    - Laattijdige uitval melkdentitie
+    - Malocclusie
+    - Hoog ogivaal gehemelte
+    - Palatoschisis
+  - Niet-faciaal
+    - Korte conische vingers
+    - Brede duimen
+    - Smalle borstkas
+    - Scoliose
+    - Osteoporose op volw leeftijd
+    - Dwerggroei
+    
+## Pierre Robin-sequentie - Pierre Robin syndroom
+- Genetisch
+  - Robinsequentie is HETEROGEEN=> dus ook verschillende pathogenese mogelijk!
+  - 50%: geïsoleerde Robin-Sequentie-mutatie=> LAGE kans op herhaling (5%)
+  - 50%: Robin-sequentie geassocieerd aan
+  - Sticler (+ myopie) Treacher Collins Velocardiofaciaal 
+- Kliniek
+  - Micrognathie van onderkaak
+  - Glossoptosis= posterieure verplaatsing & retractie van tongCAVE:Na geboorte moeilijk ademen ruglig: cyanose (tong tegen post farynxwand)=> kleine mandibula kan tong niet naar voor houden!=> leg op buik.
+  - Gehemeltespleet (secundair palatum)
+  - Voedingsproblemen
+  - Groeiachterstand
+  - Middenoorproblemen: Recurrente otitis media & gehoorverlies.
+  - CAVE: Micrognathie kan ook afzonderlijk voorkomenHeel variabele kliniek: kleine onderkaak ó Rudimentaire aanleg mandibula
+- Diagnose
+  - Obv KLINIEK!!!
+- Behandeling
+  - 10% nood aan tracheotomie bij geboorte
+  - Distractieosteogenese: ENKEL bij NIET-åale vorm!!!
+    - Botgreffe/osteochondrale greffe/verlengingsosteotomieën.
+    - CAVE: Weke delen-tractie!
+  - Sluiting palatoschisis op 12 maanden!
+  
+## Noonan syndroom
+- Epidemiologie
+  - 1/1000-1/2500
+  - Hoort niet bij de dysplasies!
+- Genetica
+  - PTPN11 mutatie Chr12 (pG503R; de novo)
+  - Spontaan of autosomaal dominant
+  - Andere mutaties
+    - SOS1
+    - KRAS
+    - BRAF
+    - RAF1
+    - NRAS
+- Kliniek
+  - Afwijkingen Faciaal/Cardiaal/Skelet
+  - Faciaal
+    - Breed voorhoofd
+    - Hypertelorisme
+    - Epicantusplooien
+    - Schuine palpebrale fissuren
+    - Lager ingeplante oren
+    - Zakking van bovenste oogleden: pat moet hoofd naar achter houden om te kijken.
+  - Oraal
+    - Micrognathie
+    - Hoog palatum
+    - Malocclusie
+    - Reusceltumoren
+  - Cardiaal:
+    - PATHOGNOMONISCHE eigenschappen: diagnose obv al te stellen!
+    - Pulmonaal-klep stenose
+    - Hypertrofe cardiomyopathie
+    - Atriaal septumdefect
+  - Skeletaal
+    - Pectus excavatum
+  - Andere
+    - Kort gestalte
+    - Korte – brede nek
+    - Cryptorchidie
+    - Mentale achterstand
+    - STOLLINGSSTOORNISSEN (CAVE: INGREEP!!!!)
+- Screening
+  - Ortho, tele, face, afdrukname, foto’s
+  - CBCT
+  - Nierfunctie + echo nieren
+  - Stollingsset
+  - Oftalmologisch nazicht
+  - Basis neuropsychologisch nazicht
+  - Genetica
+  - Groeicurve opvragen
+  - Cardiaal nazicht
+
+## Marfan syndroom
+- Diagnose
+  - Obv Kliniek EN Gent-criteria
+  - Familiale anamnese
+- Genetica
+  - Mutatie FBN1-gen
+  - Autosomaal-Dominant
+- Kliniek
+  - Aandoening skelet/ogen/cardiovasculair/longen
+  - Skeletaal
+    - Magere personen
+    - Lange ledematen
+    - Arachnodactylie
+    - Gewrichtsinstabiliteit
+    - Scoliose
+    - Pectus excavatum/carinatum
+  - Ogen: TYPISCH!!!
+    - Lens-dislocatie
+    - Verkleuring ooglens
+  - Cardiovasculair
+    - Aorta-dilatatie/ruptuur aorta-aneurysma
+  - Faciaal
+    - Dolichocefale schedel
+    - Lang & smal gelaat=> Maxillaire constrictie=> Intra-oraal overlappende tanden & hoog gebogen verhemelte
+    - Mandibulaire retrognathie (soms prognathie)
+    - Kruisbeet
+    - Macrostomie
+    - Overmobiele kaakgewrichten (>60mm)
+    - Nauwe nasale luchtweg/Open mouth-breathing=> Adenoïd Faciës=> OSAS
+  - Oraal
+    - kans op cariës
+    - Tandwortelmisvormingen
+    - Gingivitis/Parodontitis
+    - Alveolair botverlies/Hypermobiliteit tanden
+- Voorzorgmaatregelen
+  - Orale profylaxe: 1x/6 maanden follow-up mondhygiëne
+  - Krachtige, aangepaste tandenborstel
+  - Topische fluoride applicatie
+  - Antibacteriële mondspoeling
+  - Orthodontische R/: behoud van gezondheid parodontium
+  - Medicatie
+    - spirine VERMIJDEN (gezien patienten vaak reeds onder anti-aggregantia)
+  - Chirurgisch:
+    - Pre-op controle: cardiale pathologie?
+    - CAVE: bacteriemie/Endocarditis=> geef pre-op 2gr amoxicilline
+    - Bij uitgebreide dentale R/: doe onder sedatie/AA
+    - Voorzichtig bij anesthetica met Adrenaline(=> Tachycardie)
+    - Monitoring tijdens THK R/:=> Bloeddruk/Systolische intervallen/Aortic pulse wave velocity.
+    
+## Sturge-Weber syndroom
+- Etiologie
+  - Zz congenitale vasculaire aandoening
+  - Vasculaire malformaties
+- Kliniek
+  - Vasculaire malformaties !!!
+  - Intracraniële vasculaire misvormingen & ipsilaterale, scherp omschreven “wijnvlek”-verkleuring van aangezichtshuid(Naevus Flammeus)=> Meestal nabij N. Ophtalmicus van N. V
+  - Wijnvlek volgt distributie van 1ste & 2e tak van N. V
+  - Wijnvlek kruist middenlijn NIET!
+  - Neurologische afwijkingen:
+    - Epilepsie
+    - Hemiparese
+  - IQ
+    - Geboorte: normale intelligentie=> later mentale retardatie
+  - Oog
+    - Glaucoom
+    - Vasculaire malformatie van oog
+- Genetica
+  - NIET-overerfbaar syndroom
+- Diagnose
+  - MRI + IV Gadolinium contrast
