@@ -477,7 +477,7 @@
 - II	Condyle, ramus and sigmoid notch are present, but with serious alteration in shape and size 
 - III	Mandibular ramus can be reduced to a small thin layer of bone, or does not exist
 
-### Purzanksy-Kaban classificatie
+### Pruzansky-Kaban classificatie
 - I	Mandibular morphology is normal but small.
 - IIA	Mandibular ramus is short but of abnormal size: glenoid cavity in right position and functional.
 - IIB	Glenoid cavity is in an altered position, in inferior, medial, and anterior position.

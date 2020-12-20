@@ -115,7 +115,7 @@ marfan-syndroom
 sturge-weber-syndroom
 hemifaciale-microsomie
 pruzansky-classificatie
-purzanksy-kaban-classificatie
+pruzansky-kaban-classificatie
 omens-classificatie
 academisering
 speekselklieren
