@@ -98,6 +98,7 @@ voorzijde-van-de-schedel-norma-facialis
 de-laterale-zijde-van-de-schedel-norma-lateralis
 de-schedelbasis
 de-schedelbeenderen
+academisering
 aangeboren-gelaatsafwijkingen-en-zeldzame-syndromen
 indeling
 gebruikte-indeling-in-uz-leuven
@@ -117,7 +118,6 @@ hemifaciale-microsomie
 pruzansky-classificatie
 pruzansky-kaban-classificatie
 omens-classificatie
-academisering
 speekselklieren
 embryologie
 anatomische-aandachtspunten
