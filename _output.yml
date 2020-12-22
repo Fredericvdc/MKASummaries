@@ -3,7 +3,7 @@ bookdown::gitbook:
   config:
     sharing: null
     toc:
-      collapse: subsection
+      collapse: section
       toc_depth: 4
       before: |
         <li><a href="./">Compendium MKA</a></li>
