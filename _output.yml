@@ -4,7 +4,7 @@ bookdown::gitbook:
     sharing: null
     toc:
       collapse: section
-      toc_depth: 4
+      toc_depth: 5
       before: |
         <li><a href="./">Compendium MKA</a></li>
       after: |
