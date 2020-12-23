@@ -169,7 +169,545 @@
 - Gebruik van FZ tijden periconceptieperiode 4w en 8w na conceptie voorkomt 70% van deze defecten
  
 ## Fusiestoornissen en schisis
+### Primaire aangezichtsspleten
+- Ontstaan voor de zevende week in utero
+- = lip-, kaak- en verhemeltespleten
+  - Latero-nasomaxillaire spleet (naso-oculair)
+  - Medio-nasomaxillaire spleet (cheiloschisis – prepalatinale spleet)
+  - Intermaxillaire spleet (palatoschisis)
+  - Maxillomandibulaire spleet (macrostomie-microstomie)
+### Secundaire aangezichtsspleten
+- Ontstaan na zevende week in utero   
+  - Zeer zeldzaam: 1:150 000 geboorten
+  - Niet erfelijk
+- Van mond tot voorhoofd
+  - Volgens vast patroon van embryonale fusielijnen
+  - Betrokkenheid van mond, neus, ogen en oren -> abnormale ontwikkeling
+  - Van gering tot ernstig
+- Ogen
+  - Spleet in ooglid = coloboom
+  - Traankanaal probleem
+  - Oog onderontwikkeld (microphtalmus)
+  - Oog afwezig (anophtalmus)
+  - Onderontwikkeling orbita tot teleorbitisme
+- Neus
+  - Aplasie tot spleetvorming tot dubbele aanleg
+Lip
+  - Secundaire spleet vaak op andere plaats dan primaire lipspleet (klassieke cheiloschisis)
 
+### Lip-, Kaak- en Gehemeltespleten
+#### Pathogenese
+- Embryologische fusie van processie
+- Deze fusie is verhinderd bij schisis door
+  - Onvoldoende uitgroei aangezichtswervingen
+  - Onvoldoende adhesie welvingen -> deficiënte epitheelplaatvorming
+  - Persisteren epitheliale plaat (geen apoptose)
+#### Embryologie
+- Primair vs secundaire palatumspleten
+- Primair
+  - Voor regio van foramen incisivum = alveolaire kaakregio + voorste deel palatum durum
+  - Sluit van achter naar voor in week 6 en 7 van ontwikkeling
+  - Als laatste sluit de lip (meest anterieur)
+  - ° lip en kaakpleet
+    - Door gebrek aan merging van processi fronto-nasalis medialis en lateralis in w4-w7
+    - Misvorming beperkt tot primaire palatum
+- Secundair
+  - Achter foramen incisivum = achterste deel palatum durum + palatum molle
+  - Sluit van voor naar achter tussen w8-w12
+  - Als laatste sluit de uvula
+  - °palatumspleet
+    - Indien processi palatini niet sluiten tussen w7-w14
+  - Extra info
+    - Uit knaagdierstudies: rechter palatinale blad bereik eerst middellijn à links blijft altijd wat meer vatbaar voor problemen
+    - Ingroei mesenchym gedeeltelijk à ° submuceuze spleet
+    - Bifide uvula à soort schisis (cave velofaryngeale insuf + Loeys Dietz syndrome)
+- Erfelijkheid
+  - Anamnese
+    - 75% heeft geen familie met zelfde afwijking
+    - Indien toch familiaal voorkomen
+     - Erfpatroon is polygenetisch met wisselende penetrantie
+  - Belang genetica
+    - Heeft belangrijke rol bij ontstaan
+    - Echter veel vraagtekens over juiste genetisch patroon
+    - Lipspleten (+andere spleten associatie) en geïsoleerde gehemeltespleet zijn twee verschillende ziekten met aparte genetica!!
+    - Risico op schisis neemt toe als familielid schisis heeft
+    - Welke frequentie van schisis kan verklaard worden vanuit gekende factoren?
+      - 3% FGF (fibroblast growth factor)
+      - 2% MSX1 (muscle segment homeobox 1)
+      - 4% maternal cigarette smoking
+      - 6% many private mutations in candidate genes
+      - 12% IRF6 (interferon regulatory factor 6)
+   - Rol van genen bij ontwikkeling CLP
+     - Beide ouders niet aangetast + 1 kind al met schisis = 2-5% kans op volgend kind met schisis
+     - Kans wordt 9% als er al 2 kinderen zijn
+     - 1 aangetaste ouder + 1 aangetast kind -> kans op herhaling 14%
+
+Prenatale diagnostiek
+Gouden standaard = prenatale echo
+3 echo’s terugbetaald door riziv tijdens zwangerschap (1/trimester)
+1: 11-13de w
+2: 18-22ste w
+Dit is de 20w anomaliescan
+3: 30-34e w
+Blijft moeilijk met lage detectieratio
+Toekomst -> MRI?
+Lipspleet
+Ten vroegste vanaf 15w in theorie via echo
+Echter soms over hoofd gezien
+Ideaal: 12w transvaginale echo door expert
+Verhemeltespleet
+Detectie op 20w scan:
+54-80% in Nederland
+Stijgt naar 76-82 indien bijkomende malformatie (aandacht stijgt)
+Heel onderzoekersafhankelijk
+Etiologie
+Erfelijk patroon dat deformatie veroorzaakt OF exogene factoren OF combo
+Erfelijke factoren
+Met begeleidende afwijkingen heeft =/= dan zonder
+LKG Vooral bij mannen, vooral polygeen
+Gehemeltespleet vooral bij vrouwen, vooral dominant met wisselende penetrantie
+Enkele specifieke syndromen 
+Spleet als majeur kenmerk
+Autosomaal dominant
+Vb. van der woude
+Exogene factoren
+3/5 van LKG en 4/5 van de G schisis is de familiale anamnese negatief
+Mutaties of exogene factoren in eerste trimester zijn dan de oorzaak
+Voorbeelden
+Hoge leeftijd ouders (significant)
+Medicatie: thalidomide, fenytoïne, valproaat, topiramaat, methotrexaat
+FZ tekort
+Roken, alcohol
+Virale infecties
+Radiotherapie
+Obesitas
+Incidentie
+2/1000 LKG
+1/2000-2500 voor geïsoleerde gehemeltespleet
+Echter heden nog lager gezien vroegtijdige echografische diangose -> abortus
+Schisis blijft de 2de van de tien meest voorkomende aangeboren majeure misvormingen
+Prevalentie
+LKG spleet
+Laagst bij Afro-amerikanen, hoogst bij Amerikaanse indianen (20,5/10 000)
+Intermediair in andere groepen
+Isoleerde G
+Prevalentie constant over rassen
+Soorten schisis
+Primaire schisis
+Ten gevolgen van uitblijven van fusie = transformatiestoornis
+Secundaire schisis
+Ten gevolge van dysplasie = differentatiestoornis
+Denk bij afwezigheid van mediane gelaatststructuur altijd aan cerebro-cranio-faciale dysplasie!
+Geassocieerde afwijkingen
+Altijd actief gaan opsporen
+Cardiologische, urologische en extremiteitsabnormaliteiten + soms met chromosomale afwijking = syndromale schisis
+Leuven
+30% van de LKG heeft bijkomende stoornis ander orgaansysteem
+22% heeft naast schisis andere afwijking in HH regio
+> 300 syndromen hebben schisis
+Geïsoleerde palatoschsis heeft in 50% associatie met bijkomende aangeboren afwijking
+Volledige LKG heeft MINSTE associatie met bijkomende afwijking
+Vb van syndromen
+22q11 deletie syndroom
+Oro-auriculo vertebrala spectrum
+Orofaciodigital syndroom
+Pierre Robin
+Vaak + micrognathie onderkaak + glossoptosis + palatoschisis à OSAS
+Apert
+Stickler
+Treacher Collins
+Ectodermale dysplasie
+Van de Woude
+Unilat of bilat
+Unilateraal in 80%
+Bilateraal in 20%
+Meestal links
+Partieel vs compleet
+Anatomische defecten
+Afhankelijk wanneer probleem ontstaat
+W7-w14: secundair verhemelte: palatum
+W4-w7: primair verhemelte: lip en premaxilla
+Cheiloschisis
+Laterale zijde filtrum
+Volledig
+Neusvleugel afgevlakt en naar lateraal
+Lichte vorm
+Inkerving lip en proc alveolaris
+Subcutaan
+Huid intact maar spier gespleten
+Cheilognathoschisis
+Defect tot foramen incisivum
+Resterend deel hard en zacht verhemelte zijn intact
+Beperkt tot primair verhemelte
+Cheilognathopalatoschisis
+Meest frequente vorm
+Lip, zijdelijngs premaxilla en verder in hard verhemelte mediaal naast septum en zo verder in week verhemelte op middellijn
+Unilateraal (80%)
+Septum met hard verhemelte van gezonde zijde vergroeid
+Bilateraal (20%)
+Septum en premaxilla geen verbinding met proc. Palatinus
+Premaxilla ver naar voor en zeer beweeglijk = hazenlip
+Neiging tot tuba catarre = tubadysfunctie
+Neiging tot Simonart’s band: huidbrug bij neusopening à vaker bij lip-kaakspleten dan bij volledige LKG spleten
+Geïsoleerde palatoschisis
+Meer bij meisjes (itt tot rest meer bij jongens)
+Volledig tot ….
+Volledig: Dorsaal van premaxilla en gaat tot uvula
+Geen vergroeiing van septum met palatum
+Vele tussenvormen van volledig tot uvula bifida tot submuceuze spleet
+Submucosale spleet
+Alleen schisis van palatale musculatuur
+Nasale en orale mucosa intact
+Inspectie bij fonatie
+Twee strengen in palatum molle naar spina nasalis
+Oorzaak van velofaryngeale insufficiëntie en nasale spraak (vaak pas diagnose in 4de– 5de levensjaar
+Vaak bifide uvula, zona pellucida (blauwe schijn middellijn palatum molle) en inkeping achterrand harde verhemelte = Calnan’s Triade
+Bifide uvula
+Frequent 1/100 personen
+Meestal volstrekt goedaardig maar kan uiting zijn van:
+Submucosale spleet
+Genetisch syndroom
+Symptomen
+Problemen met
+Esthetiek
+Voeding en slikfunctie
+Gehoor en spraak
+Tandenstand en kaakrelatie
+Psychologisch welbevinden
+Overdraagbaarheid
+Effect van spleet
+Spleet bovenlip en bodem neusopening -> ° discontinuïteit m. orbicularis oris à afwijkende spierafwijking à aantasting huid, kraakbeen, bot à problemen met groei
+Enkelzijdige LKG spleet
+Asymmetrische afwijkingen
+Onderbreking m. orbicularis oris à afwijking lip en neusvleugen + bot en kraakbeen verplaatst door asymmetrische spiertractie
+Neus is uit- en inwendig vervormd
+Neusvleugel en septum -> chronische rhinitis + gesloten neusspraak
+Dubbelzijdige LKG-spleet
+Ongeremde ontwikkeling vomero-premaxillaire complex in anterocaudale richting
+Laterale maxilla segmenten hebben geen normale groeistimulus = hypoplasie transversaal, sagittaal en verticaal van maxilla
+Bovenkaaksontwikkeling
+Cfr supra = hypoplasie in drie dimensies
+Littekenweefsel en trauma door operaties -> nog meer belemmering
+Middengelaat
+Dished in face
+Pseudoprognatie van onderkaak
+Boventandenboog volledig of deels achter en binnen ondertandenboog
+Verlittekende en hypertrofische onderlip è onderlip heeft compensatoire functionele hypertrofie (° omgekeerde liptrap)
+Tandaanleg-afwijkingen
+De regel in de schisisregio
+Spectrum: surnummerairen, malformaties, geminaties
+Alveolaire spleet: geen bot voor melk en blijvende tanden
+Hoektand, laterale snijtand en melkmolaren en premolaren nemen ectopische positie in
+Afwijkend occlusievlak
+Verticale onderontwikkeling van het middengelaat
+Afunctioneel palatum molle
+Ontoereikende faryngeale sfincterfunctie = °velofaryngeale incompetentie
+Nasal escape met open neusspraak
+= verminderde verstaanbaarheid
+Diagnose
+Orale inspectie
+Akoestische nasometrie
+Spiegelproef
+Endoscopie of fluoroscopie
+Gewijzigde mobiliteit farynxwand
+Frequente otitis media serosa
+Door dysfunctie buis van Eustachius
+Verminderd gehoor
+-> gestoorde spraak en taalontwikkeling
+Nasale regurgitatie
+Minimale expressie van schisis onder vorm van
+Solitaire globulo-maxillaire cyste of vormafwijkingen anterieure boventanden
+Lijnvormige depressie bovenlip al dan niet met spierprobleem
+Submucosale palatumspleet -> spraak en slikproblemen
+Gelaatsgroei
+Wat bepaalt groei?
+Intrinsieke factoren
+Functionele factoren
+Iatrogene factoren
+Intrinsieke factoren
+Onvoldoende stuwing vanuit mesodermale structuren
+Onderontwikkeling processi
+Functionele factoren
+Gespleten m. orbicularis oris met abnormale insertie
+Deviatie middellijn bovenkaak, septum, spina nasalis naar niet-gespleten zijde
+Divergente tractie aan columella mediaan en neusvleugel lateraal
+Afwijkende tongpositie
+Spleet zo breed gehouden
+Deviatie neusseptum
+Palatoschsis -> Andere inplanting tensor veli palatini à dysfunctie tuba
+Slechte aeriatie middenoor -> frequente otitis media = gehoorpobleem -> schoolresultaatprobleem
+Iatrogeen
+Niet-geopereerde volwassen hebben normale sagittale positie maxilla
+Dit is GEEN argument om niet te opereren
+Bij 60% van patiënten spraakprobleem en hoorprobleem
+Geopereerde patiënt = maxilla hypoplasie in 3 dimensies
+Lipsluiting
+Gunstig effect op vorm bovenkaak
+Geen nadeling invloed gelaats of dentoaveolaire groei
+Sluiting palatum
+Gunstig effect op nasale klanken
+Nadelig effect op boogvorm (tansversaal)
+BIG
+Indien te jong (3-4j) -> verticale onderontwikkeling en lichte sagittale onderontwikkeling
+Indien op 9-10j -> geen nadelige invloed meer
+Farynxplastiek
+Voordeel: oplossen velo-faryngeale insuff
+Nadeel: OSAS in 10%
+Therapie
+Doel van therapie
+Uiterlijk dat zo weinig mogelijk herinnert aan de afwijking
+Goed functionerend gebit en spraak
+Goede verhouding boven-onderkaak/tanden
+Voorkomen en evt. corrigeren van gehoorsverlies
+Evenwichtige psychische ontwikkeling
+Schisisteam
+Samenstelling (multidisciplinair)
+Kaakchirurg
+KNO
+Plastisch chirurg
+Pediater
+Klinisch geneticus
+Logopedie
+Dermatograaf
+Maatschappelijk werker
+Mondhygiënist
+Orthodontist
+Tandarts
+Protheticus
+Psycholoog
+Sociaal verpleegkundige
+Behandeling volgens protocol
+Hier kan wel van afgeweken worden. Protocol op maat van de patiënt in overleg tussen disciplines
+3m-9m-12m-15m-18m-2j-4j-6j-9j-12j-15j-18j
+Technische onderzoeken
+Klinische en RX foto’s
+Gipsmodellen
+Auditieve en optische onderzoeken
+Betrouwbaar administratief apparaat!!
+Primaire behandeling
+Inleiding
+Er zijn verschillende technieken, chirurgen en timing -> geen eensluitend protocol over alle centra
+Is de methode goed? Pas 15j na datum te beoordelen
+Kaken en aangezicht volgroeid
+Groei soms nadeliger beïnvloed door iatrogene schade van opereren dan door misvorming zelf
+Operatieve ingrepen resulteren altijd in litteken -> groeibelemmerend è minimaliseren van heelkunde en indien mogelijk tot na groeispurt MAAR 4 uitzonderingen
+Sluiting lip is obligaat
+Sluiting zacht verhemelte is obligaat
+R/ velofaryngeale insufficiëntie is op indicatie
+BIG op +-9j is obligaat
+Sluiten lip
+Tijdstip
+Unilat: op 3m
+Bilat op 3m en 6m
+Voorafgaande therapie?
+Doel: alveolaire bogen beter op elkaar richten
+Orthodontisch plaatje volgens McNeil
+Lipadhesieprocedure
+Technieken
+Oudste: Veau -> recht litteken maar te korte lip
+Oplossing à Z-plasties
+Le Mesurier, Tennison, Tennison-Randall
+Millard + modificaties
+Bilateral: Manchester
+Leercurve van chirurg is bepalende factor, niet techniek
+Anatomie
+Continuïteit m. orbicularis oris herstellen
+Lateraal uitgeweken neusvleugen en laterale lip naar mediaal invoegen
+Doel -> symmetrie herstellen met goede functie (belang reconstructie m. orbicularis)
+Sluiten palatum molle
+Doel = afsluiten naso- en orofarynx
+Zo geen regurgitatie langs neus
+Zo betere spraak
+Belang van behouden beweeglijkheid
+Anatomie
+Belang van welving passavant te houden bij sluiten
+Afsluiten door twee spierbogen
+Concaviteit craniaalwaarts (m. levator veli palatini
+Concaviteit caudaalwaarts (m. palatopharyngeus
+Krachtvector in beide richtingen)
+Resultaat: vector brengt verhemelte naar boven en achter
+velumplastiek = sluiten palatum molle
+9-12m
+Voor inprenting spraakmotoriek è zo articulatoire dyspraxie vermijden
+Palatum durum blijft open!!!
+Zo geen groeibelemmering in bovenkaak
+Technieken
+Widmaier, kriens, Furlow
+Vaak in combo met buisjes plaatsen
+Quid combo met sluiten palatum durum?
+Veel discussie
+Sommigen samen
+Sommigen op 18m
+Sommigen samen met lip
+Sommigen samen met big
+Technieken voor gezamenlijk sluiten
+Von Langebeck, Veau-Wardill-Kilner pushback, Furlow dubbele Z-plastie.
+Variatie maar intrinsieke spiermobilisatie is gelijk = intravelaire veloplastiek -> palatinale spieren in de mediaallijn gesloten en naar posterieur gebracht
+Resulaten
+Spraakontwikkeling als outcome
+Furlow is meest optimale techniek
+Minder velofaryngeale insufficiëntie
+Echter meer fistels bij furlow groep, zeker indien palataal defect >1cm breed
+Sluiten palatum durum
+Indien bij sluiting gehemelte enkel molle wordt gedaan à bijkomende ingreep nodig voor BIG
+Heel veel discussie in literatuur wat je nu best doet
+Varieert van sluiting op 3M tot sluiting op 12j
+Farynxplastiek
+Op indicatie tussen 3-6J
+Ter behandeling van velofaryngeale insufficiëntie indien spraaktherapie faalt
+Techniek
+Orticochea (dynamisch sfincter herstel)
+San Venero Roselli (superior gesteelde farynxachterwand plastiek)
+Osteoplastie
+BIG = bot in gnatho = Herstellen benige continuïteit thv processus alveolaris
+Kan bij primair sluiten van de lip of op latere leeftijd
+Timing 
+Niet meer primair -> groei problemen
+Secundair à beter resultaat
+8-12j cfr. Doorbraak hoektand
+Tijdstip baseren op positie en stadium wortelformatie hoektand aan schisiszijde (1/2 en 2/3 wortelvorming)
+Donorplaats
+Heupkam, rib of kinbot
+Kinbot lijkt het best maar vaak te veel bot nodig
+3 interventies
+Verwijderen melkelementen
+Bottransplantaat
+Bonding hoektand/snijtand voor doorbraakbegeleiding door orthodontist
+Tonglap
+Heel rijke geschiedenis in reconstructie defecten in de mondolte
+Indicatie
+Uitkomst waar geen geschikte alternatieve reconstructie voorhanden bij middelgroot defect
+Schsis: herhaalde pogingen tot spleetsluiting
+Omgevende palatumweefsel is ischemisch, verlittekend en onregelmatig
+Techniek
+Anterieur mediaan gesteelde tonglap
+Al dan niet met nasaal blad
+Minstens 5mm dik, en 5cm lang
+Max 2/3 van tongbreedte en basis van 2-3cm
+Steel na 25 dagen onder lokale doornemen
+Dan intuberen
+Tonglapsteel terugplaatsen en bijwerken
+Correcties palataal mogelijk vanaf 6m
+Groot voordeel
+Werkt in ischemische gebieden!! Brengt goede vascularisatie mee
+Omtrek van tong zal verminderen maar geen problemen met mobiliteit, spreken, slikken en smaak
+Nadeel
+Steel moet 2-3w blijven
+Spreekverbod en vloeibare voeding
+Kaakchirurgische correctie
+Timing
+15-19j
+Indicatie
+Pseudoprogeen uiterlijk
+Omgekeerde beetrelatie met infra-occlusie
+R/
+Le Fort 1 osteotomie
+Of segmentosteotomie
+Zz met bsso bij
+Indien maxilla te ver naar voor zou moeten -> velopharygeale insuf
+Overige
+Neusseptum en rhinoplastie
+Halithose (maxillaire sinusitis met postnasal drip)
+Osas
+Secundaire correcties
+Litteken camouflage
+Esthetische thk
+Implantaten
+Erfelijkheidsadvies
+Sluiten palatum is belangrijkste
+Spraak en articulatie
+Gehoor
+Ontwikkeling maxilla
+Invloed uiterlijk door maxillaire onderontwikkeling
+Invloed van deze factoren op zelfbeeld patiënten
+Interdisciplinaire samenwerking
+Voedingsadvies
+Kort na de geboorte essentieel
+Teaching aan ouders
+Rekening met
+Type voeding (borst of niet)
+Kwaliteitsparameters
+Groei en lengte kind
+Luchthappen
+Verslikken
+Nasale regurgitatie
+Flow intake
+Voedingstijd
+Gehoor à goede spraak
+Gevaar: recidiverende oorontstekingen
+Buis van Eustachius
+Normaal
+Gesloten
+Enkel open bij slikken en geeuwen door tractie m. tensor en levator veli palatini
+Zo luchtdruk middenoor en nasofarynx gelijk brengen
+Schisis
+Geen m. tensor en levator in normale positie
+Geen opening tuba
+à sereuze otitis -> geleidingsdoofheid
+R/ diabolo in trommelvlies
+Detectie
+Audiometrisch onderzoek
+Beter: impedantiemetrie
+Neusseptum
+Deviatie -> oorzaak slechte neusfunctie
+à sinus maxillaripatholgoie
+à scheefstand neus
+Adenoïden dragen bij tot sinusprobleem
+Adenoidecotmie -> kan open neusspraak geven
+Tonsillen
+Amygdalectomie overwegen bij chronische recidiverende angina’s
+Cave beschadiging m. palatoglossus en palatopharyngeus
+Spraakontwikkleing
+Goed volgen na sluiten verhemelte
+Functies: spraak, zingen, slikken, kauwen, blazen
+Belangrijkste sociaal -> spraak
+Naast goed functionerend gehemelte is perfect gehoor esssentieel
+Spraakstoornissen à tweeërlei aard:
+Resonantiestoornis
+Hypernasaliteit = velum kan niet maximaal sluiten
+Probleem bij explosieve medeklinkers (p,b,t,d,k)
+Articulatiestoornis
+Samenspel vn lippen, tong, week gehemelte, gehemeltegewelf en tandenboog
+Meest storend bij palatoschisis
+Compensatoir mechanisme om toch afsluiting te krijgen = glottisslag
+Tongbasis naar achter verplaatsen
+Belang van logopedie
+Onderzoek
+Functie van gemelte (nasaliteit)
+Explosieve worrden in zinnen (potteke)
+Metalen plaat onder neus houden -> ontsnapte lucht detecteren
+OF fluoroscopie na aanbrengen hydrast op gehemelte (nadeel -> maar één dimensie)
+Nasofaryngoscopie
+Belang van beoordelen zijwaartse beweging farynxwand voor prognose faryngoplastiek
+Indien logopedische oefeningen geen verbetering van de nasaliteit brengen -> faryngoplastiek
+Technieken
+Schönborg-Rosenthal OF Sanvenero-Rosselli
+Beiden à gesteelde farynxlap ingedraaid in het gehemelte
+Best op leeftijd van 7j
+Anders verkeerde compensatiemechanismen te diep ingeworteld
+Bijkomende ingrepen
+Lippenrood in het midden bovenlip corrigeren = Kapetansky-Juri verschuivingsplastiek
+Te korte bovenlip: Abbé-lap
+Fistels in palatum: gesteelde tonglap – buccale mucosale transpositieflap (a. facialis)
+Orthodontische behandeling
+Tand- en kaakbeenanomalieën veroorzakt door
+Primaire misvorming
+Fibreuze retractie door heelkunde
+Typisch
+Asymmetrische verplaatsing processi alveolares
+Kleinste segment naar binnen met eerste molaar als rotatiepunt
+° kruisbeet thv hoektand
+Rotaties, kipping en dysplasie van tanden nabij de spleet
+Doel:
+Expansie bovenkaak
+Voorzichtig: geen scheur in palatinale littekens
+Lange behandeling met vaak nood tot prothese OF secundaire osteoplastiek
+Cariësverzorging
+Soms indruk dat schisispatiënt hogere vatbaarheid heeft
+Waarschijnlijk te wijten aan onregelmatige stand van de tanden -> moeilijke reiniging
+Secundaire reconstructies
+Rhinoplastiek en Le Fort osteotomie
+Preprothetiek en implantologie
 
 ## Cerebrocraniofaciale dysplasieën
 - Afwijkingen hersenen, neurocranium, ogen en aangezichtsschedel
