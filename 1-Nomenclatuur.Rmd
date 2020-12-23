@@ -1,4 +1,155 @@
 # Nomenclatuur
+## Inleiding
+De nomenclatuur bestaat uit:
+
+- twee codes van 6 cijfers: ambulant nummer en hospitalisatie nummer
+  - indien voorlaatste cijfer onpaar is = ambulant nummer
+  - indien voorlaatste cijfer paar is = hospitalisatie nummer
+- K,L,N sleutelletter en een coëfficient
+  - N: adviezen, bezoeken, raadpleging, technische aktes
+  - D: beschikbaarheid
+  - E: verplaatsingskosten
+  - K: andere technische aktes
+  - B/F: klinische biologie
+  - A/C: toezichtshonoraria
+  - I: percutane interventionele verstrekking
+  - Q: accrediteringssupplement
+- Libellé (uitleg over de prestatie) met interpretatieregels vermeld
+- Waarde in euro, remgeld
+
+De nomenclatuur is opgedeeld in artikels:
+
+- Art 1: algemene bepalingen: sleutelletter, fysische aanwezigheid, stagedoende
+- Art 2: adviezen, raadplegingen, bezoeken
+- Art 3: technisch geneeskundige verstrekkingen
+- Art 4, 5, 6: tandverzorging
+- Art 7: kinesitherapie
+- Art 8: verpleegkundige zorg
+- Art 9: verlossingen, vroedvrouwen
+- Art 10: algemene bepalingen specialistische zorg
+- Art 11: algemene specialistische zorg
+- Art 12: anesthesie
+- Art 13: reanimatie
+- Art 14: heelkunde
+  - a. Algemene heelkunde
+  - b. Neurochirurgie
+  - c. Plastische heelkunde
+  - d. Heelkunde op abdomen
+  - e. Heelkunde op thorax
+  - f. Bloedvatenheelkunde
+  - g. Gynaecologie
+  - h. Oftalmologie
+  - i. ORL
+  - j. Urologie
+  - k. Oftalmologie
+  - l. Stomatologie
+  - m. Transplantaties
+- Art 15: toepassingsregels heelkunde
+- Art 16: operatieve hulp
+- Art 17: medische beeldvorming
+- Art 18: radiotherapie en nucleaire
+- Art 19: toepassingsregels art 18
+- Art 20: inwendige geneeskunde
+  - a. inwendige geneeskunde
+  - b. pneumologie
+  - c. gastro-enterologie
+  - d. kindergeneeskunde
+  - e. cardiologie
+  - f. neuropsychiatrie
+  - g. reumatologie
+- Art 21: dermato-venerologie
+- Art 22-23: fysiotherapie
+- Art 24: klinische biologie
+- Art 25: toezichthonoraria
+- Art 26: dringendheidshonoraria
+- Art 27: bandagisterie
+- Art 28: synthesemateriaal, rolwagens
+- Art 29: orthopedische toestellen
+- Art 30: opticiens
+- Art 31: gehoorprothesisten
+- Art 32: pathologische anatomie
+- Art 33: genetische onderzoeken
+- Art 34: interventionele verstrekkingen
+- Art 35: implantaten
+- Art 36: logopedie
+
+MKA heeft toegang tot nomenclatuur van (connexisme):
+
+- ORL
+- Algemene heelkunde
+- Plastische heelkunde
+- Orthopedie
+- Tandheelkunde art 5-6
+
+K-waarden MKA art 14l op 1-9-2016 in €:
+
+- K6 = 8,36
+- K10 = 12,39
+- K11 = 15,33
+- K21 = 26,03
+- K25 = 34,85
+- K30 = 41,82
+- K42 = 52,05
+- K50 = 69,70
+- K62 = 76,84
+- K75 = 104,56
+- K112,5 = 189,38
+- K120 = 202,00
+- K150 = 252,50
+- K180 = 303,00
+- K200 = 336,67
+- K225 = 378,76
+- K250 = 420,84
+- K300 = 505,01
+- K400 = 841,68
+- K400 = 748,25 (énkel voor de 317295-317306)
+- K500 = 1052,10
+- K1250 = 2630,24
+- (22.10.2018: K600 = 1148,66 euro)
+
+## Algemene MKA regels
+De mond bestaat uit 4 kwadranten
+
+- De bovenkaak bestaat uit 2 kwadranten
+- De onderkaak bestaat uit 2 kwadranten
+
+Opereerstreken:
+
+- Tweede ingreep binnen zelfde opereerstreek mag NIET geteld worden indien eveneens prestatie uit art. 14
+- Tweede ingreep in andere opereerstreek mag geteld worden à 50%
+- libellé zelf kan "opereerstreek" aangeven; dan primeert dit op de algemene regel
+  - 317074 (gingivectomie) "over een streek van minimum 6 tandholten aan één kaakbeen"
+  - 317030 (alveolectomie) "over een streek van minimum 6 tanden"
+  
+## Bijlage 59
+- Komt overeen met een K600
+
+Volgende tarieven worden gehanteerd:
+```{r, echo=FALSE, message=FALSE}
+library(tidyverse)
+library(kableExtra)
+library(readxl)
+
+data <- read_excel("bijlage-59-tarieven.xlsx")
+data %>%
+knitr::kable() %>%
+  kable_styling(fixed_thead = T, bootstrap_options = c("striped", "hover", "condensed", "responsive"), font_size = 12)
+```
+
+## Oncologie
+1. 3D Planning
+2. Bijlage 59
+3. Peroperatieve navigatie
+4. Tracheotomie
+5. Resectie tumor - extracties
+6. Halsklierevidement - sentinelprocedure
+7. Reconstructie
+8. Microchirurgische acte
+9. Inhechten lap die defect dicht
+10. Adaptatie reconstructieplaat
+11. Oncologie-implantaten
+
+## Nomenclatuurlijst
 ```{r nomensoft, echo=FALSE}
 library("readxl")
 library("reactable")
