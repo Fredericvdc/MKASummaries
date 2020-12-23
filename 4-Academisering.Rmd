@@ -1,191 +1,57 @@
 # Academisering
 ## Overzicht volgens aanbieding
 ### Tweede jaar
+```{r, echo=FALSE, message=FALSE}
+library(tidyverse)
+library(kableExtra)
+library(readxl)
 
-1. [Welke criteria bestaan voor een extraorale incisie als drainage voor dentoalveolaire abcessen in de onderkaak](#vraag21)
-2. Letsels aan de nervus alveolaris interior bij mond of kaakchirurgische ingrepen: incidentie en onderzoek van de patiënt?
-3. Bespreek de behandeling van een patiënt met dreigende obstructie van de luchtweg tengevolge van zwelling
-4. Hoe frequent treedt schade op van de nervus lingualis bij verwijdering van derde molaren in de onderkaak?
-5. Hoe zou jij handelen bij het vaststellen van een anesthesie in het bezenuwingsgebied van de nervus lingualis, nadat een derde ondermolaar verwijderd werd?
-6. Heelkunde van de sinus maxillaris: methoden en verwikkelingen
-7. Replantatie van hoektanden: principe en prognose
-8. Classificatie van de cysten: prognose en behandeling
-9. Aan welke voorwaarden moet botvervangend materiaal voldoen?
-10. Bespreek het verschil tussen een manifeste en een potentiele infectieuze focus en hoe zul je hiermee omgaan wanneer een kans bestaat op het ontwikkelen van endocarditis?
-11. Hoe benader je de klacht van chronische pijn in de maxillaire sinus? Bespreek ook de differentiële diagnose van de mogelijke pathologie?
-12. Bespreek de indicaties voor tandkiemtransplantatie en geef enkele voorbeelden
-13. Hoe zou jij de mond en het restgebit voorbereiden bij een patiënt die radiotherapie zal ondergaan?
-14. Hoe zou jij de mond en het restgebit voorbereiden bij een patiënt die in het kader van een oncologische behandeling van botmetastasen met XGEVA (denosumab)  gaat behandeld worden?
-15. Bespreek het onderzoek en de behandeling van een patiënt met een zwelling in de sublinguale regio.
-16. Behandeling van dentoalveolaire infecties?
-17. Welke stappen en welke factoren zijn van belang bij het transplanteren van een tandkiem?
-18. Welke symptomen wijzen in de richting van een keratocyste? Welk is de behandeling?
-19. Wat is een Frey-syndroom?
-20. Wat is fibreuze dysplasie en onder welk pathologietype zou jij deze afwijking onderbrengen?
-21. Wat is een Nikolski-test, voor welke aandoening is zij specifiek als de test positief is?
-22. Som de mogelijke oorzaken op voor beperking van de maximale mondopening
-23. Som al de mogelijke oorzaken op voor gingiva-hyperplasie en welke behandeling kies je hiervoor
-24. Wat weet je over actinomycose in het gelaat en in de hals?
-25. Wanneer stel je een antibiotische behandeling in met profylactische of met therapeutische bedoeling? Hoelang dien je de antibiotica toe en welke antibiotica genieten de voorkeur?
-26. Bespreek de classificatie van leukoplakie. Welk is de behandeling hiervoor en welke prognose hoort erbij?
-27. Etiologie en behandeling (locaal en systemisch)  van lichen planus?
-28. Oorzaken voor droge mond (xerostomie)
-29. Odontogene tumoren: classificatie, prognose en behandeling?
-30. Bespreek de differentiële diagnose bij een zwelling in de halsregio
-31. Hoe zou jij een acute Ludwig's angina behandelen?
-32. Som de meest belangrijke gevolgen op van radiotherapie, toegediend in de hoofd- en halsregio
-33. De classificatie, de symptomen en de behandeling van dentoalveolaire infecties (abcessen) en de complicaties
-34. Behandeling van osteomyelitis van de onderkaak?
-35. Welke is de behandeling voor een recurrent ameloblastoma in het corpus mandibulae? = oa H46?
-36. Bespreek het gebruik van antibiotica bij electieve mond-, kaak-en aangezichtsheelkunde
-37. Bespreek de implicaties voor de chirurg bij de behandeling van een HIV of een hepatitis B positieve high risk patiënt
-38. Etiologie en behandeling van infecties van de diepe cervicale ruimten.
-39. Pathogenese en radiografische bevindingen bij een primair chronische osteomyelitis in de kaakbeenderen
-40. Chirurgische behandeling van de kaak die door secundaire chronische osteomyelitis aangetast is.
-41. De cyste van de ductus thyroglossus: pathogenese en behandeling
-42. Keratocyste: diagnostische criteria en behandeling
-43. Acute maxillaire odontogene sinusitis: klinisch voorkomen, diagnose en behandeling?
-44. Welke oorzaken ken je die een beperkte mondopening tot gevolg hebben wegens een extra
-45. Welke differentiële diagnose ken je voor een brandend gevoel in de tong?
-46. Benoem de profylactische maatregelen die je toepast bij patiënten die radiotherapie ondergaan in de orofaciale regio
-47. Bespreek de profylactische maatregelen die je treft bij patiënten die chemotherapie zullen ondergaan in de orofaciale regio
-48. Bespreek de orale manifestaties van AIDS
-49. Bespreek de differentiële diagnose bij faciale neuralgie
-50. Hoe ontstaat schade aan de perifere zenuwen bij mond-, kaak-en aangezichtschirurgie? Welke diagnosemiddelen bestaan er? Welk is de prognose en de therapie?
-51. Parese van de nervus facialis: etiologie, symptomen en therapie
-52. Hoe en wanneer zou een iatrogeen letsel aan de nervus lingualis hersteld moeten worden?
-53. Hoe en wanneer zou een iatrogeen beschadigde nervus alveolaris inferior hersteld moeten worden?
-54. Welke maatregelen neem je wanneer een patiënt een vreemd voorwerp geaspireerd heeft? Welke maatregelen wanneer hij een vreemd voorwerp doorgeslikt heeft?
-55. Hoe voer je een urgente cricothyrotomie uit?
-56. Bespreek de fysiologie van hemostase. Welke redenen of oorzaken voor congenitale hemorragische afwijkingen ken je en wat is preferentieel voor een behandeling?
-57. Bespreek de tandheelkundige richtlijnen voor extracties bij patiënten onder bloedverdunners
-58. Hoe zou jij een acute allergische situatie behandelen?
-59. Wat weet jij over urgente behandeling bij infectie en bloeding in de hoofd- en halsstreek?
-60. Wanneer gebruik je CT, MRI, ultra-sonografie? Welke structuren of pathologie worden het best gevisualiseerd met welke techniek?
-61. Welke radiologische tekens zijn er voor een fractuur van een breuk ter hoogte van het os zygomaticum?
-62. Bespreek voor-en nadelen van CT, danwel magnetisch resonantie-onderzoek bij het stageringsonderzoek van mondkanker
-63. Welke differentiële diagnose ken je bij radiologische densiteitsverschillen in de onderkaak?
-64. Welke oppervlakkige veranderingen in de mondmucosa en welke onderliggende pathologie moet beoordeeld worden als precancereuze laesie of voorbeschikkend hiertoe?
-65. Bespreek de epidemiologie en de nosologische aspecten van precancereuze laesies in de mondholte?
-66. Etiologie van mondkanker?
-67. Bespreek de acute medische problemen die kunnen ontstaan bij een zwaar getraumatiseerd gelaat, zoals bij slachtoffers van een verkeersongeval
-68. Welke verwikkelingen kunnen ontstaan in de weke delen?
-69. Noem de meest belangrijke oogletsels op die geassocieerd zijn met traumata in het middengelaat
-70. Welke methode zou jij gebruiken om een oogletsel te identificeren?
-71. Welke laattijdige verwikkelingen kan men verwachten bij een trauma van de kaakkop op jeugdige leeftijd? Welke maatregelen kun je nemen ter preventie hiervan?
-72. Beschrijf de behandeling van een orbitale blow-out fractuur
-73. Bespreek de classificatie van de fracturen van het collum mandibulae en van het kaakkopje. Welke behandeling stel je daarbij voor?
-74. Bespreek de diagnose, maar ook de behandeling van onderkaakfracturen.
-75. Bespreek de symptomen, de diagnose en de behandeling bij fracturen van het zygoma en de orbita
-76. Bespreek de behandeling van onderkaaksfracturen in oudere tandeloze patiënten
-77. Bespreek de verwikkelingen die kunnen optreden bij onderkaakstracturen
-78. Bespreek de algemene principes bij de heelkundige behandeling van weke delen letsels
-79. Bespreek de behandeling van een kaakkopfractuur bij kinderen
-80. Bespreek de mogelijke ogenblikken voor behandeling en de chirurgische procedures bij onderkaaksfracturen
-81. Bespreek de mogelijke ogenblikken voor behandeling en de chirurgische procedures bij Le Fort I, II en III fracturen
-82. Bespreek de verwikkelingen van orbito-zygomatische fracturen
-83. Bespreek de indicatie tot en beschrijf ook de verschillende typen interne en externe rigide fixatie bij gelaatsskeletfractuur
-84. Hoe behandel je een unilaterale gedislokeerde fractuur van het collum mandibulae bij een kind en waarom?
-85. Welke mechanismen zijn verantwoordelijk voor posttraumatische enoftalmie? Welke therapeutische mogelijkheden ken je?
-86. Welke behandelingsopties heb je bij fracturen van de tandeloze bovenkaak?
-87. Welke houding neem je aan wanneer er tanden of tandwortels in het verloop van de fractuurlijn liggen?
-88. Behandeling van temporomandibulaire gewrichtsfracturen: chirurgische techniek?
-89. Bespreek de verschillende behandelmodaliteiten voor condylaire fracturen van de onderkaak
-90. Bespreek de mogelijke negatieve effecten van osteosynthesematerialen
-91. Bespreek vroege complicaties en verwikkelingen die kunnen ontstaan bij oogkasfracturen
-92. Bespreek de diagnose en de behandeling van naso-orbito-etmo√Ødale fracturen
-93. Bespreek voor-en nadelen van de verschillende botfixatiemethoden die toegepast worden in mond-, kaak-en aangezichtschirurgie. Bespreek daarbij in detail de osteosyntheseplaten.
-94. Welke zijn de indicaties voor een open reductie van een onderkaaksfractuur?
-95. Welke behandelopties heb je bij fracturen van het bot dat de sinus frontalis vormt?
-96. Welke behandelaanbevelingen zijn er en welke technieken bestaan in de behandeling van verse posttraumatische telecanthus?
-97. Welke moeilijkheden kenmerken de behandeling van een fractuur ter hoogte van de processus alveolaris in de onderkaak?
-98. Bespreek de primaire en de secundaire botheling bij breuken?
-99. Diagnostische procedures bij pathologie van het temporomandibulair gewricht?
-100. Welke diagnostische en therapeutische maatregelen kunnen genomen worden wanneer een acute closed lock optreedt?
-101. Wat is het myofasciaal pijnsyndroom? Bespreek de therapeutische mogelijkheden.
-102. Welke beeldvormingstechniek is volgens U het meest ideaal om interne ontregeling van het temporomandibulair gewricht te duiden?
-103. Bespreek de oorzaken en de behandeling voor ankylose van het kaakgewricht
-104. Bespreek de behandeling door middel van opbeetplaat bij temporomandibulaire aandoeningen
-105. Bespreek de heelkunde voor interne ontregelingen van het kaakgewricht en voor kaakkopluxatie
-106. Geef enkele indicaties voor het gebruik van een Z-plastiek
-107. Functionele therapie bij aandoeningen van het kaakgewricht: indicaties en principes?
-108. Bespreek de arthrotische aandoeningen van het kaakgewricht
-109. Bespreek de habituele luxatie van het kaakgewricht. Hoe onderzoek je de patiënt en welke zijn de verschillende behandelmethoden?
-110. Bespreek de diagnose en de behandelmogelijkheden voor luxatie van de discus articularis in het kaakgewricht
-111. Welke klinische bevindingen kan men aantreffen bij pijn in en random het kaakgewricht.
-112. Welke indicaties zijn er voor heelkunde wanneer interne ontregeling van het kaakgewricht gesteld is?
-113. Geef een lijst van alle mogelijke onderzoeksmethoden en technieken die noodzakelijk zijn om een gedetailleerde diagnose te stellen van afwijking in de kaakrelatie bij extreme overontwikkeling van de onderkaak. Licht dit toe.
-114. Wat weet je over de incidentie van condylaire resorptie, optredend na orthognatische heelkundige correcties?
-115. Geef een kort overzicht van de verschillende fixatie-en osteosynthesemogelijkheden? Wat is hun statistische stabiliteit, danwel relapsprognose? Welke zijn de respectievelijke voor-en nadelen?
-116. Bespreek de verschillende types van onderkaaksosteotomie en geef daarbij indicaties aan.
-117. Bespreek de verwikkelingen die kunnen optreden bij bilaterale sagittale osteotomie van de opstijgende kaaktak.
-118. Bespreek de verwikkelingen die kunnen optreden bij bovenkaaksosteotomieën op het niveau Le Fort I.
-119. Bespreek asymmetrie van het gelaat: de ontwikkelingsstoornissen en verworven afwijkingen
-120. Bespreek de principes die gebruikt worden bij het plannen van een osteotomie
-121. Welke veranderingen treden op met betrekking tot de neus bij osteomieën van de bovenkaak, niveau Le Fort I?
-122. Welke factoren be√Ønvloeden de relaps bij orthognatische onderkaaksheelkunde?
-123. Bespreek de indicaties voor een sagittale splitsingsosteotomie van de onderkaak
-124. Welke zijn de belangrijke punten, lijnen en hoeken die berekend kunnen warden bij een patiënt met kaakrelatie-afwijkingen? Welke rol spelen deze waarden bij het finale plan tot heelkunde?
-125. Welke veranderingen in het profiel warden teweeggebracht wanneer een bovenkaaks
-126. Welke zijn prognostisch goede, respectievelijk ongunstige technieken om een open beet te sluiten?
-127. Welke gevolgen voor de spraak kunnen ontstaan bij bovenkaaksosteotomieën, type Le Fort I, waarbij het dentopalataal segment naar voor verplaatst wordt?
-128. Welke verwikkelingen kunnen ontstaan bij een verlengingsosteotomie van de onderkaak door middel van sagittale splitsing in de regio van de kaakhoeken?
-129. Diagnostische procedure bij zwelling van de speekselklieren
-130. Bespreek het onderzoek van speekselkliertumoren
-131. Bespreek de preventie en ook de behandeling van het Frey-syndroom
-132. Welke systeemaandoeningen hebben een duidelijke weerslag op de speekselklieren?
-133. De speekselkliertumoren: classificatie, histologie en prognose?
-134. Wat is het syndroom van Sjogren en hoe wordt het gediagnosticeerd?
-135. Bespreek de anatomische structuren en referentiepunten die belangrijk zijn bij het verwijderen van een onderkaaksspeekselklier
-136. Bespreek de hiërarchie van stabiliteit na orthognatische ingrepen
-137. Bespreek het voorkomen en de  oorzaken van hypodontie
-138. Bespreek  hyperodontie binnen mka
-139. Wat is het belang van abfractie, erosie, attritie, abrasie voor de mka-arts
-140. Bespreek de degeneratieve aandoeningen van het kaakgewricht
-141. Bespreek de kliniek en de behandeling van cluster headache
-142. Bespreek de verschillende vormen van osteopetrose.  Wat zijn de orale afwijkingen bij osteopetrose?
-143. Bespreek de pijnloze ulcera in de mond
-144. Bespreek de verschillende vormen van het syndroom van Lyell
-145. Bespreek de ANUG (kliniek, oorzaak, verloop, behandeling, diff. diagnose)
-146. Bespreek de verschillende vormen van ranula, de diff. diagnose, de prognose/recidief, de behandeling
-147. Bespreek de sialoadenosen
-148. Bespreek de rol van spierrelaxantia, antiepileptica en antidepressiva in de behandeling van TMJ-stoornissen
-149. Bespreek de kieuwboogafwijkingen van de hals
-150. Bespreek de kliniek en behandeling van AV-malformaties van het lymfatische type thv. de tong
-151. Bespreek het mechanisme van verkleuringen van de mondmucosa en van pigmentaties
-152. Bespreek de risicofactoren voor het ontstaan van een harige tong
-153. Bespreek de behandelingskeuzes voor de ingesloten hoektand in de bovenkaak
-154. Bespreek de kliniek en behandeling van een dished in fac
-155. Bespreek de visusstoornissen bij fracturen van het middengelaat
-156. Welke aandoeningen veroorzaken korsten op de lippen?
-157. Bespreek de systemische afwijkingen en syndromen met gepigmenteerde melanocytische laesies
-158. Bespreek de transportroute en het infectierisico door hepatitis virussen in de mka-praktijk evenals de voorzorgsmaatregelen en incubatietijd
-159. Bespreek het kiemdodend effect van alcoholen versus peroxiden
-160. Bespreek de risicoklassen van Spauling mbt tot het decontaminatieniveau van instrumenten
-161. Welke comorbiditeiten verhogen in MKA het risico op een thrombose?
-162. Wat is de rationale om NOAC's te stoppen de dag van de ingreep?
-163. Bespreek bridging in de MKA-praktijk en geef een schema
-164. Bespreek kenmerken, indicaties en contra-indicaties van verschillende topische hemostatica
-165. Hoe behandel je nabloedingen na extracties in de MKA-praktijk
-166. Bespreek de systemische en erfelijke factoren van impacties van hoektanden
-167. Bespreek de uniloculaire vs multiloculaire radiolucenties die zich pericoronair bevinden bij ingesloten tanden
-168. Bespreek de effectieve stralingsdosis van een rx apicaal, een rx opg en een CBCT (kleine vs grote FOV)
-169. Wat zijn de oorzaken van een moon-facies. Welke patiënten zijn ad risk?
-170. Bespreek de behandeling van fracturen van de achterwand van de sinus fontalis
-171. Wat is de work-up van een lymfadenopathie in de hals?
-172. Bespreek de behandeling van de lingua villosa
-173. Wanneer spreek je van flegmone, wanneer van cellullitis (vergelijk de terminologie in de Amerikaanse, Franse, Nederlandse en Belgische MKA-literatuur)
-174. Bespreek de etiologie, anatomische grenzen, symptomen en evolutie van een latero-faryngeale flegmoon
-175. Bespreek de type 1, 2, 3 NOE fracturen volgens Markowitz.
-176. Bespreek de oorzaken, diagnose en behandeling van een liquorlek bij midfaciale fracturen
-177. Bespreek de mogelijke oorzaken van een open beet die optreedt na een bimaxillaire orthognatische ingreep. Hoe achterhaal je de oorzaak?
+data <- read_excel("Examenvragen-2.xlsx")
+data %>% select(Nummer, Link, Vraag) %>%
+knitr::kable() %>%
+  kable_styling(fixed_thead = T, bootstrap_options = c("striped", "hover", "condensed", "responsive"), font_size = 10)
+```
 
 ### Vierde jaar
+
+```{r, echo=FALSE, message=FALSE}
+library(tidyverse)
+library(kableExtra)
+library(readxl)
+library(plyr)
+
+data <- read_excel("Examenvragen-4.xlsx")
+data %>% select(Nummer, Link, Vraag) %>%
+knitr::kable() %>%
+  kable_styling(fixed_thead = T, bootstrap_options = c("striped", "hover", "condensed", "responsive"), font_size = 10)
+```
 
 ## Overzicht volgens thema
 ### Tweede jaar
+```{r, echo=FALSE, message=FALSE}
+library(tidyverse)
+library(kableExtra)
+library(readxl)
+library(plyr)
+data <- read_excel("Examenvragen-2.xlsx")
+data %>% select(Cat, Link, Vraag, Nummer) %>%
+plyr::arrange(Cat, Nummer) %>%
+knitr::kable() %>%
+  kable_styling(fixed_thead = T, bootstrap_options = c("striped", "hover", "condensed", "responsive"), font_size = 10)
+```
 
-### Vierde jaar
+### Vierde jaar 
+```{r, echo=FALSE, message=FALSE}
+library(tidyverse)
+library(kableExtra)
+library(readxl)
+library(plyr)
+data <- read_excel("Examenvragen-4.xlsx")
+data %>% select(Cat, Link, Vraag, Nummer) %>%
+plyr::arrange(Cat, Nummer) %>%
+knitr::kable() %>%
+  kable_styling(fixed_thead = T, bootstrap_options = c("striped", "hover", "condensed", "responsive"), font_size = 10)
+```
 
 ## Alle vragen
 ### Welke criteria bestaan voor een extraorale incisie als drainage voor dentoalveolaire abcessen in de onderkaak {#vraag21}
