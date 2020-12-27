@@ -1,0 +1,249 @@
+# Faciale asymmetrie
+## Diagnostische workup
+Welke diagnostische middelen?
+
+- Klinische foto’s
+- 2D radiografie (OPG + TELE + AP)
+- Cefalometrische evaluatie
+- 3D fotografie
+- 3D radiografie (CBCT)
+- Intra-orale scanner
+- Modellen
+- Botscintigrafie
+- SPECT
+- Polsradiografie
+- Orthognatische evaluatie
+- T-scan
+- MRI
+
+Cartesiaans kruis:
+
+- Geeft Dentale & Skeletale middellijnen van BK & OK
+- CAVE: extractie fronttand – accessoir frontelement
+
+Beoordelen asymmetrie:
+
+- Radiologische opnamen: OPG
+  - Al dan niet symmetrisch voorkomen condyli –  ramus ascendens
+  - CAVE: juiste positie beeld nemen!
+- Radiologische opnamen: AP
+  - Horizontale lijn doorheen orbitaal vlak => Vglk met lijn van occlusaal vlak
+- Klinische foto:
+  - Interpupillaire lijn => Vglk met lijn door beide commisura labialis
+  - Latje tussen pupillen EN op latje laten toebijten
+- Scoliose patiënten:
+  - Altijd full body RX
+- SPECT-CT:
+  - Kijkt Tracercaptatie (99lTc-MDP) tusssen beide condylaire groeicentra
+  - NORMAAL: verschil li tov re MAX 12%
+  - PATHOLOGISCH: verschil li tov re > 12%
+  - Welke zijde hypercaptatie en welke Hypocaptatie? ALTIJD CORRELATIE MET KLINIEK!!!
+  
+## VRAAG 1: Betreft het een defect van de weke weefsels of bot?
+Vergelijk symmetrie in RUST (statisch) & BEWEGING (dynamisch)
+Oorzaken asymmetrie?
+
+- Littekens: parotidectomie   => perifere facialisparese
+- Radiotherapie: 30Gy, geen groei suturen (KINDERLEEFTIJD)
+- Musculaire oorzaken
+  - Parry-Romberg: dystrofie van weke delen (onderhuids vet) EN skelet
+  - Torticollis: contractuur M. SCM=> Als congenitaal: CHIRURGIE < 5 jaar!
+  - Macroglossie
+  - Unilaterale masseterhypertrofie
+- Thv Vetweefsel
+  - Congenitaal infiltrerende lipomatose
+  - Faciale lipodystrofie
+- Lymfovasculaire afwijking
+  - Melkerson Rosenthal: asymmetrie van lippen obv granulomateuze ontsteking (evt + facialisparese)
+- Facialisparese:
+  - Centraal vs Perifeer
+  - Volledige hemifaciale parese vs individuele takken (r. Marginalis submand)
+
+## VRAAG 2: waar bevindt zich de skeletale asymmetrie?
+Asymmetrie thv bot => ga altijd van BOVEN naar BENEDEN:
+
+- Schedelbasis
+- Orbitae
+- TMJ
+- Neus
+- Maxilla
+- Tanden
+- Mandibula
+- Kin
+
+Kijk altijd na:
+
+- Bi-pupilaire lijn
+- Occlusaal vlak
+- Skeletale midlijn – Dentale midlijn
+- Kaakhoek
+- Yaw: afwijking kaken in horizontaal vlak
+- Pitch: afwijking kaken in sagittale vlak
+- Roll:afwijking in frontale vlak
+
+## VRAAG 3: schedelbasis en orbitae
+Beïnvloedt:
+
+  - Interpupillaire lijn – Fossa Glenoïdalis – Maxilla
+  
+Verschillende oorzaken:
+
+- Unilaterale coronale craniosynostose=> ALTIJD AFWIJKENDE OORIMPLANTATIE
+- Posterieure plagiocephalie
+- Torticollis => chirurgische correctie < 5j
+- Scoliose=> (!) Oorzaak (!) van faciale asymmetrie & TMJ klachten
+  - Laterale Kruisbeet
+  - Unilateraal LAGER oor (door scheefstand hoofd!)
+
+Differentiaal diagnose: dmv RX wervelzuil!
+
+- Verschillende afwijkingen binnen “Tessier groep 3”
+
+CAVE: grote interindividuele verschillen qua observators! Daarom: objectief mbv 3D beeldvorming (CT/CBCT)
+
+## VRAAG 5: TMJ betrokken?
+
+Verschillende vragen:
+
+- Verworven vs congenitale aandoening
+- Functie van TMJ gecompromitteerd?
+- Stabiel of evolutief? Secundaire effecten OK/BK/Tanden/Kin
+- Effect Botscintigrafie
+
+### Verworven versus Congenitaal
+
+- Bij verworven aandoening:
+  - Onderontwikkeling TMJ
+    - Condylaire fractuur
+    - Artritiden
+    - Ankylose
+    - Radiotherapie
+    - Condylaire resorptie
+  - Overontwikkeling TMJ
+    - Tumoren
+    - Aneurysmale botcyste
+    - Condylaire hyperplasie
+  - Traumatische occlusie:
+    - Kan leiden tot asymmetrie!=> Dwangbeten & traumatische contacten => Traumatische contacten: wegslijpen!
+- Congenitale aandoening
+  - Hemifaciale microsomie  (Goldenhar syndroom = Oculo-Auriculo-Vertebrale dysplasie)
+  - Syndroom Van Treacher-Collins
+
+### Ankylose TMJ
+
+- Wat?
+  - Beenderige – OF – fibreuze verbinding tussen TMJ & schedelbasis
+- Kliniek
+  - Beperkte mondopening
+  - Als op kinderleeftijd: gestoorde groei & faciale asymmetrie.
+  - Atrofie M. Temporalis
+- Diagnose:
+  - RX OPG:
+  - Bilaterale coronoïdale hyperplasie
+  - Verdwijnen gewrichtsspleet
+  - Antegonial notching
+  - Shift van midlijn NAAR aangetaste zijde
+- Therapie
+  - Kinderleeftijd: GAP arthroplastie & interpositie costochondrale greffe.
+ 
+### Condylaire Hyperplasie
+
+- Wat?
+  - Verworven aandoening met SNELLE Groei
+- Kliniek
+  - SNELLE GROEI:=> Ipsilaterale open beet mét shift van midlijn naar pathologische zijde
+  - TRAGE GROEI:=> Contralat open beet mét shift van midlijn naar pathologische zijde
+  - Mondopening KAN beperkt zijn.
+  - KIDS: kan leiden tot Hemimandibulaire hyperplasie!
+- Therapie
+  - VOLW: Condylaire shave mét IMF
+  - KIDS: Condylectomie, GEEN IMF, WEL functionele apparatuur (idem R/: als condylusfractuur) => Herstel occlusie mbv twin-block in end-to-end.
+
+Bij té laat doorsturen => skewing (occlusie volgt golfplaatpatroon)
+
+### Goldenhar syndroom
+
+- Wat?
+  - Hypoplasie Condylus – Ramus ascendens – Fossa glenoïdalis
+  - 4 types (afh van ernst).
+  - Beperkte hypoplasie=> Volledig afwezig zijn van TMJ.
+- Therapie
+  - Distractieosteogenese(-): meer pijnlijk(-): uitwendige littekens
+  
+## VRAAG 5: is de maxilla betrokken?
+- Asymmetrie thv Maxilla?
+- MOEILIJK te bepalen!  Yaw – Roll – Pitch 
+- Neusfiltrum als basis van Midlijn (NIET schedelbasis)
+- Bepaal: dentale & skeletale midlijn!
+- Verschillende oorzaken Maxillaire hypoplasie:
+  - Hemifaciale hypoplasie
+  - Maxillaire hypoplasie
+  - Hemifaciale hyperplasie
+  - Maxillaire hyperplasie
+  - Asymmetrische extracties
+  - Adaptieve asymmetrie (tov mandibula)
+  - Post-heelkundige asymmetrie
+  - Posttraumatische asymmetrie
+  - Congenitale syndromen (Schisis)
+  - Tand- weke weefsel-bot-sinuspathologie (RT/Fibreuze dysplasie/…)
+- Eigenschappen?
+  - in tijd
+- Skewing:
+  - Occlusie volgt GEEN vlak, WEL golfplatenpatroon
+- Yaw:
+  - Rotatie maxilla in horizontale vlak => vaak NA SARPE met asymmetrische expansie (iatrogeen!)
+- Pitch:
+  - Rotatie Maxilla in sagittale vlak => “inclinatie/steilheid van front
+- Roll:
+  - Rotatie van Maxilla in frontale vlak.
+
+CAVE: Midlijndeviatie > 2mm wordt NIET aanvaard door patiënt!Niet altijd skeletaal, soms ook dentaal (asymmetrische extractie/…) => Behandeling:  orthognatische chirurgie/orthodontie mbv OBA’s
+
+## VRAAG 6: is de mandibula betrokken?
+- OK: Kin
+- OK: Hemifaciale hyper-/hypoplasie
+- Hemifaciale hyper-/hypoplasie: kijk welke kant normaal is (mbv symmetrie-studies).
+
+### Hemimandibulaire elongatie
+- Horizontale component is DOMINANT
+- Kliniek:
+  - WEL gelijke verticale hoogte bilateraal!
+  - Horizontaal verschil li versus re => geeft midlijn shift => vaak combo DENTALE & SKELETALE shift!
+  - Goniale hoek zal afplatten bij elongatie!
+- Behandeling
+  - Occlusie peroperatief corrigeren
+  - CAVE: als je goede occlusie bekomt => vaak bijkomende genioplastie nodig!
+
+### Hemimandibulaire hyperplasie
+- Verticale component is DOMINANT
+- Kliniek:
+  - Meer hoogte hemi-mandibula & corpus (toename afstand apices & nervus)
+  - Ipsilateraal open beet MET compensatoire malocclusie thv maxilla MET linguoversie van tanden in OK. 
+  - CAVE: NIET altijd malocclusie!
+- Behandeling: zenuw lokaliseren, osteotomie & overtollig bot X
+  - Kinderleeftijd (!) => TIJDIG doorsturen!
+  - Kinderleeftijd  => Condylectomie
+  - 12 jaar => Condylectomie + corrigerende osteotomie
+  - Volw leeftijd: zéér moeilijke behandeling (osteotomie & overtollig bot)
+
+### Bilaterale mandibulaire hyperplasie
+- Kliniek
+  - Sterk prominente kin: “Habsburgse kin”
+  - Klasse III
+  - Esthetische Outcome => Afh van mentolabiale plooi
+- Behandeling
+  - BSSO-setback => vaak onvoldoende > 1cm: sterke kans op recidief.
+  - IVRO & Coroïdectomie (evt bilateraal) met 6w IMF=> (-) IVRO zal Goniale hoek afplatten!
+
+### Hemifaciale hyper-/hypoplasie
+- ½ deel van gezicht: Orbita – Maxilla – Mandibula
+- Diff. diagnose links of rechts?
+  - Orbita hypoplasie: zal méér naar onder staan!
+  - Mandibula hyperplasie: toename afstand apices & nervus, toename hoogte hemimandibula, ipsilateraal open beet met compensatoire malocclusie thv maxilla & linguoversie tanden OK
+
+## Conclusie
+- Kijk EERST naar Weke delen => Bot
+- Beoordeel bot systematisch van Boven => Beneden
+- Asymmetrische extracties: vaak negatief effect op esthetiek
+- Heel arsenaal aan corrigerende ingrepen voor asymmetrie
+- Asymmetrie & ontstaan open beten/kruisbeten bij kids=> tijdig insturen!!!
