@@ -1,3 +1,4 @@
+fig:unnamed-chunk-2
 fig:unnamed-chunk-3
 fig:unnamed-chunk-4
 fig:unnamed-chunk-5
@@ -19,15 +20,8 @@ fig:unnamed-chunk-20
 fig:unnamed-chunk-21
 fig:unnamed-chunk-22
 fig:unnamed-chunk-23
-fig:unnamed-chunk-24
-fig:unnamed-chunk-29
+fig:unnamed-chunk-28
 inleiding
-nomenclatuur
-inleiding-1
-algemene-mka-regels
-bijlage-59
-oncologie
-nomenclatuurlijst
 medicaties-in-mka
 pijnstilling
 algemene-richtlijnen
@@ -115,7 +109,7 @@ vraag21
 aangeboren-gelaatsafwijkingen-en-zeldzame-syndromen
 indeling
 gebruikte-indeling-in-uz-leuven
-inleiding-2
+inleiding-1
 andere-indelingen
 fusiestoornissen-en-schisis
 primaire-aangezichtsspleten
@@ -171,12 +165,12 @@ cyste-van-de-grote-speekselklieren
 sialocoele
 sialoadenose
 sialoadenitis
-inleiding-3
+inleiding-2
 virale-sialoadenitis
 parotitis-epidemica-bof
 andere
 bacteriële-sialoadenitis
-inleiding-4
+inleiding-3
 acute-purulente-sialoadenitis
 chronische-recidiverende-parotitis-volwassene
 juveniele-recidiverende-parotitis
@@ -185,7 +179,7 @@ sialolithiasis-1
 xerostomie
 sialorhoea
 sjögren
-inleiding-5
+inleiding-4
 etiologie-1
 epidemiologie
 symptomen-1
@@ -216,5 +210,3 @@ operatieve-behandeling
 aanvullende-radiotherapie
 informed-consent
 trigeminus-letsels
-fig:unnamed-chunk-2
-cerebrocraniale-afwijkingen
