@@ -85,27 +85,32 @@ R/ Durogesic (Morfine)
 - Neurobion: 1 IM injection every week for 6 weeks
 - Corticosteroids (Medrol PAK)
 
-Table: Medrol PAK schema
+Table: Medrol 4 mg PAK schema
 
-|  |Morning  |Noon     |Evening  |
+|  |Ochtend  |Middag     |Avond  |
 |:-----|:--------|:--------|:--------|
-|Day 1 |2 x 4 mg |2 x 4 mg |2 x 4 mg |
-|Day 2 |2 x 4 mg |2 x 4 mg |1 x 4 mg |
-|Day 3 |2 x 4 mg |2 x 4 mg |NA       |
-|Day 4 |2 x 4 mg |1 x 4 mg |NA       |
-|Day 5 |2 x 4 mg |NA       |NA       |
-|Day 6 |1 x 4 mg |NA       |NA       |
+|Dag 1 |2 x 4 mg |2 x 4 mg |2 x 4 mg |
+|Dag 2 |2 x 4 mg |2 x 4 mg |1 x 4 mg |
+|Dag 3 |2 x 4 mg |2 x 4 mg |/       |
+|Dag 4 |2 x 4 mg |1 x 4 mg |/       |
+|Dag 5 |2 x 4 mg |/       |/       |
+|Dag 6 |1 x 4 mg |/       |/       |
+  
+Table: Medrol high dose schema 1 week
 
-Table: Medrol high dose schema
+| Dag 1             | Dag 2             | Dag 3             | Dag 4             | Dag 5             | Dag 6               | Dag 7               |
+|:-------------------|:-------------------|:-------------------|:-------------------|:-------------------|:---------------------|:---------------------|
+| 2 co Medrol® 32mg | 2 co Medrol® 32mg | 2 co Medrol® 32mg | 2 co Medrol® 32mg | 1 co Medrol® 32mg | 1⁄2 co Medrol® 32mg | 1⁄4 co Medrol® 32mg |  
+  
+Table: Medrol high dose schema 3 weken
 
-|   |Morning |Noon |Evening |
+|   |Ochtend |Middag |Avond |
 |:------|:-------|:----|:-------|
-|Week 1 |48 mg   |NA   |NA      |
-|Week 2 |24 mg   |NA   |NA      |
-|Week 3 |12 mg   |NA   |NA      |
-  
-  
-  
+|Week 1 |48 mg   |/   |/      |
+|Week 2 |24 mg   |/   |/      |
+|Week 3 |12 mg   |/   |/      |
+
+
 #### Chronisch neuropathische pijn
 ```{r echo=FALSE, fig.cap='Flowchart voor patiënten met neuropathische pijn'}
 knitr::include_graphics('figures/neuropathic_pain_protocol.png')
