@@ -471,10 +471,10 @@ Alternatieven:
 
 - Mucositis cocktail van radiotherapie “uitwendig gebruik”
   - R/ 
-   - Hydrocortisone 200mg 
-   - Lidocaïne 400mg 
-   - Nistatine 100 000 E/ml 30 ml 
-   - Propyleenglycol 10ml 
+    - Hydrocortisone 200mg 
+    - Lidocaïne 400mg 
+    - Nistatine 100 000 E/ml 30 ml 
+    - Propyleenglycol 10ml 
     - Hydroxypropylmethylcellulose 2g 
     - Gedestilleerd water 500ml 
   - DT/ 1 fles

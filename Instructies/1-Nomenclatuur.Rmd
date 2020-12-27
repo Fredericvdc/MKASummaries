@@ -2,7 +2,7 @@
 ## Inleiding
 De nomenclatuur bestaat uit:
 
-- twee codes van 6 cijfers: ambulant nummer en hospitalisatie nummer
+- Twee codes van 6 cijfers: ambulant nummer en hospitalisatie nummer
   - indien voorlaatste cijfer onpaar is = ambulant nummer
   - indien voorlaatste cijfer paar is = hospitalisatie nummer
 - K,L,N sleutelletter en een coëfficient

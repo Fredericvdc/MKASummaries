@@ -216,3 +216,5 @@ operatieve-behandeling
 aanvullende-radiotherapie
 informed-consent
 trigeminus-letsels
+fig:unnamed-chunk-2
+cerebrocraniale-afwijkingen
