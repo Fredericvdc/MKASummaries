@@ -1132,6 +1132,66 @@ S/ 1 Co / d
 We prefer to build up the dose in increments or 25 mg per two days. We associated a proton pump inhibitor to prevent gastric side effects.
 The starting dose of indomethacin is 75 mg daily in three divided doses (ie, 25 mg three times a day). The indomethacin dose should be increased to 150 mg daily in three divided doses for 3 to 10 days if there is no response or a partial response to the starting dose after three days. The dose should be further increased to 225 mg daily in three divided doses for 10 days for partial responders if the index of suspicion is high.
 
+
+##Supplementen
+### Bioptimum 
+- R/ Bioptimum stress (16 euro)
+- Dt/ 1-2 2x/dag
+- S/ 80 zakjes
+
+Magnesium met vit B6
+Aanbevolen bij stress-situaties en vermoeidheid, en is goed voor de spieren.
+Bijkomend bij kaakgewrichtsklachten spieren + metarelax.
+
+### Biocondil
+- R/ Biocondil + vit C 90 euro(glucosamine)
+- Dt/ 2x/d gedurende minimum 3 maand
+- S/ 180 zakjes
+Ondersteunen mobiliteit, verlichten gewricht en soepelhouden gewricht), stimuleren vna productie van kraakbeen matrix)
+
+### Flexofytol
+- R/ Flexofytol 16 of 44 euro (curcumine, soepelheid van gewrichten en veroudering kraakbeen)
+- Dt/ 2x/d gedurende 6 maanden
+- S/ 60 of 180 co / doos
+
+### Metarelax
+- R/ Metarelax (18 euro)
+- Dt/ 1-2 /dag
+- S/ 90 co
+
+Magnesiumxomplex aangevuld met B-vit en taurine.
+Aanbevolen bij stress-situaties en vermoeidheid, en is goed voor de spieren.
+Voor kaakgewrichtsklachten spieren + bioptimum stress
+
+### Flexipure
+- R/ Flexipure 43 euro(kurkumine en krill)
+- Dt/ 2x/d gedurende minimum 3 maand
+- S/ 90 capules
+Artritis en osteoarthritis, gewrichts- en spierpijn
+
+### Liponixx
+- R/ Liponixx 18 of 50 euro (alpha liponzuur) (BMS)
+- Dt/ 1x/d ’s morgens nuchter
+- S/ 30 of 90 co / doos
+
+### Primartic
+- R/ Primartic 15 of 30 euro (curcuma longa, harpagophytum procumbens, picea mariana)
+- Dt/ 1-2x/d gedurende 6 maanden
+- S/ 24 of 60 capsules
+Osteo-arthritis, arthritis, reuma, reumatoïde arthritis, polyarthritis, ontsteking van spieren en gewrichten door overbelasting, trauma
+
+### Primaner
+- R/ Primaner 12 of 24 euro
+- Dt/ 1x/d, doos gedurende 3 maand ( mag tot 4x/d)
+- S/ 24 of 60 co
+Indicatie: Bij zenuwpijnen thv nek en rug, ook bij zona (in combinatie met primaril en trigeminus neuralgie)
+
+### Primaril
+- R/ Primaril 27euro
+- Dt/ 1x/d, doos gedurende 3 maand ( mag tot 4x/d)
+- S/ 60 co
+Indicatie: verzwakte weerstand, acute en chornische virale infecties, griep,...
+
 ## Tetanusvaccinatie bij wondes
 Vaccinatie tegen tetanus bij wonden (bron: Hoge Gezondheidsraad)
 
@@ -1152,4 +1212,23 @@ Vaccinatie tegen tetanus bij wonden (bron: Hoge Gezondheidsraad)
 ^2^ Vaccin tegen tetanus-difterie-kinkhoest: 2 injecties met een maand interval, gevolgd door een derde injectie 6 tot 12 maanden later  
 ^3^ Specifieke immunoglobulinen
 
+## IV Sedatie
+- Monitoring middels capnografie – bloeddruk – saturatie
+- Preop sedatieformulier ter nazicht van risico’s. 
+
+Bij aanvang worden 4 medicaties toegediend via het perifeer veneus infuus: 
+
+1. Medrol 125 mg – dit wordt aangelengd met fysiologisch tot een spuitje van 5 cc
+2. Midazolam 1mg/ml (Dormicum) – hiervan worden 2 ampulles in 1 spuit van 10 cc opgetrokken. Dit moet niet aangelengd worden.
+3. Fentanyl 100μg – 2 ml (50 μg/ml) – 1 ampule die wordt aangelengd met fysiologisch tot een spuitje van 5 cc (dit komt neer op 0.1 mg/5cc of 0.02 mg/ml). 
+4. Ketorolac 10 mg/1ml (Taradyl) – hiervan worden 3 ampulles opgetrokken in 1 spuitje van 5 cc en aangelengd met fysiologisch tot 5 cc.
+
+Start sedatie met:
+
+- 4 cc Dormicum
+- Bolus 5cc solumedrol
+- Fentanyl 3 cc
+- Taradyl 5 cc bolus
+
+Bij het verwijderen van 4 wijsheidstanden wordt er standaard intra-oraal verdoofd met septanest special 1/100.000 4% 1.8 ml. Hierbij wordt aan elke zijde 1 carpule ter hoogte van spix  en halve carpule ter hoogte van nervus buccalis gegeven. 1 carpule tuberverdoving. Halve carpule ter hoogte van palatinus major. 
 
