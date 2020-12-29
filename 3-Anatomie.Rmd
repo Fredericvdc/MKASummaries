@@ -400,3 +400,126 @@ Het os hyoideum is bij de mens een rudimentair been en heeft de vorm van een min
 ```{r echo=FALSE, out.width = "100%", fig.align="center", fig.cap='Os hyoideum'}
 knitr::include_graphics('figures/hyoid.png')
 ```
+
+## De hals
+De hals is een complexe anatomische entiteit die vitale structuren bevat zoals larynx, pharynx en schildklier. Verder dient de hals voor de passage van belangrijke bloedvaten en zenuwen. De hals strekt zich uit tussen de schedelbasis en de onderrand van de mandibula (bovenaan), en de apertura thoracis superior (‘thoracic inlet') (onderaan). Naar lateraal reikt het halsgebied tot bij het acromion. Dit gedeelte wordt begrensd door de clavicula (vooraan) en de voorrand van m. trapezius (achteraan). Aan de dorsale zijde vormt de linea nuchalis superior de bovengrens van de hals (achteraan reikt de hals dus hoger dan vooraan: de cervicale wervels 1 tot 4 liggen achter de gelaatsschedel) en situeert de ondergrens zich op een horizontale lijn die beide acromions met elkaar verbindt: deze lijn loopt ongeveer door de discus C7-T1. Zoals andere delen van het lichaam wordt ook de hals in meerdere gebieden, in casu driehoeken of regiones cervicales ingedeeld. Dit laat een precieze lokalisatie van de dieper gelegen structuren toe. Spieren en benige elementen vormen de grenzen.
+
+### Grenzen
+Het gedeelte van de nek dat binnen het bestek van deze cursus valt, wordt begrensd door:
+
+| Begrenzing | Structuur                                                                               |
+|------------|-----------------------------------------------------------------------------------------|
+| Bovenaan   | Onderrand van de mandibula  Processus mastoideus Linea nuchalis superior (gedeeltelijk) |
+| Achteraan  | Voorrand m. trapezius                                                                   |
+| Vooraan    | De verticale middellijn van bij de kin tot aan de incisura Jugularis van het sternum    |
+| Onderaan   | manubrium sterni en clavicula                                                           |
+
+De Nomina Anatomica heeft geen afzonderlijke naam voor dit gebied. In de Angelsaksische literatuur spreekt men van ‘the side of the neck'. In het Nederlands spreekt men van ‘de hals'.
+De regio cervicalis posterior (regio nuchalis) is het achterste gedeelte van de nek. De regio cervicalis lateralis wordt ook de posterior driehoek in brede zin genoemd.
+
+### Indeling
+M. sternocleidomastoideus vormt een prominent landmerk in de hals. Zijn oorsprong bevindt zich onderaan de hals en is dubbel. De stevige sternale kop is peesvormig en zit vast op de voorzijde van het manubrium sterni (sternale kop), lateraal van de incisura jugularis. De claviculaire kop ontspringt op het mediale eenderde van de clavicula. Beide spierbuiken verenigen zich en insereren op de processus mastoideus. De insertielijn strekt zich achteraan uit tot bij de linea nuchalis superior. Bezenuwing: de motorische bezenuwing is afkomstig van de spinale wortel van n. accessorius (craniale zenuw XI). Kleine takjes van de ventrale rami van C2 en C3 bevatten proprioceptieve vezels.  
+
+Functie: Bilaterale contractie van beide mm. sternocleidomastoidei veroorzaakt flexie van de hals (zoals bij optillen van het hoofd in ruglig) maar kan ook een naar voor bewegen van het hoofd veroorzaken (zoals wanneer men in rechtopstaande houding ergens overheen wil kijken). Bij unilaterale contractie kantelt het hoofd naar homolateraal en draait het gelaat naar heterolateraal. Daarnaast is m. sternocleidomasteoideus een hulpademhalingsspier.  
+
+Congenitale of chronische torticollis of scheefhals is een afwijking die ontstaat door kwetsuur van m. sternocleidomastoideus bij de geboorte door te sterke tractie op het kinderhoofdje. Ten gevolge van posttraumatische contractuur van de spier staat het hoofdje scheef en draait het aangezicht naar de niet aangetaste zijde. Deze toestand is reversibel mits aangepaste behandeling.
+Bij de volwassene komt eerder acute torticollis of scheefhals voor. Deze pijnlijke toestand wordt veroorzaakt door reflectorische spierspasmen van de nekmusculatuur. De spierspasmen zijn het gevolg van trauma of inflammatoire processen, die op hun beurt aanleiding kunnen geven tot subluxaties tussen de cervicale wervels onderling.
+
+## Fascia's van de hals
+De losmazige onderhuid die de hals rondom omgeeft bevat het papierdunne platysma. Het onderhuidse bindweefselcompartiment wordt in de Angelsaksische literatuur ‘superficial fascia' genoemd. Hierin bevinden zich, naast een wisselende hoeveelheid vet, de onderhuidse bloedvaten, zenuwen en ook de mimische spieren. Het platysma behoort tot de groep van mimische spieren die alle door n. facialis worden bezenuwd. In de N.A. wordt het platysma onder ‘mm. colli' vermeld. Het is een platte, ongeveer rechthoekige spier die vanaf de onderrand van de mandibula naar lateraal-onder strekt. Haar bovenste vezels zijn verweven met deze van de mimische spieren rond de mond en helpen deze vervormen. Haar laagste vezels bereiken de onderhuid over m. pectoralis major.
+
+Op dwarse doorsnede van de hals wordt een aantal bindweefselige tussenschotten of fasciabladen baangetroffen. Zij krijgen de verzamelnaam fascia cervicalis. Aan de cervicale fascia onderscheidt men
+
+- de lamina superficalis,
+- de lamina prevertebralis,
+- de lamina pretrachealis en de
+- vagina carotica.
+
+Deze bindweefselbladen zijn klinisch belangrijk omdat zij chirurgische klievingsvlakken vormen. Infecties kunnen zich, na invasie van (virtuele) weefselruimten tussen deze fascia's, verder uitbreiden, bv. tot in het mediastinum.
+
+De lamina superficialis (In de Angelsaksische literatuur (cf. Grant' Atlas) ‘investing fascia' genoemd) vormt de buitenste bindweefselkoker. Zij vertegenwoordigt de algemene fascia in het halsgebied. Met uitzondering van de onderhuidse zenuwen en bloedvaten en het platysma, bevinden alle structuren van de hals zich binnen deze lamina. Bovenaan vertrekt de lamina superficialis vanaf de protuberantia occipitalis externa, de linea nuchalis superior en de (onderzijde van) processus mastoideus. Meer naar ventraal hecht zij vast op de onderrand van de mandibula van bij de angulus tot aan de kin en op het hyoid. Zij zit achteraan vast over de ganse lengte van het ligamentum nuchae tot bij processus spinosus van C7. Onderaan zit de oppervlakkige lamina vast aan de spina scapulae tot bij het acromion (achteraan) en aan de clavicula en de bovenrand van het manubrium sterni (vooraan).
+De lamina superficialis ontdubbelt op een aantal plaatsen (de twee lagen van de lamina superficialis kunnen worden beschouwd als de cervicaalwaartse verderzetting van de fascia clavipectoralis):
+
+- rond m. trapezius en m. sternocleidomastoideus;
+- rond de parotisspeekselklier: het oppervlakkige blad vormt de fascia parotidea en zit
+vast aan de jukboog; het diepe blad reikt naar mediaal tot bij de ingang van het carotiskanaal. Een gedeelte hiervan is verdikt en vormt de scheiding tussen de parotis- en submandibularisloges: dit is het ligamentum stylomandibulare;
+- zij vormt een fasciële lus die de tussenpees van m. omohyoideus aan de eerste rib fixeert;
+- vlak boven de incisura jugularis begrenzen beide bladen de kleine suprasternale ruimte (‘space of Burns'). Deze laatste bevat de arcus venosus jugularis en enkele lymfeknopen.
+
+De lamina prevertebralis vormt een koker rond de spieren die aan de voor- en achterzijde van de cervicale wervelkolom vasthechten. Bovenaan zit zij vast aan de schedelbasis. Zij bedekt de voorzijde van de spieren in de bodem van de achterste halsdriehoek, dus ook n. phrenicus. Naar onder wordt de lamina prevertebralis dunner en versmelt zij in het bovenste mediastinum ongevee ter hoogte van de derde thoracale wervel met het ligamentum longitudinale anterius. De proximale gedeelten van plexus cervicalis en brachialis, de a. subclavia en a. axillaris liggen onder (achter) deze lamina. Naar lateraal krijgen al deze structuren een bindweefselschede mee die de verderzetting is van de lamina prevertebralis. De lamina prevertebralis wordt doorboord door de cutane takken van de plexus cervicalis. Onderaan in de posterior driehoek ligt de v. jugularis externa oppervlakkig ervan. De strakke prevertebrale fascia vormt een rigide wand waarover de ventraal gelegen pharynx en slokdarm tijdens de slikbeweging kunnen glijden. De (virtuele) ruimte tussen de achterzijde van de pharynx/slokdarm en de prevertebrale fascia is de retropharyngeale of retroviscerale ruimte (spatium retropharyngeum).
+
+Het voorste gedeelte van de hals bevat de cervicale viscera (larynx, pharynx, trachea en slokdarm). Deze structuren worden omgeven door de lamina pretrachealis, die zich achter de strapspieren bevindt en vooral aan de voorzijde van de trachea zeer duidelijk is (vandaar haar naam). Bovenaan zit zij vast op hyoid en thyroid- en cricoidkraakbeen; zij strekt zich uit tot in de thorax waar zij met het fibreuze pericardium versmelt. Zij vormt de capsula fibrosa van de schildklier, die zich beneden in de hals op de voorzijde van de trachea bevindt. Tussen de lamina superficialis en pretrachealis bevindt zich de pretracheale ruimte (niet in de N.A.), die naar beneden toe continu is met het voorste mediastinum.
+Etterige infectieuze processen van de cervicale viscera breken gemakkelijk doorheen de lamina pretrachealis en kunnen dus naar de pretracheale ruimte uitbreiden. De stevigere lamina superficialis verhindert doorbraak van etter naar de subcutane ruimte. Bijgevolg zal een infectie tussen de lamina superficialis en pretrachealis eerder uitbreiden in de richting van het bovenste mediastinum waar zij aanleiding kan geven tot mediastinitis.
+Infectieuze processen afkomstig zowel van de viscera als van de cervicale wervels (vb. tuberculose) kunnen doorbreken naar de retropharyngeale ruimte. De uitbreiding van de infectie (of drainage van de ettercollectie) kan eveneens plaatsvinden in de richting van het mediastinum.
+
+De vagina carotica of carotisschede is een stevige bindweefselkoker rond de verticale neurovasculaire elementen van de hals (a. carotis communis/interna, v. jugularis interna, n.vagus) die zich aan weerszijden van de cervicale viscera bevinden. De carotisschede is zowel met de lamina pretrachealis als met het diepe oppervlak van m. sternocleidomastoideus verbonden.
+Bij de beschrijving van de fascia's van de hals dient volledigheidshalve de membrana suprapleuralis (of fascia van Sibson) te worden vermeld. Dit is een bindweefselmembraan over de longkoepels waar deze boven de bovenste thoraxapertuur uitsteken. Zij strekt zich uit tussen de processus transversus van C7 en de binnenrand van de eerste rib (de N.A. vermeldt haar bij de splanchnologie - ademhalingsstelsel).
+
+## Compartimenten van de hals
+De hals wordt door de aanwezigheid van verschillende lagen van de halsfascia verdeeld in een voorste (viscerovasculair) en een achterste (neuromusculair, ook wel musculoskeletaal compartiment genoemd.) compartiment.
+Het neuromusculaire compartiment bestaat uit de cervicale wervelkolom (met daarin het ruggenmerg en de uittredende spinale zenuwen) en de spieren die eraan vast zitten. Dorsaal zijn dit in hoofdzaak de cervicale gedeelten van de autochtone rugspieren, bedekt door m. trapezius. Het zijn extensoren van de nek. Aan de voorzijde van de cervicale wervellichamen liggen de prevertebrale spieren: dit zijn flexoren van de halswervelzuil.
+Het viscerovasculaire compartiment bevat de bovenste gedeelten van het spijsverterings- en ademhalingsstelsel, de schildklier en de bijschildklieren, links en rechts geflankeerd door de belangrijke neurovasculaire bundel, verpakt in de carotisschede.
+
+## Driehoeken van de hals
+### De posterieure driehoek
+De grenzen van de posterior halsdriehoek zijn:
+
+| Begrenzing | Structuur                                   |
+|------------|---------------------------------------------|
+| Vooraan    | De achterrand van m. sternocleidomastoideus |
+| Achteraan  | Voorrand m. trapezius                       |
+| Onderaan   | Het middenste eenderde van de clavicula     |
+
+De voorrand van m. trapezius is bij de levende niet altijd duidelijk te herkennen. M. sternocleidomastoideus kan worden aangetoond door het hoofd tegen weerstand naar heterolateraal te laten draaien. De breedte van zijn claviculaire oorsprong vertoont grote individuele verschillen, met als gevolg een grote verscheidenheid qua grootte van de posterior halsdriehoek.
+De regio cervicalis lateralis (= posterior halsdriehoek in brede zin) wordt door venter inferior van m omohyoideus (zie ‘anterior driehoek van de hals') verdeeld in twee kleinere driehoeken:
+
+- trigonum omoclaviculare (fossa supraclavicularis major) tussen venter inferior van m. omohyoideus, de achterrand van m. sternocleidomastoideus en het middenste eenderde van de clavicula. De grootte van deze driehoek is bijgevolg afhankelijk van de breedte van de claviculaire inserties van m. sternocleidomastoideus en m. trapezius.
+- Het resterende gedeelte van de posterior halsdriehoek, posterosuperior van venter inferior van m. omohyoideus gelegen, krijgt geen afzonderlijke naam in de N.A. Hij wordt in de Angelsaksische literatuur ook wel ‘occipitale driehoek' genoemd omdat de a. occipitalis in de top van de driehoek passseert . Venter inferior van m. omohyoideus wordt beschouwd als een belangrijke topografisch landmerk in de laterale halsdriehoek. Zijn contracties zijn zichtbaar tijdens het spreken of zingen (vooral bij personen met een slanke hals).
+
+In dit hoofdstuk wordt met deze verdere indeling van de posterior halsdriehoek geen rekening meer gehouden.
+Het dak van de posterior halsdriehoek bestaat uit de lamina superficialis van de cervicale fascia. De nn. supraclaviculares, de v. jugularis externa en kleine onderhuidse arteries doorboren dit fascieel blad.
+In de bodem van de posterior driehoek bevindt zich een reeks spieren (m. scalenus anterior, medius en posterior, m. levator scapulae en m. splenius capitis), bedekt door de lamina prevertebralis van de cervicale fascia.
+De inhoud van de posterior halsdriehoek bestaat uit zenuwen en bloedvaten die van de nek naar het bovenste lidmaat lopen (of vice versa), met name de a. en de v. subclavia en het supraclaviculaire gedeelte van de plexus rachialis.
+
+#### Spieren in de bodem van de posterior halsdriehoek
+De spieren in de bodem van de posterior halsdriehoek (m. scalenus anterior, medius en posterior, m. levator scapulae en m. splenius capitis) horen bij het neuromusculaire compartiment van de hals. Het zijn alle flexoren van de cervicale wervelkolom. De spieren die een insertie op de ribben hebben (= mm. scaleni) kunnen ook dienst doen als hulpademhalingsspieren.
+
+De scalenusspieren
+
+- M. scalenus anterior is belangrijk als anatomisch landmerk. Hij ligt voor het grootste deel verscholen achter m. sternocleidomastoideus en wordt door sommige auteurs niet bij de posterior halsdriehoek gerekend. Voor verdere beschrijving: zie tabel VI-1.
+M. scalenus medius is de langste van de drie scaleni. Hij wordt doorboord door n. dorsalis scapulae en de bovenste twee rami van n. thoracicus longus. Voor verder beschrijving: zie tabel VI-1.
+- Tussen m. scalenus anterior en medius treden de cervicale spinale zenuwen naar buiten (de gootjes van de dwarsuitsteeksels ‘monden hier uit'). Onderaan loopt de a. subclavia over de eerste rib in de richting van de oksel. De spleetvormige ruimte tussen beide spieren wordt de ‘scalenuspoort' genoemd. Deze is van klinisch belang. Wanneer ze te nauw is (als gevolg van bijkomende spierslipjes, exostosen, de aanwezigheid van een cervicale rib of gewoon door te ‘forse' spieren) kan een compressie van de a. subclavia en/of de truncus inferior van de plexus brachialis (=neurovasculaire compressie) optreden. De klinische term hiervoor is thoracic inlet (of outlet) syndroom.
+- M. scalenus posterior is de kleinste van de scalenusspieren en insereert op de tweede rib. Hij wordt beschouwd als het achterste deel van m. scalenus medius.
+- Voor de beschrijving van m. levator scapulae en m. splenius capitis: zie elders.
+
+| Spier                 | Oorsprong                                 | Insertie                                             | Innervatie                                      | Functie                                                 |
+|-----------------------|-------------------------------------------|------------------------------------------------------|-------------------------------------------------|---------------------------------------------------------|
+| m. scalenus anterior  | Tubercula anteriora C3-C6                 | Mediale rand rib 1                                   | Ventrale rami C4,5,6                            | Laterale flexie cervicale wervelkolom; elevatie 1e rib  |
+| m. scalenus medius    | Tubercula posteriora van alle halswervels | Bovenzijde rib 1, achter de groeve voor a. subclavia | Ventrale rami C3 tot C8                         | Laterale flexie cervicale wervelkololm; elevatie 1e rib |
+| m. scalenus posterior | Tubercula posteriora C4,5,6               | Buitenzijde rib 2                                    | Ventrale rami C(6),7 en C8                      | Laterale flexie cervicale wervelkolom; elevatie 2e rib  |
+| m. levator scapulae   | Tubercula posteriora C1 tot C4            | Mediale rand scapula boven spina                     | n. dorsalis scapulae                            | Elevatie en mediale rotatie van de scapula              |
+| m. splenius capitis   | Lig. Nuchae en processus spinosus T1-T6   | Processus mastoideus linea nuchalis                  | Superior dorsale rami cervicale spinale zenuwen | Laterale flexie en extensie van de nek                  |
+
+#### Venen in de posterieure halsdriehoek
+De v. jugularis externa ontstaat achter de kaakhoek, onder de parotisspeekselklier uit de samenvloeiing van het achterste been van de v. retromandibularis (draineert de diepe structuren van het gelaat) en de v. auricularis posterior of de v. occipitalis (draineren onderhuid van het achterhoofd). De v. jugularis externa loopt achter het platysma, oppervlakkig van de lamina superficialis van de halsfascia, verticaal over m.sternocleidomastoideus naar beneden. Een tweetal cm boven de clavicula doorboort zij de lamina superficalis en mondt uit in de v. subclavia, lateraal of anterior van m. scalenus anterior. In haar bovenste deel wordt zij vergezeld door n. auricularis magnus (cf. plexus cervicalis). Zij draineert het grootste gedeelte van de onderhuid van het hoofd aan dezelfde zijde.
+In de v. jugularis externa monden verder de v. suprascapularis en vv. transversae cervicis uit. Deze begeleiden de gelijknamige arteries. De v. jugularis anterior bevindt zich in de anterior driehoek en passeert achter m. sternocleidomastoideus om in de v. jugularis externa uit te monden. De v. jugularis externa heeft meestal 2 paar kleppen. Deze verhinderen de reflux van bloed niet, zodanig dat bij persen, blazen tegen weerstand of luid praten, deze vene meestal duidelijk zichtbaar wordt over m. sternocleidomastoideus van bij de kaakhoek tot boven de clavicula. Inspectie van de v. jugularis externa is een belangrijk element in het routineonderzoek. In normale omstandigheden is de v. jugularis externa enkel zichtbaar bv. bij expiratie tegen weerstand. Een abnormaal gestuwde v. jugularis externa kan een teken zijn van hartdecompensatie (door toename van de centrale veneuze druk) of van compressie van één van de grotere venen (door intrathoracale tumoren of lymfeknooppaketten).
+De v. subclavia is de verderzetting van de v. axillaris. In de hals loopt zij antero-inferior van het derde deel van de a. subclavia en anterior van m. scalenus anterior. Ter hoogte van de mediale rand van deze spier en achter het sternoclaviculaire gewricht verenigt zij zich met de v. jugularis interna tot v. brachiocephalica. oppervlakkige venen van het hoofd- en halsgebied.
+
+#### Arteries in de posterieure halsdriehoek
+Het derde deel van de a. subclavia bevindt zich in de posterior driehoek. Zij passeert hier vóór de truncus inferior van de plexus brachialis.
+Aan de rechterkant is de a. subclavia een tak van de truncus brachiocephalicus, links takt zij rechtstreeks af van de arcus aortae. Linker- en rechter-a. subclavia passeren achter het sternoclaviculaire gewricht alvorens de halsstreek te bereiken. Aan beide zijden maakt de arterie een naar boven convexe boog, ventraal van de cervicale pleura, over de eerste rib, tussen m. scalenus anterior en medius.
+Bij ernstige arteriële bloedingen van de arm kan de a. subclavia in de posterior driehoek tegen de eerste rib worden dichtgedrukt.
+
+A. transversa cervicis en a. suprascapularis zijn takken van de truncus thyrocervicalis, die op zijn beurt een tak is van het eerste deel van de a. subclavia. Beide arteries lopen ongeveer horizontaal naar lateraal doorheen de posterior halsdriehoek: de a. transversa cervicis bevindt zich vóór de
+bovenste truncus van de plexus brachialis, de a. suprascapularis loopt iets lager (vóór de a. subclavia).
+
+De a. transversa cervicis loopt naar de voorrand van m. levator scapulae en splitst in een oppervlakkige en een diepe tak [r. superficialis en r. profundus (a. dorsalis scapulae)] die respectievelijk oppervlakkig en diep van de mm. rhomboidei verder lopen.
+De a. suprascapularis loopt met de gelijknamige zenuw mee naar de incisura scapulae. Venter inferior van m. omohyoideus scheidt de a. suprascapularis van de meer oppervlakkig gelegen gelijknamige vene.
+
+A. occipitalis is een tak van de a. carotis externa. Zij passeert doorheen de apex van de posterior driehoek.
+
+#### Zenuwen in de posterieure halsdriehoek
+**Nervus accessorius**
+N. accessorius is de elfde craniale zenuw (XI) en vervoert onder meer motorische vezels voor m. sternocleidomastoideus en m. trapezius. Hij komt ongeveer halfweg de achterrand van m. sternocleidomastoideus te voorschijn en loopt parallel met de vezelrichting van m. levator scapulae naar lateraal-onder doorheen de posterior driehoek van de hals. Hij dringt de voorrand van m. trapezius binnen, een vijftal cm boven de clavicula. Voor de verdere beschrijving van deze zenuw wordt verwezen naar het hoofdstuk ‘diepe structuren van de hals'.
+
+**Plexus cervicalis**

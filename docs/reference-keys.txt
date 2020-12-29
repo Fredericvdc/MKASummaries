@@ -241,3 +241,15 @@ systeemziekten
 inleiding-5
 histiocytose-x
 trigeminus-letsels
+de-hals
+grenzen
+indeling-1
+cerebrocraniale-afwijkingen
+fascias-van-de-hals
+compartimenten-van-de-hals
+driehoeken-van-de-hals
+de-posterieure-driehoek
+spieren-in-de-bodem-van-de-posterior-halsdriehoek
+venen-in-de-posterieure-halsdriehoek
+arteries-in-de-posterieure-halsdriehoek
+zenuwen-in-de-posterieure-halsdriehoek
