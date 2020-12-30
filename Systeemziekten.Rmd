@@ -54,4 +54,964 @@ Systeemziekten met uitwerking op de orale mucosa:
   -	verschillende histiocyten opgeblazen door cholesterol => “schuimcellen”
 
 ## Eosinofiel granuloom
+-	Voorkomen
+  -	Kids & jong volwassenen (13j)
+  - Als in kaakbot => meestal iets later (26 jaar)
+  -	Mannen > vrouwen
+-	Locatie
+  -	Schedeldak – mandibula – ribben – wervels – bekken
+  -	Mandibula: Angulus mandibulae
+  -	Meestal solitair letsel => soms polyostotisch letsel
+-	Kliniek
+  -	Zwelling – pijn – gingivitis – losstaan van tanden
+-	Radiologie
+  -	1 of méér afgelijnde radiolucenties
+  -	Ver stadium: kan conflueren => multiloculair beeld
+  - Schedeldak: “ingeponste gaten”
+  -	Lange beenderen: “ajuinschil-beeld”
+-	Differentieel diagnose
+  -	Osteomyelitis
+  -	Ewing Sarcoom
+  -	Parostaal sarcoom
+-	Prognose
+  - Regelmatig recidief
+-	Behandeling
+  -	Geïsoleerd letsel => curettage
+  -	Grotere holte =>
+  -	Extractie tanden in tumoraal weefsel!
+
+## Ziekte van Hand-Schüller-Christian:
+-	Voorkomen
+  -	Chronische, gespreide aandoening
+  -	Bij kids: 6,5 jaar
+  -	Jongens > meisjes
+-	Kliniek
+  -	Triade
+    -	Osteolytische botdefecten (schedelcalvaria)
+    -	Exoftalmie tgv granulomateuze proliferaties in orbita
+    -	Diabetes insipidus tgv aantasting Sella Tursica
+  -	CAVE: triade bij slechts 30% aanwezig
+  -	Symptomen afhankelijk van aangetaste locatie
+  -	Intra-oraal: losse tanden – gingivitis – gingivale/palatale ulcera
+  -	Chronische otitis media – mastoïditis
+  -	Hepatosplenomegalie (LK-vergroting)
+-	Labo
+  -	Niet specifiek
+  -	Leukocytose: vnl eosinofielen & anemie
+-	Radiologie
+  -	= eosinofiel granuloom MAAR kleiner, minder scherp
+  - VER stadium: radiolucenties op schedelcalvaria => “landkaartschedel”
+  -	Rond tanden: alle bot WEG
+-	Prognose:
+  - Tussen eosinofiel granuloom & Ziekte van Letterer-Siwe    
+  - Afhankelijk van # aangetaste organen/leeftijd patiënt
+  -	Mortaliteit: 30%
+-	Behandeling
+  -	Botlocalisaties: Curettage!
+
+## Ziekte van Letterer-Siwe:
+-	Voorkomen
+  -	Acute, vlug & fataal aflopende ziekte
+  -	Bij zuigelingen
+  -	Multi-orgaan falen => in weke weefsels: histiocytaire infiltraties
+  -	CAVE: vorm van histiocytose X? Vorm van Maligne lymfoom
+-	Bij wie?
+  -	> 3 maanden
+  -	Jongens = meisjes
+-	Kliniek
+  -	Intermittente koorts
+  -	Algemene malaise
+  -	Hepatosplenomegalie – lymfadenopathie 
+  -	Dermatologie
+    -	Papulomateuze/pustuleuze papels
+    -	Hemorrhagische kortsvorming
+  -	30% orale afwijkingen:
+    -	Gingivostomatitis
+    -	Loskomen & uitstoten melktanden
+    -	Otitis media
+    -	Pancytopenie
+-	Prognose
+  -	Mortaliteit: 100%
+  -	Uitzaaiing meestal < 5 jaar
+-	Behandeling
+  -	Chemotherapie
+  -	Heelkunde & radiotherapie bij botletsels.
+
+## Lethal midline granuloma
+-	Definitie
+  -	Irreversibele ulcero-necrotische letsels van neusholte/palatum/middendeel gelaat
+  -	LMG & ziekte van Wegener= verschillende klinieken van 1 ziekte
+-	Kliniek
+  -	BEGIN: neusbloeding – lichte pijn – neusverstopping – slechtriekende neussecreties
+  -	Ulceraties palatum/neusholte/gingiva/trigonum retromolare 
+  - Perforatie neusseptum/palatum
+-	Prognose
+  - Slecht
+-	Behandeling
+  -	Radiotherapie
+  
+## Ziekte van Wegener
+-	Kliniek
+  -	Necrotiserende granulaties van respiratoire tractus
+  -	Aantasting: tong/gehemelte/wangmucosa
+  -	50% huidletels: papels – petechieën – plaques – ulceraties
+  -	Multi-orgaan falen: ogen/hart/gewrichten/zenuwaantasting/long- nieraantasting
+-	Pathogenese
+  -	Immunologisch?
+-	Prognose
+  -	Slecht
+  
+## Acromegalie
+-	Etiologie
+  - Groeihormoon-productie
+  -	Insidieus begin & verloop
+-	Kliniek
+  -	Vergroving gelaatstrekken
+  -	Groei handen & voeten
+  -	Overmatig transpireren
+  -	Gezichtsveld uitval
+  -	Hoofdpijn
+  -	Prikkelingen in handen
+  -	Vlezige handpalmen & gewrichtsklachten
+  -	Als kid/volwassenen (GroeiKBschijf nog NIET gesloten)
+    - Groei in lengte!!!
+  -	Cardiovasculair: cardiomegalie – cardiomyopathie – aritmieën - … 
+  -	LW-problemen: OSAS
+  -	Diabetes (direct effect van groeihormoon)
+-	Pathogenese
+  -	99%: adenoom hypofysevoorkwab
+  -	1%: tumor elders
+-	Behandeling
+  -	Orthognatische chirurgie NA etiologische behandeling
+
+## Systemische metabole botaandoeningen:
+-	Ziekte van Paget
+-	Hyperparathyroïdie
+-	Renale osteodystrofie
+-	Osteomalacie
+-	Osteoporose
+-	Rachitis
+
+## Systemische genetische botaandoeningen:
+-	Osteogenesis imperfecta
+-	Osteopetrosis 
+
+## Fibreuze dysplasie:
+-	Zie NIET-odontogene tumoren
+
+## Reuscellaesies: granuloom:
+-	Zie NIET-odontogene tumoren
+
+## Ziekte van Graham-stout: “vanishing bone disease”
+
+##Osteogenesis imperfecta
+
+## Osteopetrose – Osteopetrosis
+= Ziekte van Albers-Schönberg, Marble-Bone disease
+
+- Etiologie
+-	Verstoord evenwicht tussen botvorming & botafbraak met toegenomen botvorming tgv defect in vorming/functie osteoclasten
+-	Pathogenese
+  -	Osteoclasten: 
+    -	Multinucleaire cellen van hematopoïetische oorsprong
+    -	Breken bot af!
+  -	Osteoblasten:
+    -	Mesenchymale oorsprong
+    -	Maken bot AAN & creëren omgeving voor osteoclasten!
+  -	(!) RANKLigand & verhouding RANKL/osteoprotegerine
+-	Differentieel diagnose
+  -	Ziekte van Buchens
+  -	Osteopathia striata
+  -	Sclerosteosis
+-	Classificatie
+  -	Heterogene groep van erfelijke aandoeningen met defect in botresorptie door osteoclasten
+  -	4 typen
+    - Juveniele Maligne type
+    -	Intermediair type
+    -	Autosomaal dominant type I
+    -	Autosomaal dominant type II
+-	Juveniele maligne Osteopetrose
+  -	Synoniem
+    -	Osteopetrosis Congenita
+  -	Overerving
+    - Autosomaal recessief
+  -	Incidentie
+    -	Costa rica, Saoudi-Arabië - Denemarken 
+  -	Voorkomen
+    -	Familiaal
+    -	Vanaf 1ste levensjaar
+  -	Etiologie
+    -	Ongekend
+  -	Pathogenese
+    -	Dysfunctie van osteoclasten => kunnen onrijp bot NIET afbreken
+    - Afname vorming spongieus bot
+    - Afname functie van Beenmerg
+    - Afname productie erytrocyten – leukocyten – trombocyten
+    - Compensatoir: extramedullaire hematopoïese
+    - hepatosplenomegalie!!
+  -	Symptomen
+    - Pathologische fracturen
+    -	Fracturen thv epifysen: femur/heup
+    -	Achterblijvende groei: klein gestalte
+    - Kans op osteomyelitis (mandibula)
+    - Botsclersoe thv foraminae craniale zenuwen => compressie zenuwen
+      -	Gehoor-, visus- & reukstoornissen
+      -	Aangezichtsverlamming
+      -	Stoornissen in hele N V.
+    -	Eruptiestoornissen tanden
+    - Nasofaryngeale obstructie => mondAH, eetstoornis (R/: PEGsonde)
+    -	Hydrocefalus
+    -	Macrocefalie
+    -	Prononcerend voorhoofd (frontal bossing)
+    -	Abnormale grote afstand tussen ogen (hypertelorisme)
+    - Uitpuilende ogen
+    -	Slaapzucht
+    -	Mentale retardatie
+    -	Neurodegeneratief proces met slechte prognose
+    -	Hematologisch: bloedingen, hematomen bij kleine trauma’s
+    -	Hepato-/splenomegalie
+  - Labo
+    -	Anemie – leukopenie – thrombocytopenie
+    -	Pancytopenie => niet-compensatoire extramedullaire vorming van cellen in Lever – milt
+  -	Radiologie
+    -	Bovenmatie dichtheid van gehele skelet
+    -	Verkleining of afwezigheid spongiosa
+    -	Botgroei BINNEN bot (endobones): thv bekken/Wervels/handen/voeten
+  - APO
+    -	Botbiopt: toename osteoclasten => GEEN ruwe randzone
+    - Afname Osteoblasten
+    -	Botafbraak door osteoclasten is onvoldoende 
+    - Toename gemineraliseerd kraakbeen ZONDER remodelling, errond normale botmatrix
+  - Ziekteverloop
+    -	Heel wisselend
+    -	Meestal: snelle achteruitgang & sterven binnen # jaar => zz > 6 jaar
+    - Sterven aan infecties/bloedingen
+  -	Prognose
+    -	Slechte prognose: visusstoornissen/hematologische # => sterven < 3 maanden
+    -	Goede prognose: als > 2 jaar nog leven ZONDER bloedtransfusie
+    -	Zz: volwassen leeftijd bereiken
+  - Behandeling
+    -	Beenmergtransplantatie
+    -	Visus verbetert NIET na transplantatie
+    -	Palliatieve R/: met pijnbestrijding
+-	Intermediaire osteopetrose
+  -	Erfelijkheid
+    -	Autosomaal recessief
+  -	Voorkomen:
+    -	Diagnose <10 jaar
+    - Midden-oosten & middellandse zee
+    -	GEEN ernstige aantasting van spongiosa
+  - Etiologie
+    -	Metabole oorzaak => afname carbonaathydrase 
+    - ((!) zuurbalans in osteoclasten(!))
+    -	# osteoclasten is NORMAAL, maar ruwe randzone ontbreekt!
+  -	Kliniek
+    -	Recidiverende pathologische #
+    -	Compressie hersenzenuwen
+    - Milde mentale retardatie bij 90% patiënten
+      - Verminderde motorische ontwikkeling
+      - Verminderde cognitieve ontwikkeling
+    -	Orale afwijkingen
+      -	Malocclusie, Cariës
+    -	Klein gestalte
+      -	Korte ledematen, verkromde bovenbenen
+    -	Macrocefalie
+    -	Matige frontal bossing
+    -	Milde hepatosplenomegalie
+    -	Milde & tijdelijke anemie
+    - Acidose door tubulaire NI & verkalkingen in hersenen
+  -	Radiologie
+    -	Milde skeletsclerose
+    -	Wisselende mate: verkleining van spongiosa
+  -	Prognose
+    - (+) ivm neonatale vorm
+    -	Nierafwijkingen bepalen levensverwachting!
+  -	Behandeling
+    - Beenmergtransplantatie
+    -	Osteoclast stimulatie via calcitrol (Vit D), Corticosteroïden, Parathyroïdhormoon, humaan IFN-gamma
+    -	Visus (+) NIET na transplantatie
+    - Palliatieve R/: met pijnbestrijding
+-	Autosomaal dominante osteopetrose
+  -	Synoniem: adult benign osteopetrosis of osteopetrosis tarda
+  -	Ziekteverloop
+    -	Milde vorm met normale levensverwachting
+    -	Veel variaties in ziektebeloop
+  -	Voorkomen
+    -	Diagnose => volwassen leeftijd (# fracturen)
+    -	40% => symptoomloos
+    -	Soms: fam VG: osteopetrose/# fracturen
+  -	2 Vormen
+    -	Type I:
+      -	Sclerose: in schedelbotten 
+      - MAAR: schedelbasis is onaangetast
+      -	Zz!!
+    - Type II:
+      - = Klassieke Ziekte van Albers-Schönberg
+      -	Sterke sclerose
+      - Botten symmetrisch aangetast
+      - Vnl: bekken (endobones) – wervels (sandwichvorm) – schedelbasis
+      - Recidiverende pathologische #
+      - Hevige botpijnen
+      - Gevolgen van compressie van hersenzenuwen
+      - Fractuurgenezing vertraagd
+  -	Kliniek
+    - Normaal uiterlijk
+    -	Soms: frontal bossing
+    -	Soms: uitpuilende ogen
+    -	Soms: klein gestalte
+    -	Uitval/verminderde functie hersenzenuwen
+    - Verkromde bovenbenen
+    -	Artrose van heupen/knieën
+    -	Vergrote kans op osteomyelitis mandibula
+    - Hematopoëse ongestoord
+  -	Radiologie
+    -	Gegeneraliseerde botsclerose die toeneemt met leeftijd
+-	Orale afwijkingen bij osteopetrose
+  -	Kliniek
+    -	Verlate doorbraak
+    -	Agenesie
+    -	Afwijkende vormen van gebitselementen
+    -	Glazuurhypoplasie
+    -	Afwijkingen in dentinogenese
+    -	Slechte mineralisatie van glazuur & dentine
+    -	Vergrote cariësgevoeligheid
+    -	Afwijkingen in dentinogenese
+    -	Afwijkingen van pardoontale ligament
+    -	Verdikte lamina dura
+    -	Progenie van mandibula
+    -	Extracties van GE => 30% osteomyelitis
+    -	Extracties van GE => risico op #
+    -	Osteomyelitis in mandibula
+    -	Osteomyelitis kan intra- & extra-orale fistel & botsekwesters veroorzaken
+  -	Behandeling
+    -	AB-profylaxis bij geplande tandextracties
+    -	Osteomyelitis: sequestrectomie / partiële mandibularesectie
+
+## Rachitis
+Bij kids => onvermogen om groeikraakbeen in lange botten op normale manier te laten mineraliseren & groeien
+
+## Osteomalacie
+Onvermogen om gevormde organische matrix van bot te mineraliseren
+(osteoïd mineraliseren)
+
+## Osteoporose
+- Etiologie
+  -	Systemische aandoening met 
+    - botdichtheid (>2,5 SD lager dan gemiddelde van jongvolwassenen van ZELFDE geslacht)
+    - microarchitectuur van skelet EN/OF aanwezigheid van osteoporotische (wervel)fracturen
+-	Voorkomen
+  -	(postmenopauzale) vrouwen
+  -	Mannen
+-	Pathogenese
+  - Verminderde botaanmaak en toegenomen botafbraak
+  -	Multifactoriëel: genetisch – levensstijl – endocriene ziekten – Medicatie
+-	Diagnose
+  -	Botdichtheidsmeting & Röntgenopname van WK
+
+## Hyperparathyroidie
+
+## Ziekte van Paget
+-	Definitie
+  -	= Osteïtis Deformans
+  -	Chronische botziekte van onbekende origine
+  - Abnormale beenresorptie => ongeordende heropbouw
+-	Etiologie
+  -	Ongekend
+  -	Infectieus?
+    -	Osteoclasten zelfde nucleaire inclusies als zenuwcellen bij SSPE  (Subacute Scleroserende PanEncephalitis)
+  -	Congenitale stoornis van collageen-synthese?
+  -	Erfelijk?
+-	Voorkomen
+  - Vanaf 50 jaar
+  -	3% > 40 jaar 	=> kliniek bij <<<3%
+  -	Mannen > vrouwen (tenzij kaakbeenaantasting: Vrouwen > Mannen)
+  -	Pelvis > Lumbale WK > Sacrum > Femur
+  -	Meestal polyostotisch, soms ook monostotisch
+-	APO
+  -	Ordeloze afwisseling van botafbraak & nieuwe botappositie => mozaïek uitzicht
+-	Symptomen
+  -	MEESTAL: asymptomatisch => toevallige vondst RX/Bloed
+  -	Rugpijn/pijn in onderste ledematen
+  -	Triade:
+    -	Volumetoename aangetaste beenderen
+    -	Verweking => belaste botten buigen - afname in hoogte
+    - toename in bloeddebiet in aangetaste ledematen
+  -	Volumetoename
+    -	SCHEDEL: “te kleine hoed”
+    - => vernauwing schedelforamina (doofheid, voosheid, paralyse, hoofdpijn)
+  -	Verweking van botten
+    - Cervico-dorsale kyfose
+    -	Verbuiging onderste ledematen
+  - Toename in bloeddebiet in aangetaste ledematen
+    -	Warmer aanvoelen van aangetaste streek
+    -	Hartsdecompensatie (high output failure)
+  -	15%: aantasting kaken!
+    -	Maxilla: verbreding alveolaire kam & afvlakking palatum
+    - Leontiasis ossea
+    - Hypercementose van tandwortels => kan fuseren met Pagetoïd bot => ankylose van tanden
+    - Loskomen tanden/migratie tijdens osteolytische fase
+    -	Verlies lamina dura
+  - CAVE: tandextracties
+    -	Wortelankylose – ontstaan osteïtis – bloeding door toegenomen vascularisatie – cardiovasculaire toestand patiënt => PROFYLACTISCH AB!!!
+-	Labo
+  - Sterk gestegen alkalische fosfatasen
+  -	Normale Calcium & fosfor
+  - Urinaire excretie hydroxyproline (afbraak collageen)
+-	Radiologie
+  -	Begin
+    -	Osteolyse, afname bottrabekels, grover uitzicht
+    -	Schedel: osteoporosis circumscripta (ronde radiolucenties)
+  -	Verder
+    - Calcificaties & opklaringen (cotton-wool appearance)
+    - Schedel: dikte van calvaria, groffe/bevlekte randen
+    - Hypercementose van tandwortels
+    - Verdunde/afwezige lamina dura
+  - Scintigrafie:
+    -	=> vroegtijdige botmetabolisme bekijken!
+    - => ook effect van R/: bekijken!
+-	Differentieel diagnose
+  -	Chronisch scleroserende osteomyelitis
+  -	Fibreuze dysplasie
+  -	Ossificerend fibroom
+  -	Multipel myeloom
+-	Prognose en verwikkelingen
+  -	Ernstig: sarcomateuze degeneratie (<1%)
+    - Osseosarcomen: toename pijn & zwelling
+    - Slechte prognose
+  - Reusceltumoren
+  - Pathologische fracturen (femur/tibia/humerus, zz mandibula)
+  - Osteomyelitis
+  -	Cardiovasculaire verwikkelingen
+- Behandeling
+  - Geen
+  -	WEL R/: bij pijn/neurologische compressie/misvorming/hartsdecompensatie
+    -	Pijnstilling
+    - Afname Botresorptie dmv: calcitonine – cytostatica – bisfosfaten
+
+## Juveniele rheumatoïde arthritis:
+-	Defintie
+  -	Reuma bij kids = jeugdreuma
+  -	MEEST frequente oorzaak van chronische gewrichtsontsteking bij kids
+  -	Meeste reumatische ziekten volw>kids, behalve:
+    -	Ziekte van Kawasaki
+    -	Syndroom van Henoch-Schönlein
+    -	Ziekte van Still
+-	JIA
+  -	Juveniele Idiopathische Artritis
+  -	Verzamelnaam voor alle artritiden met 3 kenmerken
+  -	Ontstaan < 16 jaar
+  -	> 6 weken duren
+  -	GEEN aanwijsbare oorzaak
+  -	2 vormen:
+    -	Systemische JIA
+    -	Niet-systemische JIA
+
+## Systemische JIA
+- Etiologie
+  -	Auto-inflammatoire aandoening
+  -	Ontregeling van het VERWORVEN immuunsysteem (itt. niet het aangeboren immuunsysteem)
+- Voorkomen
+  - Soms Systemische JIA op VOLWASSEN leeftijd = Ziekte van Still
+-	Kliniek
+  -	>2 weken piekende koorts mits systemische klachten
+  -	vluchtig erythemateuze huiduitslag
+  -	Hepatosplenomegalie
+  -	Gegeneraliseerde lymfadenopathie
+  -	Serositis (ontsteking orgaanvliezen)
+  -	Artritis (kan ook later ontstaan)
+  -	Tijdens koorts is er buikpijn/huiduitslag
+  -	Beweginsbeperking tgv artritis
+    -	Ochtendstijfheid bij KIDS!!
+    -	>30 minuten na opstaan: stijve gewrichten, roodheid, …
+  -	Uveïtis
+  -	Weinig extra-articulaire manifestaties
+- Labo
+  - Leukocytose
+  - Toename CRP, bezinking
+  - Sterke toename ferritine/Thrombocytose
+    -	Microcytaire anemie
+- Differentieel diagnose
+  -	Infecties/maligniteiten
+- Pathofysiologie
+  -	Genetisch – omgevingsfactoren
+  - => ontregeld immuunsysteem
+  - => pro-inflammatoire immuunrespons met synovitis
+  -	Vorming antistoffen door B-cellen: RF, ANF, ANA’s
+  -	Vorming pro-inflammatoire cytokines door T-cellen: IL-1, IL-6
+- Diagnose
+  -	KLINISCH (geen aanvullende testen)
+- Behandeling
+  -	NSAID’s (indometacine)
+  -	GEEN SALICYLATEN (owv kans op Reye-syndroom)
+  -	IL-1 blokkade: ANAKINRA/CANAKINUMAB
+  -	IL-6 blokkade: TOCILIZUMAB
+  -	Prednisolon: minder gebruikt tegenwoordig	
+    -	(-): trage wondgenezing
+    -	(-): chronisch gebruik => bijnierschorsinsufficiëntie
+  - Oligo-articulaire Juveniele RA:
+    - => Wekelijks: METOTREXAAT
+    -	(+) oligo-articulaire juveniele RA.
+    -	(-): misselijk, orale aften
+    - => preventie: foliumzuur 24u NA MTX!
+    - Gestegen leverenzymen, beenmergsuppressie => controle labo
+  -	Poly-articulaire Juveniele RA:
+    -	Etancercept
+    -	Adalimumab (Humira)
+    - (-): immuunsuppressie
+    - (-) candida, …
+- Prognose
+  -	50% => dooft ziekte uit
+  -	CAVE: 
+    -	TMJ-arteritis
+      -	Kan bij ALLE subtypes van JIA
+      -	Kan in BEGIN – EINDE!
+      -	R/: lokale intra-articulaire corticosteroïd-injecties
+    - Micrognathie		(= kleine onderkaak)
+      -	Korte R. Ascendens, antegonal notch, korte corpus-lengte, …
+      -	(+) gewrichtsfunctie
+      -	(-) OSAS
+      - R/ Orthognatische correctie, distractie-osteogenese, alloprothese OK
+  -	CAVE: als chirurgie 
+    - Stop 3w pre-op monoclonale Antibodies!!!
+    - Herstart monoclonale Antibodies 6w postop!
+    
+## Niet-systemische JIA
+
+## Morbus Crohn - Colitis ulcerosa
+- Inleiding
+  - Twee belangrijkste inflammatoire darmziekten
+  - Kan elk deel van GI-stelsel aantasten
+  -	Crohn => onregelmatig verspreid (skip lesions), transmuraal
+  -	CU => CTU vanuit colon, vnl mucosa & submucosa 
+-	Kliniek
+  -	42% heeft reeds VOOR diagnose: orofaciale symptomen
+  -	Tijdens exacerbatie => orale letsels vaak erger
+-	Orale letsels
+  -	Specifiek
+    - Diffuse labiale/buccale zwelling
+      - TYPISCH & meest frequente symptoom
+      - STEVIGE, PIJNLOZE, HARDNEKKIGE zwelling thv lippen
+      - Kan uitbreiden => peri-oraal
+      - Kan diffuus & symmetrisch zijn of gelocaliseerd
+      - R/: topische injecties corticosteroïden
+      - R/: tacrolimus topisch: 0,5mg/kg
+    -	Cobblestones
+      - Granulomateuze zwellingen bij coloscopie: “kinderkopjes”
+      - Ook thv wangen: zwelling met fissuren
+      - KAN pijnlijk zijn
+      - R/: locale corticosteroïden
+    - Granulomateuze cheilitis
+      - Zwelling lip tgv granulomateuze ontsteking
+      - Klinisch gelijkt op cheilitis angularis
+      - Histologisch gelijkt op granuloom ZONDER centrale necrose
+    - Mucosale tags
+      - Asymptomatische mucosale uitstulpingen/gelocaliseerde zwellingen, verspreid over orale mucosa
+      - Diepe lineaire ulcera
+        - Omgeven door hyperplastische randen
+        - Hardnekkig voorkomen, te diff met aften
+      - Mucogingivitis
+  -	Aspecifiek:
+    - Aften
+      - Ovaal – rond, ondiep, pijnlijk
+      - 30% van patiënten met Crohn
+      - Voorafgaand of tegelijk met intestinale ziekte
+      - R/:
+        - Causaal R/: => remissie in darm => remissie in mond
+        - Spoelmiddel met cortisonen & lidocaïne
+    - Pyostomatitis vegetans
+      - Crohn >  CU
+      - Kleine witte/gele pustels op erythemateuze & oedemateuze mucosale achtergrond
+      - Buccal/gingivaal > tong/mondbodem
+      - Kan conflueren => snail-track beeld
+      - Histologie: microabcessen met eosinofielen
+    - Cariës
+      - Crohn
+      - Toename lactobacillen & S. Mutans in speeksel
+      - Toename plaque-score
+      - Behandeling
+        - Frequente TA-controle
+        - STRIKTE mondhygiëne, goede fluor-applicatie
+        - Minder suiker
+        - GEEN XYLITOL: darmstoornissen!
+      - Gingivitis
+        - Crohn
+        - Parodontitis bij 80% Crohn!
+      - Angulaire cheilitis
+      - Glossitis
+      - Gingiva hyperplasie
+      - Lichen planus
+      - Halithosis – dysfagie – smaakverandering – verminderde speekselproductie – lymfadenopathie – secundaire fibrose - candidiasis
+-	Behandeling
+  -	Corticosteroïden
+  -	Immunomodulatoren
+  -	Monoclonale ASen 
+    - Tegen TNF-alfa: infliximab – adalimumab
+    - Tegen IL12 en 23: ustekinumab
+  - Methotrexaat: => geef GEEN NSAID’s/Penicillines
+    - Kans op beenmergdepressie tgv  klaring methotrexaat uit nieren
+
+## Orofaciale granulomatose:
+-	Etiologie
+  -	Zz chronische ontsetkingsstoornis van lip & aangezicht
+  - Bij kids & jongvolwassenen
+  -	Idem aan letsels bij Crohn MAAR GEEN GI-aantasting
+  -	CAVE: 40% van kids => later toch CROHN! => eerder subtype van Crohn?
+-	Behandeling
+  - Kaneel- & benzoaatvrij dieet
+
+## Glutenenteropathie – coeliakie
+-	Etiologie
+  -	Auto-immuun ziekte: ASen tegen GLUTEN (tarwe – gerst – spelt – rogge)
+  - Malabsorptie thv de dunne darm tgv beschadiging darmmucosa tgv eten gluten
+  - Soms met mondklachten
+  - Typisch: verlies van darmvilli 
+    - => vlokatrofie
+    - => afname ijzer/calcium/vetoplosbare vitamine/… opname
+- Kliniek
+  -	Kids:
+    -	Vermagering – groeistoornissen – diarree – abdominale pijn
+  -	Volwassenen
+    - Anemie – vermoeidheid – gewichtsverlies – constipatie – infertiliteit – neurologische symptomen – osteoporose
+  -	Intra-oraal
+    -	Depigmentatievan tandglazuur
+    -	Hypoplasie van tandglazuur
+    - Vertraagde tanderuptie (blijvende dentitie)
+    -	Erytheem in mond
+    - Linguale atrofie
+    - Chronisch/recurrente mineure orale ulcera
+    - Angulaire cheilitis
+    - Glossitis
+    - Depapilatie van de tong (atrofie van de tongpapillen)
+-	Behandeling
+  - Glutenvrij dieet
+
+## GERR
+-	Defintie
+  -	Gastro-esefagele reflux disease
+  - Regurgitatie van zurge maagsappen
+-	Kliniek
+  -	Burning Mouth
+  -	Chemische erosies/ulceraties op tong/gehemelte/buccale mucosa
+  -	Halithosis
+
+## Peutz-Jeghers syndroom
+-	Etiologie
+  -	Autosomaal dominant syndroom met typisch multifocale, maculaire, melanine-pigmentatie peri-oraal (“sproetjes)
+  -	Sproetjes => kan tot op lippen/over mondmucosa
+-	Kliniek
+  -	“Sproetjes”
+  -	Polyposis coli ZONDER neiging tot ontaarden
+-	Differentieel diagnose
+  -	Neurofibromatose
+  -	Raciale pigmentatie
+  - Ziekte van Adisson
+-	Behandeling
+  -	GEEN => zolang niet erosief
+
+## Behcet’s syndroom
+-	Etiologie
+  -	Auto-immuun aandoening
+  -	Vnl in Midden-oosten & Japan
+  -	TRIADE: orale – genitale – occulaire letsels
+-	Pathofysiologie
+  -	Niet gekend
+-	Kliniek (triade)
+  -	Orale ulceratie
+    - Idem aan gewone afteuze stomatitis
+    - Circulaire letsels met grijze, necrotische bodem, scherp afgelijnde erythemateuze rand
+    - Pijnlijk, tot 2cm groot, verdwijnen na 1 week
+  - Urogenitale ulcera
+    - Tot 75% van patiënten
+    - Man: Scrotum – vrouw: Vulva
+    - Geneest met littekenvorming
+  - Uveïtis
+    - 50% van patiënten
+    - Beide ogen: “pan-uveïtis” => als GEEN R/: => kan tot blindheid leiden
+    - Als anterieure uveïtis => hypopyon
+  - Huid
+    - Tot 75% van patiënten
+    - Acneïforme laeseis/papulopustuleuze laesies/follicutlitis/…
+    - CAVE: “Pathergiefenomeen”
+      - =Ontstaan van pustel <48u op plek waar huid doorprikt werd met naald
+  - Andere
+    - 50%: artritis
+    - Focale/diffuse neurologische manifestaties
+    - Cardiaal - Gastro-intestinaal – Gewrichten
+-	Behandeling
+  - Mucocutaan/gewricht: 
+    - Colchicine 1,5mg/dag	=> CAVE: leukopenie (bloedname!!!)
+    - Huizalf: glucocorticoïden
+  - Orale aften
+    - Triamcinolon-creme
+  - Ernstige symptomen
+    - Azathioprine – IFN-alfa – Anti-TNF therapie
+
+## Lupus erythematosus
+-	Etiologie
+  -	Auto-immune mucocutane aandoening die ALLE organen kan aantasten
+  -	2 vormen
+    -	Beperkte “discoïde vorm"	(= cutane lupus)
+    -	Uitgebreide “gedissemineerde vorm” (= systeemlupus)
+-	Kliniek systeemlupus
+  - Orale letsels NIET altijd aanwezig (vnl systeemlupus)
+    - Witte, plaque-achtige/bulleuze verhevenheden = lichenoïd letsel
+    - Zz: erythematheus
+    - Frequent bilateraal op wangen/palatum, vaak pijnlijk
+    - Cheilitis onderlip	(= lupus cheilitis)
+  - Bilaterale/unilaterale zwelling glandula parotis
+  - Extra-oraal: vlinder-erytheem gelaat (pathognomonisch)
+-	Kliniek cutane lupus
+  - Klinisch & histologisch = lichen planus
+    - Mucosaal, scherp afgelijnde ulcera
+    - Erythemateuze plaques zonder induratie, omgeven met witte rand
+    - Discoïde huidletsels => geneest met litteken & atrofei
+-	Prevalentie
+  -	Europa: 40/100.000
+  -	VS: 200/100.000
+  -	90% vrouwen
+-	Labo
+  -	100% (+) ANF
+-	Behandleing
+  -	Hydroxychloroquine 	(Plaquenil)
+  -	GEEN zonlicht, rookstop, geen hyperlipidemie, geen ZWS, …
+
+## Psoriasis
+-	Etiologie
+  -	Auto-immuunziekte met ASen tegen huid/gewrichten
+  - Zz: oraal voorkomen
+    - Kleine witte papels met puntbloeding bij frictie
+    - Rode & witte plaques, morfologisch gelijkend op huidletsel
+    - Felrode plekken
+
+## Sclerodermie – systeemsclerose
+-	Etiologie
+  -	Systemische bindweefselziekte met verhoogde afzetting van collageen met progressieve fibrose van huid (soms van interne organen)
+-	Classificatie
+  -	Slerodermie KAN beperkt blijven tot huid = MORFEA 
+(= plaque-type, coup de sabre, lineair, gegeneraliseerd)
+  -	Systeemsclerose = sclerodermie MET aantasting interne organen
+    -	Diffuus:	extremiteiten/aangezicht/romp
+    -	Beperkt:	Distale helft van LM/aangezicht
+-	Prevalentie
+  -	30 – 50 jaar
+  -	Vrouwen >>> Mannen
+-	Pathogenese
+  -	Ontsteking 
+    - Activatie fibroblasten 
+    - Cytokinen & groeifactoren 
+    - Overproductie collageen
+  -	Ontsteking
+    - Veranderende vaatpermeabiliteit
+    - Ischemie
+    - Intravasculaire occlusie
+-	Etiologie
+  - NIET Gekend
+-	Risicofactoren
+  - Genetisch voorbeschikt
+  - Omgevingsfactoren (bouwsector – inhalatie silica – PVC – solventen)
+-	Diagnose
+  - Combinatie kliniek – immunologie – Capillaroscopie – huidbiopsie
+-	Labo
+  -	ANA: 85% (+) => toch niet direct gerelateerd aan pathogenese & ziekteactiviteit
+-	Kliniek
+  -	1ste teken: Raynaudfenomeen: 
+    - Bleke/gevoelloze vingers bij koud
+    - Opwarmen: intens rood/blauw => pijnlijk
+    - Tgv reversibele vaatspasmen => ischemie/necrose!
+    - Kan “acrolyse” => verkorting van vingertoppen
+  - Zwelling/oedeem van vingers/hand => voorarmen/voeten/onderbenen/aangezicht met depigmentatie
+      - Vingers worden stijf/verkleven aan onderhuid: slcerodactylie => flexiecontracturen
+  - Aantasting gezicht
+    - Verstrakking gelaat => verdwijnen rimpels, microstomie (+ radiaire plooien rond mond)
+    - Tele-angiëctasieën op handen/aangezicht
+  - Longfibrose
+    - Pulmonale hypertensie
+-	Radiologie (OPG)
+  - Verbreed parodontaal ligament (2 à 4x normale breedte)
+  - Botresorptie van kaakbot (proc. Coronoid / post deel R. Ascendens / condylus TMJ)
+    - ERNSTIGE systeemsclerose => ook mandibulaire botresorptie
+    - CAVE: ischemie van bot tgv verstrakking huid
+  - Atrofie van m. masseter/tterygoideus
+-	Mondproblemen
+  - Afname mondopening
+  - Microstomie
+  - Monddroogte
+    - Atrofie orale mucosa => droge ogen & droge mond bij 70%
+    - Xerogene bijwerkingen toegepaste medicatie
+    - Syndroom van Sjögren bij 15%
+    - Esthetische bezwaren
+    - Atrofie maagslijmvlies met pernicieuze anemie tgv GI-reflux => GERD
+-	Behandeling
+  -	Ca-antagonisten	(nifedipine)
+  -	ACE-I
+  -	Glucocorticoïden
+  -	Cyclofosfamide
+  -	Methotrexaat
+  -	Bosentan
+-	Parry-romberg syndroom = hemifaciale atrofie
+  -	= Vorm van lineaire sclerodermie
+
+## Wegener’s Granulomatosis (= granulomatosis met polyangiitis):
+-	Etiologie
+  -	Systeemvasculitis: ontsteking an wand bloedvaten => necrose weefsels
+-	Orale letsels
+  -	Hyperplastische gingivitis = “strawberry gingivitis”
+  -	Niet specifieke ULCERA van mucosa (bloederige/purulente secreties)
+  -	Lethaal midlijn granuloom
+-	Prevalentie
+  -	Zz
+  -	Vnl 50 – 60 jarigen
+  -	Blank > andere
+-	Kliniek
+  -	BEGIN: NKO-klachten (sinusitis – bloederige rhinorree korstvorming – otitis media – zadelneusmisvorming)
+  -	Stenose subglottis/trachea
+  -	Longaantasting
+  - Nierinsufficiëntie
+  - Oogaantasting (50%): Scleritis – unilaterale pro-optosis 
+(inflammatoir fibrotisch weefsel vult retro-orbitale ruimte op)
+  -	Myalgie – arthralgie
+  - Palpabele purpura op huid
+-	Diagnose
+  - Biopsie
+-	Labo
+  - (+) ANCA’s
+  - CRP
+  - Sedimentatiesnelheid 
+- Behandeling
+  -	Corticosteroïden
+  -	Cyclofosfamiden
+  -	Azathioprine ipv cyclosfosfamide
+  - Plasmaferese => kunnen ANCA’s X
+  - VS: rituximab
+
+## Arteriitis temporalis
+-	Etiologie
+  - Vasculitis van de middelgrote/grote arteriën => typisch thv a. temporalis!
+-	Incidentie
+  - Meest frequente vasculitis bij patiënten > 50 jaar
+  - Vrouwen > mannen
+  - Vnl: Scandinavië
+-	Synoniemen
+  - Reuscelarteritis
+  - Arteritis cranialis
+-	Kliniek
+  - Oudere patiënt met gewichtsverlies, algemene malaise, PLOTSE hoofdpijn, PLOTSE visusstoornissen, Kaakclaudicatio,  Inflammatoir bloedbeeld.
+  - Acute hoofdpijn: temporaal (frontaal/occipitaal)
+  - Visusdaling ( partiëel/volledig) uit 1/ 2 ogen => Irreversibele visusverlies door aantasting a. ophtalmica
+    - R/: URGENTE toediening steroïden
+  -	Kaakclaudicatio => HOGE PREDICTIE voor AT.
+  - Polymyalgia rheumatica
+  - Toegenomen kans op aorta aneurysma
+  - Dyspnee/hoesten
+-	Klinisch onderzoek
+  - Prominente A. Temporalis, pijnlijke palpatie
+  - Oogfundusonderzoek: ANT ischemische opticusneuropathie
+  - Gevoeligheid bij aanraken scalp
+-	Labo
+  - Gestegen CRP
+  - Gestegen sedimentatiesnelheid
+-	Differentiaal diagnose
+  -	Kaakgewrichtsaandoeningen
+  -	Trigeminus neuralgie - neuropathie
+  - Migraine
+  -	Post-herpetische neuralgie
+-	Diagnose
+  - Biopsie a. temporalis => histologie
+    - CAVE: sommige delen van a. temporalis zijn niet aangetast (vals negatief resultaat)
+  - FDG-PET: extensieve vasculitis van grote bloedvaten
+-	Behandeling
+  -	Prednisolon 60mg/dag => IV zorgt NIET voor genezing blindheid, WEL voor verhindering andere oog blind!
+  -	Als recidief: + 2e immmuunsuppressivum
+    -	Azathioprine
+    -	Methotrexaat
+    -	Acetylsalicylzuur
+  -	# nevenwerkingen van steroïden in hoge dosis & langdurig
+    - Osteoporose => PREVENTIE door vit D, calcium, denosumab, bisfosfonaten
+    - DIABETES veroorzaken
+    - Cataract
+    - Cushingoïd: centripetale vetverdeling, moon facies, buffalo hump, dunne huid, ecchymose
+    - Spierzwakte
+
+## Syfilis
+-	Etioloige
+  - SOA: door treponema pallidum
+  -	Orale aantasting in ALLE 3 stadia
+  -	CAVE: besmettelijk => handschoenen!
+-	Kliniek: 3 stadia
+  - Harde Sjanker (wel besmettelijk)
+    - 5 – 6 weken NA contact
+    - Pijnloos ulcer met erythemateuze, opgeworpen rand, met adenopathieën
+    - Op lippen/tong (soms palatum/amandelloge)
+    - Geïndureerde bodem: grijs, sereus exsudaat (besmettelijk)
+  - Secundaire syfilis (wel besmettelijk)
+    - Mucosale patches: gladde, glinsterende plaques die binnen 6 – 8 weken NA sjanker manifesteren
+    -	Gespleten papels thv mondhoek
+    - Maculopapulaire rash
+  - Gumma (gummatous necrosis)	(niet meer besmettelijk)
+    - Zz bij ons => perforatie palatum => cavum nasi
+    - Rubberachtig infiltraat => ulcereert => necrose tot bot
+    - Glossitis
+    - # Niet-orale:
+      - Psychotisch gedrag met grootheidswaanzin
+      - Aorta Aneurysma
+      - Perifere neuropathie
+-	Behandeling
+  - IM 4.000.000 IE Penicilline => 4x/dag 250mg penicilline (2 weken)
+  - MELDINGSPLICHT overheid!
+
+## Orale manifestaties van AIDS
+-	Etiologie
+  -	(-) immuniteit => toename in opportunistische infecties/neoplasmen
+  -	Frequent: mond 1ste manifestatie aids
+  -	CAVE: CD4-lymfo’s >400/mcl => GEEN orale letsels!!!
+-	Candidiasis
+  - Eerste uiting van AIDS
+  - Denk hieraan bij jonge patiënt zonder duidelijke oorzaak!
+  - AB – xerostomie – cortisonen - …
+  - R/:
+    - Ketoconazol (Nizoral)
+    - Fluconazol (Diflucan)
+-	Hairy leukoplakie
+  - Gerimpelde witte vlek op LATERALE tongrand => bilat
+  - Teken van ERNSTIGE leukoplakia!
+  - Typisch prodromen van AIDS
+  - Frequent met candida samen
+  - Etiologie
+    - EBV => komt terug boven bij immuunsuppressie! (soms: HPV)
+  - Histologie
+    - Hyperkeratose – acanthose – geballoneerde cellen die op koilocyten lijken – GEEN ontsteking
+  - Diagnose
+    - MOET EBV in letsel EN DIAGNOSE HIV tesamen!
+  - Behandeling
+    - Geen R/: nodig => R/: AIDS
+    - Acyclovir (Zovirax) – Retinoïnezuur (Neotigason)
+    - Candida: Antimycotica (nystatine – clotrimazole – ketoconazole)
+-	Gingivitis - parodontitis
+  -	Vroegtijdig verschijnsel van HIV
+  - Vrij THERAPIE-resistent => naar parodontitis => necoritserende gingivitis
+-	Virale infecties
+  -	Herpes => type I/II
+  - HPV => wratten/condylomata acuminatum
+  - Behandeling
+    - Acyclovir (zovirax)
+-	Neoplasmen
+  - Kaposi sarcoom
+    - Multicentrisch maligne neoplasma: rood/blauwe vlekken
+    - Langzaam groeiend gezwel. Bij AIDS veel agressiever!
+    - Vnl: Afrika, Joden, … => ook AIDS
+    - Is GEEN NEOPLASIE bij aids!
+    - Etiologie
+      - Herpes virus type 8
+    - Localisatie
+      - Extra-oraal: huid – LK – GI-tractus
+      - Intra-oraal: palatum – gingiva/wangmucosa
+    - Kliniek
+      - Rood/blauwe vlekken
+      - Tandvlees: diffuse zwelling (zoals parodontitis/epulis)
+    - Behandeling
+      - Lokale excisie (laserablatie)
+- Maligne  lymfoom
+  - Welke
+    - Meest frequent: Non-Hodgkin lymfoom
+    - Cervicale adenopathieën (gewoon vergrote Lken) 
 
