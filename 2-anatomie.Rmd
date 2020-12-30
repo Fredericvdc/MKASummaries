@@ -417,6 +417,10 @@ Het gedeelte van de nek dat binnen het bestek van deze cursus valt, wordt begren
 De Nomina Anatomica heeft geen afzonderlijke naam voor dit gebied. In de Angelsaksische literatuur spreekt men van ‘the side of the neck'. In het Nederlands spreekt men van ‘de hals'.
 De regio cervicalis posterior (regio nuchalis) is het achterste gedeelte van de nek. De regio cervicalis lateralis wordt ook de posterior driehoek in brede zin genoemd.
 
+```{r echo=FALSE, out.width = "100%", fig.align="center", fig.cap='Hals overzicht'}
+knitr::include_graphics('figures/halsregio.png')
+```
+
 ### Indeling
 M. sternocleidomastoideus vormt een prominent landmerk in de hals. Zijn oorsprong bevindt zich onderaan de hals en is dubbel. De stevige sternale kop is peesvormig en zit vast op de voorzijde van het manubrium sterni (sternale kop), lateraal van de incisura jugularis. De claviculaire kop ontspringt op het mediale eenderde van de clavicula. Beide spierbuiken verenigen zich en insereren op de processus mastoideus. De insertielijn strekt zich achteraan uit tot bij de linea nuchalis superior. Bezenuwing: de motorische bezenuwing is afkomstig van de spinale wortel van n. accessorius (craniale zenuw XI). Kleine takjes van de ventrale rami van C2 en C3 bevatten proprioceptieve vezels.  
 
@@ -424,6 +428,10 @@ Functie: Bilaterale contractie van beide mm. sternocleidomastoidei veroorzaakt f
 
 Congenitale of chronische torticollis of scheefhals is een afwijking die ontstaat door kwetsuur van m. sternocleidomastoideus bij de geboorte door te sterke tractie op het kinderhoofdje. Ten gevolge van posttraumatische contractuur van de spier staat het hoofdje scheef en draait het aangezicht naar de niet aangetaste zijde. Deze toestand is reversibel mits aangepaste behandeling.
 Bij de volwassene komt eerder acute torticollis of scheefhals voor. Deze pijnlijke toestand wordt veroorzaakt door reflectorische spierspasmen van de nekmusculatuur. De spierspasmen zijn het gevolg van trauma of inflammatoire processen, die op hun beurt aanleiding kunnen geven tot subluxaties tussen de cervicale wervels onderling.
+
+```{r echo=FALSE, out.width = "100%", fig.align="center", fig.cap='Laterale hals'}
+knitr::include_graphics('figures/laterale-hals.png')
+```
 
 ## Fascia's van de hals
 De losmazige onderhuid die de hals rondom omgeeft bevat het papierdunne platysma. Het onderhuidse bindweefselcompartiment wordt in de Angelsaksische literatuur ‘superficial fascia' genoemd. Hierin bevinden zich, naast een wisselende hoeveelheid vet, de onderhuidse bloedvaten, zenuwen en ook de mimische spieren. Het platysma behoort tot de groep van mimische spieren die alle door n. facialis worden bezenuwd. In de N.A. wordt het platysma onder ‘mm. colli' vermeld. Het is een platte, ongeveer rechthoekige spier die vanaf de onderrand van de mandibula naar lateraal-onder strekt. Haar bovenste vezels zijn verweven met deze van de mimische spieren rond de mond en helpen deze vervormen. Haar laagste vezels bereiken de onderhuid over m. pectoralis major.
@@ -435,7 +443,15 @@ Op dwarse doorsnede van de hals wordt een aantal bindweefselige tussenschotten o
 - de lamina pretrachealis en de
 - vagina carotica.
 
+```{r echo=FALSE, out.width = "100%", fig.align="center", fig.cap='Hals fascia'}
+knitr::include_graphics('figures/hals-fascia-1.png')
+```
+
 Deze bindweefselbladen zijn klinisch belangrijk omdat zij chirurgische klievingsvlakken vormen. Infecties kunnen zich, na invasie van (virtuele) weefselruimten tussen deze fascia's, verder uitbreiden, bv. tot in het mediastinum.
+
+```{r echo=FALSE, out.width = "100%", fig.align="center", fig.cap='Hals fascia'}
+knitr::include_graphics('figures/hals-fascia-2.png')
+```
 
 De lamina superficialis (In de Angelsaksische literatuur (cf. Grant' Atlas) ‘investing fascia' genoemd) vormt de buitenste bindweefselkoker. Zij vertegenwoordigt de algemene fascia in het halsgebied. Met uitzondering van de onderhuidse zenuwen en bloedvaten en het platysma, bevinden alle structuren van de hals zich binnen deze lamina. Bovenaan vertrekt de lamina superficialis vanaf de protuberantia occipitalis externa, de linea nuchalis superior en de (onderzijde van) processus mastoideus. Meer naar ventraal hecht zij vast op de onderrand van de mandibula van bij de angulus tot aan de kin en op het hyoid. Zij zit achteraan vast over de ganse lengte van het ligamentum nuchae tot bij processus spinosus van C7. Onderaan zit de oppervlakkige lamina vast aan de spina scapulae tot bij het acromion (achteraan) en aan de clavicula en de bovenrand van het manubrium sterni (vooraan).
 De lamina superficialis ontdubbelt op een aantal plaatsen (de twee lagen van de lamina superficialis kunnen worden beschouwd als de cervicaalwaartse verderzetting van de fascia clavipectoralis):
@@ -448,15 +464,25 @@ vast aan de jukboog; het diepe blad reikt naar mediaal tot bij de ingang van het
 
 De lamina prevertebralis vormt een koker rond de spieren die aan de voor- en achterzijde van de cervicale wervelkolom vasthechten. Bovenaan zit zij vast aan de schedelbasis. Zij bedekt de voorzijde van de spieren in de bodem van de achterste halsdriehoek, dus ook n. phrenicus. Naar onder wordt de lamina prevertebralis dunner en versmelt zij in het bovenste mediastinum ongevee ter hoogte van de derde thoracale wervel met het ligamentum longitudinale anterius. De proximale gedeelten van plexus cervicalis en brachialis, de a. subclavia en a. axillaris liggen onder (achter) deze lamina. Naar lateraal krijgen al deze structuren een bindweefselschede mee die de verderzetting is van de lamina prevertebralis. De lamina prevertebralis wordt doorboord door de cutane takken van de plexus cervicalis. Onderaan in de posterior driehoek ligt de v. jugularis externa oppervlakkig ervan. De strakke prevertebrale fascia vormt een rigide wand waarover de ventraal gelegen pharynx en slokdarm tijdens de slikbeweging kunnen glijden. De (virtuele) ruimte tussen de achterzijde van de pharynx/slokdarm en de prevertebrale fascia is de retropharyngeale of retroviscerale ruimte (spatium retropharyngeum).
 
+```{r echo=FALSE, out.width = "100%", fig.align="center", fig.cap='Fascias in vooraanzicht'}
+knitr::include_graphics('figures/fascia-voor.png')
+```
+
 Het voorste gedeelte van de hals bevat de cervicale viscera (larynx, pharynx, trachea en slokdarm). Deze structuren worden omgeven door de lamina pretrachealis, die zich achter de strapspieren bevindt en vooral aan de voorzijde van de trachea zeer duidelijk is (vandaar haar naam). Bovenaan zit zij vast op hyoid en thyroid- en cricoidkraakbeen; zij strekt zich uit tot in de thorax waar zij met het fibreuze pericardium versmelt. Zij vormt de capsula fibrosa van de schildklier, die zich beneden in de hals op de voorzijde van de trachea bevindt. Tussen de lamina superficialis en pretrachealis bevindt zich de pretracheale ruimte (niet in de N.A.), die naar beneden toe continu is met het voorste mediastinum.
+
 Etterige infectieuze processen van de cervicale viscera breken gemakkelijk doorheen de lamina pretrachealis en kunnen dus naar de pretracheale ruimte uitbreiden. De stevigere lamina superficialis verhindert doorbraak van etter naar de subcutane ruimte. Bijgevolg zal een infectie tussen de lamina superficialis en pretrachealis eerder uitbreiden in de richting van het bovenste mediastinum waar zij aanleiding kan geven tot mediastinitis.
 Infectieuze processen afkomstig zowel van de viscera als van de cervicale wervels (vb. tuberculose) kunnen doorbreken naar de retropharyngeale ruimte. De uitbreiding van de infectie (of drainage van de ettercollectie) kan eveneens plaatsvinden in de richting van het mediastinum.
 
 De vagina carotica of carotisschede is een stevige bindweefselkoker rond de verticale neurovasculaire elementen van de hals (a. carotis communis/interna, v. jugularis interna, n.vagus) die zich aan weerszijden van de cervicale viscera bevinden. De carotisschede is zowel met de lamina pretrachealis als met het diepe oppervlak van m. sternocleidomastoideus verbonden.
 Bij de beschrijving van de fascia's van de hals dient volledigheidshalve de membrana suprapleuralis (of fascia van Sibson) te worden vermeld. Dit is een bindweefselmembraan over de longkoepels waar deze boven de bovenste thoraxapertuur uitsteken. Zij strekt zich uit tussen de processus transversus van C7 en de binnenrand van de eerste rib (de N.A. vermeldt haar bij de splanchnologie - ademhalingsstelsel).
 
+```{r echo=FALSE, out.width = "100%", fig.align="center", fig.cap='Fascias in zijaanzicht'}
+knitr::include_graphics('figures/fascia-lateraal.png')
+```
+
 ## Compartimenten van de hals
-De hals wordt door de aanwezigheid van verschillende lagen van de halsfascia verdeeld in een voorste (viscerovasculair) en een achterste (neuromusculair, ook wel musculoskeletaal compartiment genoemd.) compartiment.
+De hals wordt door de aanwezigheid van verschillende lagen van de halsfascia verdeeld in een voorste (viscerovasculair) en een achterste (neuromusculair, ook wel musculoskeletaal compartiment genoemd) verdeeld.
+
 Het neuromusculaire compartiment bestaat uit de cervicale wervelkolom (met daarin het ruggenmerg en de uittredende spinale zenuwen) en de spieren die eraan vast zitten. Dorsaal zijn dit in hoofdzaak de cervicale gedeelten van de autochtone rugspieren, bedekt door m. trapezius. Het zijn extensoren van de nek. Aan de voorzijde van de cervicale wervellichamen liggen de prevertebrale spieren: dit zijn flexoren van de halswervelzuil.
 Het viscerovasculaire compartiment bevat de bovenste gedeelten van het spijsverterings- en ademhalingsstelsel, de schildklier en de bijschildklieren, links en rechts geflankeerd door de belangrijke neurovasculaire bundel, verpakt in de carotisschede.
 
