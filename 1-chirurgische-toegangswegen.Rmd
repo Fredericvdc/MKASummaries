@@ -68,7 +68,7 @@ knitr::include_graphics('figures/rhytidectomie-dissectie-2.png')
 #### Stap 4: retromandibulaire approach
 - Zodra huidflap is geprepareerd is de approach identiek aan retromandibulaire approach.
 
-```{r echo=FALSE, out.width = "100%", fig.align="center", fig.cap='Retromandiublaire approach'}
+```{r echo=FALSE, out.width = "100%", fig.align="center", fig.cap='Retromandibulaire approach'}
 knitr::include_graphics('figures/retromandibulaire-approach.png')
 ```
 
