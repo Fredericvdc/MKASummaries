@@ -1,0 +1,341 @@
+# Embryologie van het gelaat
+## Terminologie
+-	0 – 3 weken: Blastocyst
+-	3 – 9 weken: Embryo
+-	\>10 weken: foetus
+-	Teratologie: studie van geboortedefecten
+-	1ste ZWS-trimester: gelaat – mond – tong – hals => fusie & programmed cell death
+-	15e – 18e dag: (2e week)
+    -	Primitieve nodus cellen uit ectodermale plaat migreren naar buccopharyngeale membraan (craniaal)
+    -	Vormen: notochordiale plaat
+    -Plaat vouwt in & vormt volle cilinder => notochord
+    -	(Neuro)Ectoderm wordt (dmv notochord) => neurale PLAAT (dag 19)
+    -	Neurale plaat => Neurale groeve => Neurale buis 
+Met anterieure en posterieure opening = neuropore
+    -	Tegelijk: vorming neurale lijst-cellen
+        - Maken zich progressief los van neurale groeve 
+(delaminatie)
+        -	Vormen celaggregaten => migreren & vormen
+            -	Dorsale wortels spinale zenuwen
+            -	Craniale/enterische/autonome ganglia
+            -	BW-structuur
+            - ...
+
+CAVE: Afwijkingen tijdens migratie van neurale lijst-cellen = Neurocristopathieën
+cfr: [syndromen]
+
+- Neuroblastoom
+- Feochromocytoom
+-	Neurofibromatosis
+-	MEN 2 & 3 (multipele endocriene neoplasieën)
+-	Mandibulofaciale dysostose = ziekte van Treacher Collins
+-	Apert syndroom
+-	DiGeorg syndroom
+-	Waardenburg-syndroom
+-	Albinisme
+-	Ziekte van Hirschzprung
+- FAS (foetaal alcohol syndroom)
+
+Later: sluiten van neuroporen & differentiatie in:
+
+-	Telencephalon
+- Diencephalon
+- Mesencephalon
+- Metencephalon
+- Myelencephalon
+    - Hieruit vormt hele CZS, neuronen, gliacellen
+- Praxiaal van notochord: mesoderm wordt somiet-paren
+    - Van hieruit cellen die mruggenmerg en notochord omringen
+    - Verbenen
+    - Vormt de wervelkolom 
+
+## Derivaten van de kiemlagen
+- Ectoderm
+    - Oppervlakkig ectoderm
+        - Lens
+        - Interne oor
+        - Epiderm
+        - Tandglazuur
+    - Neuralbe buis
+        - CZS
+        - Retina
+        - Posterieure hypofyse
+    - Neurale lijst
+        - Craniale en sensorische ganglia
+            - Alle perifere neuronen van  het autonoom ZS (sympaticus, parasympaticus, enterisch)
+        - Bijnier medulla
+        - Delen hersenvliezen
+        - Aangezichtsbotten, bindweefsel gelaat
+        - Melanocyten
+        - Tandbestanddelen (tandpapil, odontoblast, pulpa matrix)
+        - Opmerking
+            - Migratie vanuit rhombomeren
+            - Migratie vanuit neurale lijstcellen vormen kiewbogen en placoden voor sluiting van de neurale buis
+            - Placode: verdikte ectoderm zorgt voor aanleg zintuigen en ganglia
+                - Oogprimordia
+                - Oorplacode
+                - Kiewbogen
+                - Lensplacode
+                - Trigeminale placode
+            - Vormen kieuwbogen
+- Mesoderm
+    - Paraxiale mesoderm
+        - Mesoderm vormt somiet-paren
+        - Omringen wervellichamen
+        - Skeletale spieren van torso en ledematen
+        - Skelet (behalve schedel)
+        - Huid
+        - Bindweefsel
+    - Intermediate mesoderm
+        - Urogenitaal systeem
+    - Laterale plaat mesoderm
+        - Sereuze membranen
+        - Gladde spieren
+        - Bindweefsel van viscerale holte
+- Endoderm
+    - Maagdarm tracturs
+    - Lever, pancreas, blaas, longen
+- Notochord verdwijnt en wordt nucleus pulposus
+    - Pathologie indien dit niet verdwijnt = chordoma's 
+- Kieuwbogen
+    - 1e kieuwboog
+        - n. V1/V2/V3 (n. trigeminus)
+    - 2e kieuwboog
+        - n. VII (n. facialis)
+    - 3e kieuwboog
+        - n. IX (n. glossopharyngeus)
+    - 4e kieuwboog
+        - n. laryngeus superior, n. vagus
+    - 5e kieuwboog
+    - 6e kieuwboog
+        - n. recurrens n. vagus
+
+| Mesoderm                                                                                         | Neurale lijst                                                                                      | Mesoderm en neurale lijst                                                                                                   |
+|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| - Skeletspieren - Cardiale spieren - Viscerale gladde spieren - Endotheel - Endocardium - Serosa | - Perifere autonome zenuwen - Sensorische neuronen - Perifere glia - Schwanncellen - Odontoblasten | - Kraakbeen - Endochondraal bot - Intramembraneus bot - Perivascualire gladde spieren - Glandulair stroma - Meningen - Huid |
+
+- Trigeminale placode (ganglion van Gasser)
+    - Sensorisch deel n. V (pijn, temperatuurszin, tastzin)
+    - Neurale lijstcellen
+    
+## Paracriene signaling factoren
+- 4 belangrijke
+    - Fibroblast growth factor (FGF)
+    - WNT
+    - Hedgehog
+    - Transforming growth factor-beta (TGF-beta)
+- Sonic hedgehog signaling
+    -	(!) vanuit notochord naar bovenliggende neurale plaat
+    - => vorming neuroectoderm.
+    - => (!) voor symmetrie – patroonvorming – segmentatie
+    - => (!) geeft 2 symmetrische helften, 2 hersenhelften, 2 ogen
+    -	(!) vorming 1ste kieuwboog: symmetrie     – segmentatie – patroonvorming
+    -	4e week, secretie door notochord
+    -	Mutaties: hedgehog-gen
+        - Bij kinderen: defecten
+            - Vroege embryonale dood
+            - Holoprosencephalie (grote hersenen GEEN 2 hemisferen)
+            - Cyclopie (geen neus, 1 “oog” tussen ant cerebrale fossa & mond)
+            - Hypotelorisme – cyclopisme
+            - Arhinie – met/zonder probosci
+            - Ribagenesie
+            - Lidmaatagenesie
+            - Embryonale asymmetrische ontwikkeling van sagittaal vlak, CZS, skelet, ledematen, ogen, tanden
+            -	=> vroege embryonale dood
+            - => Cyclopie
+      - Bij volwassenen: her-activatie met kankerontwikkeling
+            - Basaal cel-naevus syndroom (gorlin Goltz syndroom)
+            - Basaal cel carcinoom
+            - Medulloblastoom
+            - Rhabdomyosarcoom
+            - KOT
+    - Pathway:
+            - Smoothened => (+) genexpressie
+            - Patched => (-) op smoothened
+            - Aanwezigheid Shh => (-) op patched => 
+            - DUS: smoothened => (+) genexpressie
+      - PTCH 1
+            - Is een receptor voor SHH, zal bij activatie Smoothened inhiberen
+            - Bij PTCH-inactivatie => geen inactivatie Smoothened => Neoplastische groei
+      - CAVE:  verstoring pathway ?
+            - Tgv genetische redenen (mutaties)
+            - Tgv toxische medicatie (cyclopamine – alcohol tijdens ZWS)
+                - => Holoprosencephalie: GEEN 2 hersenhelften!
+            - Eens notochord is verdwenen => OOK GEEN activatie van SHSP meer!
+                - => Gorlin Golt syndroom: her-activatie adolescent/volwassen
+                - => Basaal-celcarcinomen, keratocysten
+                - => R/: medicatie die pathway (-)
+
+## Drie weken
+-	Embryo van 3 weken grootste deel van gelaat = prosencephalon (= ronde weefselmassa)
+-	Zal zich opsplitsen in diencephalon en 2 cerebrale hemisferen
+-	Mediane uitstulping op prosencefalon is de processus nasofrontalis
+    - splitst in processus nasalis medialis/lateralis
+    - diepe spleten tussen beiden: “nasale groeven”
+    - 5 à 6w: vergroeiing tussen processus maxillaris & processus nasalis medialis met vorming uitwendige neusgaten
+        - Nog steeds verbinding tussen neus & mondholte
+        - Enkel primair gehemelte dat neusgaten van mond afsluit
+        - Uit primair gehemelte => bovenlip/voorste deel processus alveolaris van BK ontstaan
+- Vanaf 8w: lateraal in stomodeum => uitstulpingen op processi maxillares
+    - vergroeien met elkaar & primair gehemelte & neustussenschot
+    - vormt harde & weke gehemelte.
+    -	Er onder: mandibulaire boog
+    -	Lateraal: processi maxillares
+-	5 faciale zwellingen (processi, prominenties)
+    -	Frontonasale processsi => voorhoofd, neusmidden, philtrum bovenlip,  premaxilla, palatum primum
+    -	Medionasale processi	=> 2
+    -	Nasolaterale processi => 2
+    -	Maxillaire processi  	=> 2
+    -	Mandibulaire processi => 2
+        -	2 mandibulaire processi => samen 1ste kieuwboog
+        -	fuseren op middellijn
+
+## Vier tot vijf weken
+Oppervlakkig ectoderm invagineert en vormt stomodeum:
+
+- Toekomstige mondholte
+- De bucco-faryngeale membraan scheurt rond 4e week
+
+### Drie placodes
+
+- Neusplacode
+- Lensplacode
+- Gehoorplacode
+
+### Endoderm en voordarm
+
+- Reiken tot stomodeum
+- Vormen
+    - Farynx
+    - Larynx
+    - Trachea
+    - Oesofagus
+    - Aanverwante structuren
+    
+### Segmentaties
+
+- 6 gepaarde kieuwbogen gescheiden door kieuwgroeven
+    - Buitenzijde: ectoderm
+    - Binnenzijde: endoderm
+- Kieuwzakken: uitstulping endoderm
+- Kieuwspleten: uitstulping ectoderm
+- Eerste drie kieuwbogen: mandibula, oor, hyoïd
+- Vierde-vijfde-zesde kieuwboog: laryngeale, faryngeale structuren
+- Enkel eerste en tweede kieuwboog strekt zich uit tot de middenlijn!
+- Elke kieuwboog vormt:
+    - Craniale zenuw
+    - Kraakbeen
+    - Arterie uit aortaboog
+- Buccofaryngeale mebraang scheurt op 4 weken
+    - Verbinding tussen primitieve mondholte (ectoderm) en primitieve pharynx (endoderm)
+
+### Kieuwbogen
+Eertse kieuwboog
+
+- Maxillair (V2) en mandibulair (V3) deel
+- Vormt onderste grens van stomodeum
+- Heeft ectoderm aan buiten en binnenzijde
+- Maxillair deel van eerste kieuwboog
+    - Vormt maxilla en structuren middengelaat (behalve neus)
+- Mandibulair deel
+    - Mandibula en aanverwante structuren
+- Voorste 2/3e tong
+    - Tuberculum impar
+    - Twee laterale linguale zwellingen
+    
+    
+Tweede kieuwboog (VII)
+
+- Chorda tympani: verbindt n. facialis met n. lingualis (V3)
+
+Derde en vierde kieuwboog
+
+- Achterste derde van de tong
+
+### Verhemelte
+- Sluiting van primair verhemelte en vorming neusopening
+    - Primair palatum
+        - Processus nasalis medialis
+    - Secundair palatum
+        - Processus maxillaris
+        
+### Tong
+- Voorste 2/3 tong
+    -	Tuberculum impar 
+    -	2 laterale linguale zwellingen
+-	2e kieuwboog (VII)
+    -	Geen relatie met tong
+    -	Chorda tympani: verbindt N. VII met N.Lingualis (V3)
+-	3e en 4e kieuwboog
+    -	Achterste 1/3 tong:
+    -	2 mediaan gelegen verdikkingen: copula (mesoderm 2e kieuwboog) en hypobranchiale/hypopharyngeale eminentia (3e en voorste deel 4e kieuwboog)
+-	Sensibele innervatie voorste 2/3
+    -	N. V
+    -	N. VII: smaakinnervatie
+-	Sensibele innervatie achterste 1/3
+    -	Sensibel: N. IX	(3e kieuwboog!!)
+    -	Smaakknoppen: N. IX	(ook papillae vallatae door N. IX, liggen nochtans voor sulcus terminalis)
+-	Sulcus terminalis: fusielijn tussen epitheel 1e en 3e kieuwboog
+-	Depressie thv apex van sulcus terminalis = Foramen caecum = origo schildklier
+    -	Thyroglossus cyste/sinus/fistel
+    -	Tgv ductus thyroglossus resterend!
+        -	Op middellijn + gefixeerd aan hyoid
+
+### Smaakknoppen
+Ter hoogte van de tong in papillae, elders verspreid over mucosa en epitheel
+
+- Papillae filiforme (dorsale oppervlak)
+- Papillae fungiforme (anterolateraal)
+- Papillae foliate (posterolateraal)
+- Papillae circumvallate (sulcus terminalis)
+
+## Beenderen van schedel en gelaat
+-	Neurocranium:
+    - Membraneus bot thv schedeldak
+    - Enchondraal bot thv schedelbasis
+-	Splanchnocranium/gelaat:
+    - Membraneus bot
+-	Verschillende delen uit viscerale oorsprong uit kieuwbogen
+    -	Gehoorbeentjes
+    -	Processus styloideus
+    -	Mandibulaire ligamenten
+    
+## Derivaten van kieuwbogen
+
+| Kieuwboog | Arterie                                                   | Skelet                                                                                                                                | Spieren                                                                                                        | Zenuw                         |
+|-----------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|-------------------------------|
+| 1         | Eindtak a. maxillaris                                     | - Uit kraakbeen ontstaan incus en malleus - Door bindweefselverbening: maxilla, os zygomaticus, pars squamose os temporale, mandibula | - kauwspieren - venter anterior m. digastricus - m. mylohyoideus - m. tensor tympani - m. tensor veli palatini | n. V                          |
+| 2         | arterie middenoor                                         | - stapes  - proc. styloideus - lig. stylohyoideum - cornu minus - bovenste deel corpus os hyoideum                                    | - mimische spieren - m. stapedius - m. stylohyoideus - venter posterior m. digastricus - platysma              | n. VII                        |
+| 3         | - a. carotis communis - proximaal deel a. carotis interna | cornu majus en onderste deel van. corpus hyoideum                                                                                     | m. stylopharyngeus                                                                                             | n. IX                         |
+| 4         | - arcus aortae - proximale deel a. subclivia dextra       | kraakbeen larynx                                                                                                                      | gehemeltespieren (behalve: m. tensor veli palatini, pharynxspieren, m. cricothyroideus)                        | n. X                          |
+| 5         | - proximale delen aa. pulmonales - ductus arteriosus      | kraakbeen larynx                                                                                                                      | intrinsieke larynxspieren (behalve: m. cricothyroideus)                                                        | n. laryngeus recurrent (n. X) |
+
+| Kieuwzakje              | Vormt                                        | Kieuwspleet | Vormt                                                   |
+|-------------------------|----------------------------------------------|-------------|--------------------------------------------------------|
+| 1e kieuwzakje           | Middenoor en buis van Eustachius             | 1e spleet   | Gehoorgang en trommelvlies                             |
+| 2e kieuwzakje           | Neusamandel                                  | 2e spleet   | Verdwijnt (eventueel vormt hieruit laterale halscyste) |
+| 3e kieuwzakje           | Bijschildklier en thymus                     | 3e spleet   | Verdwijnt (eventueel vormt hieruit laterale halscyste) |
+| 4e kieuwzakje           | Bovenste bijschildklier, thymus, schildklier | 4e spleet   | Verdwijnt (eventueel vormt hieruit laterale halscyste) |
+| 5e zakje fuseert met 4e | Corpus ultimobranchiale                      |             |                                                        |
+
+
+
+### Mandibula-ontwikkeling
+-	Intramembraneuze ossificatie
+    -	Directe osteoblast-vorming, mesenchyme differentieert direct naar BOT
+-	Endochondrale ossificatie
+    -	Thv symfyse & condylen
+    - Kraakbeen wordt eerst gevormd => chondrocyten worden hypertroof => vervangen door bot
+    -	Symfyse verbeent na +/- 1 à 2 jaar
+
+## Speekselklieren
+-	2e maand: start vorming 3 grote, gepaarde speekselklieren
+-	Epitheel van mond stulpt uit in omgevend mesenchym => vormt knoppen => gaan vertakken
+
+
+
+
+
+
+
+
