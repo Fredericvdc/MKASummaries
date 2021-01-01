@@ -339,7 +339,7 @@ systemische-metabole-botaandoeningen
 systemische-genetische-botaandoeningen
 fibreuze-dysplasie
 reuscellaesies-granuloom
-ziekte-van-graham-stout-vanishing-bone-disease
+ziekte-van-graham-stout
 osteopetrose-osteopetrosis
 rachitis
 osteomalacie

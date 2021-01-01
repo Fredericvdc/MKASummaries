@@ -22,16 +22,16 @@ Met anterieure en posterieure opening = neuropore
             - ...
 
 CAVE: Afwijkingen tijdens migratie van neurale lijst-cellen = Neurocristopathieën
-cfr: [syndromen]
+cfr het hoofdstuk over [syndromen](#syndromen)
 
 - Neuroblastoom
 - Feochromocytoom
 -	Neurofibromatosis
 -	MEN 2 & 3 (multipele endocriene neoplasieën)
--	Mandibulofaciale dysostose = ziekte van Treacher Collins
+-	Mandibulofaciale dysostose (ziekte van Treacher Collins)
 -	Apert syndroom
--	DiGeorg syndroom
--	Waardenburg-syndroom
+-	DiGeorge syndroom (velocardiofaciaal syndroom)
+-	Waardenburg syndroom
 -	Albinisme
 -	Ziekte van Hirschzprung
 - FAS (foetaal alcohol syndroom)
