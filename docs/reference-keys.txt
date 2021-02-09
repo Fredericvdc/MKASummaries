@@ -363,3 +363,5 @@ arteriitis-temporalis
 syfilis
 orale-manifestaties-van-aids
 trigeminus-letsels
+bezenuwing-van-het-oor
+cerebrocraniale-afwijkingen
