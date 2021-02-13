@@ -575,7 +575,8 @@ Meerdere structuren lopen door of bevinden zich in de pars petrosa en hebben hun
 
     n.  tympanicus, takje van n. IX, dat het rotsbeen verlaat als n. petrosus minor.
 
--   ramus auricularis van n. vagus
+-   ramus auricularis van n.
+    vagus
 
 -   een systeem van luchtkanalen: trommelholte en pharyngotympanische buis (verbinding middenoor-nasopharynx)
 
@@ -701,17 +702,12 @@ Spieren en benige elementen vormen de grenzen.
 
 Het gedeelte van de nek dat binnen het bestek van deze cursus valt, wordt begrensd door:
 
-+------------+----------------------------------------------------------------------------------------+
 | Begrenzing | Structuur                                                                              |
-+============+========================================================================================+
+|------------|----------------------------------------------------------------------------------------|
 | Bovenaan   | Onderrand van de mandibula Processus mastoideus Linea nuchalis superior (gedeeltelijk) |
-+------------+----------------------------------------------------------------------------------------+
 | Achteraan  | Voorrand m. trapezius                                                                  |
-+------------+----------------------------------------------------------------------------------------+
 | Vooraan    | De verticale middellijn van bij de kin tot aan de incisura Jugularis van het sternum   |
-+------------+----------------------------------------------------------------------------------------+
 | Onderaan   | manubrium sterni en clavicula                                                          |
-+------------+----------------------------------------------------------------------------------------+
 
 De Nomina Anatomica heeft geen afzonderlijke naam voor dit gebied.
 In de Angelsaksische literatuur spreekt men van 'the side of the neck'.
@@ -725,16 +721,7 @@ knitr::include_graphics('figures/halsregio.png')
 
 ### Indeling
 
-M.
-sternocleidomastoideus vormt een prominent landmerk in de hals.
-Zijn oorsprong bevindt zich onderaan de hals en is dubbel.
-De stevige sternale kop is peesvormig en zit vast op de voorzijde van het manubrium sterni (sternale kop), lateraal van de incisura jugularis.
-De claviculaire kop ontspringt op het mediale eenderde van de clavicula.
-Beide spierbuiken verenigen zich en insereren op de processus mastoideus.
-De insertielijn strekt zich achteraan uit tot bij de linea nuchalis superior.
-Bezenuwing: de motorische bezenuwing is afkomstig van de spinale wortel van n.
-accessorius (craniale zenuw XI).
-Kleine takjes van de ventrale rami van C2 en C3 bevatten proprioceptieve vezels.
+M.  sternocleidomastoideus vormt een prominent landmerk in de hals. Zijn oorsprong bevindt zich onderaan de hals en is dubbel. De stevige sternale kop is peesvormig en zit vast op de voorzijde van het manubrium sterni (sternale kop), lateraal van de incisura jugularis. De claviculaire kop ontspringt op het mediale eenderde van de clavicula. Beide spierbuiken verenigen zich en insereren op de processus mastoideus. De insertielijn strekt zich achteraan uit tot bij de linea nuchalis superior. Bezenuwing: de motorische bezenuwing is afkomstig van de spinale wortel van n. accessorius (craniale zenuw XI). Kleine takjes van de ventrale rami van C2 en C3 bevatten proprioceptieve vezels.
 
 Functie: Bilaterale contractie van beide mm. sternocleidomastoidei veroorzaakt flexie van de hals (zoals bij optillen van het hoofd in ruglig) maar kan ook een naar voor bewegen van het hoofd veroorzaken (zoals wanneer men in rechtopstaande houding ergens overheen wil kijken).
 Bij unilaterale contractie kantelt het hoofd naar homolateraal en draait het gelaat naar heterolateraal.
@@ -898,19 +885,13 @@ De scalenusspieren
 -   M. scalenus posterior is de kleinste van de scalenusspieren en insereert op de tweede rib. Hij wordt beschouwd als het achterste deel van m. scalenus medius.
 -   Voor de beschrijving van m. levator scapulae en m. splenius capitis: zie elders.
 
-+------------------------+-------------------------------------------+------------------------------------------------------+-------------------------------------------------+---------------------------------------------------------+
 | Spier                  | Oorsprong                                 | Insertie                                             | Innervatie                                      | Functie                                                 |
-+========================+===========================================+======================================================+=================================================+=========================================================+
+|------------------------|-------------------------------------------|------------------------------------------------------|-------------------------------------------------|---------------------------------------------------------|
 | m\. scalenus anterior  | Tubercula anteriora C3-C6                 | Mediale rand rib 1                                   | Ventrale rami C4,5,6                            | Laterale flexie cervicale wervelkolom; elevatie 1e rib  |
-+------------------------+-------------------------------------------+------------------------------------------------------+-------------------------------------------------+---------------------------------------------------------+
 | m\. scalenus medius    | Tubercula posteriora van alle halswervels | Bovenzijde rib 1, achter de groeve voor a. subclavia | Ventrale rami C3 tot C8                         | Laterale flexie cervicale wervelkololm; elevatie 1e rib |
-+------------------------+-------------------------------------------+------------------------------------------------------+-------------------------------------------------+---------------------------------------------------------+
 | m\. scalenus posterior | Tubercula posteriora C4,5,6               | Buitenzijde rib 2                                    | Ventrale rami C(6),7 en C8                      | Laterale flexie cervicale wervelkolom; elevatie 2e rib  |
-+------------------------+-------------------------------------------+------------------------------------------------------+-------------------------------------------------+---------------------------------------------------------+
 | m\. levator scapulae   | Tubercula posteriora C1 tot C4            | Mediale rand scapula boven spina                     | n\. dorsalis scapulae                           | Elevatie en mediale rotatie van de scapula              |
-+------------------------+-------------------------------------------+------------------------------------------------------+-------------------------------------------------+---------------------------------------------------------+
 | m\. splenius capitis   | Lig. Nuchae en processus spinosus T1-T6   | Processus mastoideus linea nuchalis                  | Superior dorsale rami cervicale spinale zenuwen | Laterale flexie en extensie van de nek                  |
-+------------------------+-------------------------------------------+------------------------------------------------------+-------------------------------------------------+---------------------------------------------------------+
 
 #### Venen in de posterieure halsdriehoek
 
@@ -954,13 +935,7 @@ scalenus anterior en medius.
 Bij ernstige arteriële bloedingen van de arm kan de a.
 subclavia in de posterior driehoek tegen de eerste rib worden dichtgedrukt.
 
-A.
-transversa cervicis en a.
-suprascapularis zijn takken van de truncus thyrocervicalis, die op zijn beurt een tak is van het eerste deel van de a.
-subclavia.
-Beide arteries lopen ongeveer horizontaal naar lateraal doorheen de posterior halsdriehoek: de a.
-transversa cervicis bevindt zich vóór de bovenste truncus van de plexus brachialis, de a.
-suprascapularis loopt iets lager (vóór de a. subclavia).
+A.  transversa cervicis en a. suprascapularis zijn takken van de truncus thyrocervicalis, die op zijn beurt een tak is van het eerste deel van de a. subclavia. Beide arteries lopen ongeveer horizontaal naar lateraal doorheen de posterior halsdriehoek: de a. transversa cervicis bevindt zich vóór de bovenste truncus van de plexus brachialis, de a. suprascapularis loopt iets lager (vóór de a. subclavia).
 
 De a.
 transversa cervicis loopt naar de voorrand van m.
@@ -973,25 +948,13 @@ Venter inferior van m.
 omohyoideus scheidt de a.
 suprascapularis van de meer oppervlakkig gelegen gelijknamige vene.
 
-A.
-occipitalis is een tak van de a.
-carotis externa.
-Zij passeert doorheen de apex van de posterior driehoek.
+A.  occipitalis is een tak van de a. carotis externa. Zij passeert doorheen de apex van de posterior driehoek.
 
 #### Zenuwen in de posterieure halsdriehoek
 
 **Nervus accessorius**
 
-N.
-accessorius is de elfde craniale zenuw (XI) en vervoert onder meer motorische vezels voor m.
-sternocleidomastoideus en m.
-trapezius.
-Hij komt ongeveer halfweg de achterrand van m.
-sternocleidomastoideus te voorschijn en loopt parallel met de vezelrichting van m.
-levator scapulae naar lateraal-onder doorheen de posterior driehoek van de hals.
-Hij dringt de voorrand van m.
-trapezius binnen, een vijftal cm boven de clavicula.
-Voor de verdere beschrijving van deze zenuw wordt verwezen naar het hoofdstuk 'diepe structuren van de hals'.
+N.  accessorius is de elfde craniale zenuw (XI) en vervoert onder meer motorische vezels voor m. sternocleidomastoideus en m. trapezius. Hij komt ongeveer halfweg de achterrand van m. sternocleidomastoideus te voorschijn en loopt parallel met de vezelrichting van m. levator scapulae naar lateraal-onder doorheen de posterior driehoek van de hals. Hij dringt de voorrand van m. trapezius binnen, een vijftal cm boven de clavicula. Voor de verdere beschrijving van deze zenuw wordt verwezen naar het hoofdstuk 'diepe structuren van de hals'.
 
 **Plexus cervicalis**
 
@@ -1029,11 +992,19 @@ Musculaire takken van de plexus cervicalis:
 
 -   takjes voor de segmentaire bezenuwing van de prevertebrale spieren (mm. longus capitis en colli, mm. scaleni, mm. rectus capitis anterior en lateralis).
 
--   vezels afkomstig van C1 lopen een eindje mee met n. hypoglossus en verlaten hem in de anterior driehoek van de hals via de radix superior van de ansa cervicalis en via zenuwtakjes naar m. geniohyoideus en m. thyrohoideus (r. thyrohoideus) (zie 'Anterior driehoek').
+-   vezels afkomstig van C1 lopen een eindje mee met n.
+    hypoglossus en verlaten hem in de anterior driehoek van de hals via de radix superior van de ansa cervicalis en via zenuwtakjes naar m.
+    geniohyoideus en m.
+    thyrohoideus (r. thyrohoideus) (zie 'Anterior driehoek').
 
--   proprioceptieve vezels voor m. sternocleidomastoideus (C2, C3) en m. trapezius (C3, C4).
+-   proprioceptieve vezels voor m.
+    sternocleidomastoideus (C2, C3) en m.
+    trapezius (C3, C4).
 
--   de radix inferior van de ansa cervicalis ontstaat uit de fusie van een takje van C2 en C3. De ansa cervicalis is de lus gevormd door de verbinding van radix superior en inferior. Deze bevindt zich op de a. carotis communis en bezenuwt een aantal spieren in de anterior driehoek.
+-   de radix inferior van de ansa cervicalis ontstaat uit de fusie van een takje van C2 en C3.
+    De ansa cervicalis is de lus gevormd door de verbinding van radix superior en inferior.
+    Deze bevindt zich op de a.
+    carotis communis en bezenuwt een aantal spieren in de anterior driehoek.
 
 -   
 
@@ -1177,64 +1148,60 @@ Men maakt een onderscheidt tussen de supra- en infrahoidspieren, respectievelijk
 
     m.  geniohyoideus
 
-M.
-digastricus bestaat uit een venter anterior en venter posterior.
-Venter anterior ontspringt aan de binnenzijde van de mandibula, dicht bij de symphysis mentalis (fossa digastrica).
-Het is de meest oppervlakkig gelegen spier van de mondbodem en is bij gespierde personen soms duidelijk waarneembaar.
-Venter posterior neemt oorsprong in de incisura mastoidea.
-Deze laatste bevindt zich aan de mediale zijde van processus mastoideus.
-Beide spierbuiken zijn door middel van een tussenpees met elkaar verbonden.
-Deze doorboort m.
-stylohoideus en zit vast aan de zijkant van cornu majus en corpus van het hyoid.
-Bezenuwing : venter anterior: n.
-mylohoideus (tak van n. mandibularis).
-De bezenuwing weerspiegelt de embryonale oorsprong van beide spierbuiken: n.
-mandibularis is de zenuw van de eerste kieuwboog, n.
-facialis is de zenuw van de tweede kieuwboog.
-venter posterior: n.
-facialis Functie: bij gelijktijdige contractie van beide spierbuiken wordt het hyoid naar boven getrokken wat belangrijk is bij het slikken.
-Bij gefixeerd hyoid (dit is bij contractie van de infrahyoidspieren) helpt m.
-digastricus bij het openen van de mond.
-Slikken met open mond is dus moeilijk aangezien m.
-digastricus dan reeds is samengetrokken.
+M.  digastricus bestaat uit een venter anterior en venter posterior.
+    Venter anterior ontspringt aan de binnenzijde van de mandibula, dicht bij de symphysis mentalis (fossa digastrica).
+    Het is de meest oppervlakkig gelegen spier van de mondbodem en is bij gespierde personen soms duidelijk waarneembaar.
+    Venter posterior neemt oorsprong in de incisura mastoidea.
+    Deze laatste bevindt zich aan de mediale zijde van processus mastoideus.
+    Beide spierbuiken zijn door middel van een tussenpees met elkaar verbonden.
+    Deze doorboort m.
+    stylohoideus en zit vast aan de zijkant van cornu majus en corpus van het hyoid.
+    Bezenuwing : venter anterior: n.
+    mylohoideus (tak van n. mandibularis).
+    De bezenuwing weerspiegelt de embryonale oorsprong van beide spierbuiken: n.
+    mandibularis is de zenuw van de eerste kieuwboog, n.
+    facialis is de zenuw van de tweede kieuwboog.
+    venter posterior: n.
+    facialis Functie: bij gelijktijdige contractie van beide spierbuiken wordt het hyoid naar boven getrokken wat belangrijk is bij het slikken.
+    Bij gefixeerd hyoid (dit is bij contractie van de infrahyoidspieren) helpt m.
+    digastricus bij het openen van de mond.
+    Slikken met open mond is dus moeilijk aangezien m.
+    digastricus dan reeds is samengetrokken.
 
-M.
-stylohyoideus ontspringt op de achterzijde van processus styloideus (dicht bij zijn basis).
-Hij loopt over de voorrand van venter posterior van m.
-digastricus naar onder-voor.
-Hij insereert op het tongbeenlichaam ter hoogte van de overgang corpus - cornu majus.
-Zijn distale gedeelte wordt door de tussenpees van m.
-digastricus doorboord.
-Bezenuwing: n.
-facialis Functie: contractie van m.
-stylohoideus trekt het hyoid naar achter-boven (elevatie).
-Deze spier speelt een rol tijdens slikken en spreken.
-Het ligamentum stylohyoideum is uitgespannen tussen processus styloideus en cornu minus van het hyoid.
-Zowel het ligament als de structuren waaraan het vastzit zijn restanten van het kraakbeen van de tweede kieuwboog (Reichert).
-Uitgaande van processus styloideus treedt soms een verbening op van dit ligament.
-Dit resulteert in een zeer lange 'processus styloideus'.
+N.  stylohyoideus ontspringt op de achterzijde van processus styloideus (dicht bij zijn basis).
+    Hij loopt over de voorrand van venter posterior van m.
+    digastricus naar onder-voor.
+    Hij insereert op het tongbeenlichaam ter hoogte van de overgang corpus - cornu majus.
+    Zijn distale gedeelte wordt door de tussenpees van m.
+    digastricus doorboord.
+    Bezenuwing: n.
+    facialis Functie: contractie van m.
+    stylohoideus trekt het hyoid naar achter-boven (elevatie).
+    Deze spier speelt een rol tijdens slikken en spreken.
+    Het ligamentum stylohyoideum is uitgespannen tussen processus styloideus en cornu minus van het hyoid.
+    Zowel het ligament als de structuren waaraan het vastzit zijn restanten van het kraakbeen van de tweede kieuwboog (Reichert).
+    Uitgaande van processus styloideus treedt soms een verbening op van dit ligament.
+    Dit resulteert in een zeer lange 'processus styloideus'.
 
-M.
-mylohyoideus ontspringt beiderzijds op de linea mylohyoidea van de mandibula.
-De vezels lopen naar mediaal in de richting van het hyoid.
-De middenste en voorste vezels vormen op de middellijn een fibreuze naad (raphe), de achterste vezels insereren op het hyoid.
-De spier heeft een vrije achterrand waarrond de glandula submandibularis (= onderkaakspeekselklier) ligt geplooid.
-Linker- en rechter m.
-mylohyoideus samen vormen het 'diafragma' van de mondbodem, ondersteund door de voorste buiken van m.
-digastricus.
-Het Griekse woord 'mylos' betekent molensteen en verwijst naar de maalfunctie van de onderkaak.
-Bezenuwing: n.
-mylohyoideus (n. mandibularis) Functie: m.
-mylohyoideus ondersteunt de mondbodem en trekt het hyoid naar boven bij het slikken.
-Bij gefixeerd hyoid helpt hij bij het openen van de mond.
+O.  mylohyoideus ontspringt beiderzijds op de linea mylohyoidea van de mandibula.
+    De vezels lopen naar mediaal in de richting van het hyoid.
+    De middenste en voorste vezels vormen op de middellijn een fibreuze naad (raphe), de achterste vezels insereren op het hyoid.
+    De spier heeft een vrije achterrand waarrond de glandula submandibularis (= onderkaakspeekselklier) ligt geplooid.
+    Linker- en rechter m.
+    mylohyoideus samen vormen het 'diafragma' van de mondbodem, ondersteund door de voorste buiken van m.
+    digastricus.
+    Het Griekse woord 'mylos' betekent molensteen en verwijst naar de maalfunctie van de onderkaak.
+    Bezenuwing: n.
+    mylohyoideus (n. mandibularis) Functie: m.
+    mylohyoideus ondersteunt de mondbodem en trekt het hyoid naar boven bij het slikken.
+    Bij gefixeerd hyoid helpt hij bij het openen van de mond.
 
-M.
-geniohyoideus ontspringt op de onderste doorntjes van de spina mentalis (binnenzijde van de mandibula) en insereert op de bovenzijde van het hyoid.
-Hij bevindt zich superior van m.
-mylohoideus.
-Bezenuwing: C1 via n.
-hypoglossus Functie: m.
-geniohyoideus trekt het hyoid naar boven en naar voor (en is dus in dit laatste opzicht een antagonist van m. stylohyoideus); bij gefixeerd hyoid is hij eveneens actief bij het openen van de mond.
+P.  geniohyoideus ontspringt op de onderste doorntjes van de spina mentalis (binnenzijde van de mandibula) en insereert op de bovenzijde van het hyoid.
+    Hij bevindt zich superior van m.
+    mylohoideus.
+    Bezenuwing: C1 via n.
+    hypoglossus Functie: m.
+    geniohyoideus trekt het hyoid naar boven en naar voor (en is dus in dit laatste opzicht een antagonist van m. stylohyoideus); bij gefixeerd hyoid is hij eveneens actief bij het openen van de mond.
 
 **Infrahyoidspieren (mm. infrahyoidei)** Synoniem: strap-spieren (lintvormige spieren)
 
@@ -1266,27 +1233,23 @@ hypoglossus (r. thyrohyoideus).
 Functie: de infrahyoidspieren acteren als antagonisten van de suprahyoidspieren bij slikken en spreken.
 Contractie van de infrahyoidspieren trekt het hyoid - en dus ook de larynx - naar beneden.
 
-M.
-sternohyoideus ontspringt op de achterzijde van het mediale uiteinde van de clavicula en het manubrium sterni.
-Hij insereert op de onderzijde van het tongbeenlichaam.
+M.  sternohyoideus ontspringt op de achterzijde van het mediale uiteinde van de clavicula en het manubrium sterni.
+    Hij insereert op de onderzijde van het tongbeenlichaam.
 
-M.
-omohyoideus bestaat uit een venter superior en een venter inferior die via een tussenpees met elkaar zijn verbonden.
-Deze tussenpees is door middel van een fasciële lus verbonden met de eerste rib en met de achterzijde van de clavicula en onderhoudt de hoek tussen de twee spierbuiken.
-Venter superior zit vast op de onderzijde van het hyoidlichaam, lateraal van m.
-sternohyoideus.
-Venter inferior ontspringt ter hoogte van de incisura scapulae en hoort bij de spieren van de posterior driehoek.
+N.  omohyoideus bestaat uit een venter superior en een venter inferior die via een tussenpees met elkaar zijn verbonden.
+    Deze tussenpees is door middel van een fasciële lus verbonden met de eerste rib en met de achterzijde van de clavicula en onderhoudt de hoek tussen de twee spierbuiken.
+    Venter superior zit vast op de onderzijde van het hyoidlichaam, lateraal van m.
+    sternohyoideus.
+    Venter inferior ontspringt ter hoogte van de incisura scapulae en hoort bij de spieren van de posterior driehoek.
 
-M.
-sternothyroideus ontspringt op de achterzijde van het manubrium sterni, inferior van m.
-sternohyoideus.
-Hij insereert op de linea obliqua van het schildkraakbeen.
+O.  sternothyroideus ontspringt op de achterzijde van het manubrium sterni, inferior van m.
+    sternohyoideus.
+    Hij insereert op de linea obliqua van het schildkraakbeen.
 
-M.
-thyrohyoideus kan worden beschouwd als de verderzetting van m.
-sternothyroideus vanaf de linea obliqua van het schildkraakbeen naar de onderzijde van corpus en cornu majus van het hyoid.\
-Soms bevindt zich tussen het hyoidlichaam en de isthmus van de schildklier een fibromusculaire band, die m.
-levator glandulae thyroideae wordt genoemd indien hij duidelijk musculair is.
+P.  thyrohyoideus kan worden beschouwd als de verderzetting van m.
+    sternothyroideus vanaf de linea obliqua van het schildkraakbeen naar de onderzijde van corpus en cornu majus van het hyoid.\
+    Soms bevindt zich tussen het hyoidlichaam en de isthmus van de schildklier een fibromusculaire band, die m.
+    levator glandulae thyroideae wordt genoemd indien hij duidelijk musculair is.
 
 #### Venen in de anterior driehoek
 
@@ -1313,7 +1276,8 @@ Naast de intracraniale structuren draineert de de v. jugularis interna eveneens 
 
 Dit veneuze bloed bereikt de v. jugularis interna via:
 
--   vv. pharyngeales: deze ontvangen het veneuze bloed uit de plexus pharyngeus, die op zijn beurt ook kleinere meningeale venen ontvangt.
+-   vv.
+    pharyngeales: deze ontvangen het veneuze bloed uit de plexus pharyngeus, die op zijn beurt ook kleinere meningeale venen ontvangt.
 
 -   
 
@@ -1327,7 +1291,9 @@ Dit veneuze bloed bereikt de v. jugularis interna via:
 
     v.  facialis nadat deze verenigd is met het het voorste been van de v. retromandibularis.
 
--   sinus petrosus inferior is de enige veneuze sinus die niet via de sinus sigmoideus maar rechtstreeks in de v. jugularis interna uitmondt. Door het ontbreken van kleppen in de veneuze systeemvaten (v. cava superior en v. brachiocephalica) kunnen retrograde pulsaties vanuit het rechteratrium worden waargenomen in de v. jugularis interna ter hoogte van de halsbasis. Zij zijn zichtbaar vlak boven de clavicula bij een patiënt in half-liggende houding (45° met het horizontale vlak).
+-   sinus petrosus inferior is de enige veneuze sinus die niet via de sinus sigmoideus maar rechtstreeks in de v. jugularis interna uitmondt.
+    Door het ontbreken van kleppen in de veneuze systeemvaten (v. cava superior en v. brachiocephalica) kunnen retrograde pulsaties vanuit het rechteratrium worden waargenomen in de v. jugularis interna ter hoogte van de halsbasis.
+    Zij zijn zichtbaar vlak boven de clavicula bij een patiënt in half-liggende houding (45° met het horizontale vlak).
 
 Deze 'jugularispols' is een belangrijke indicator van de cardiovasculaire functie: het hoger reiken van deze pulsaties wijst op een verhoging van de veneuze druk in het rechteratrium (= centrale veneuze druk).
 
@@ -1384,13 +1350,15 @@ Schematisch worden de takken van de ACE als volgt ingedeeld:
 
         a.  facialis
 
--   twee takken naar posterior o a. occipitalis
+-   twee takken naar posterior o a.
+    occipitalis
 
     -   
 
         a.  auricularis posterior
 
--   één mediale tak a. pharyngea ascendens
+-   één mediale tak a.
+    pharyngea ascendens
 
 De gelijknamige venen monden uit in de v. jugularis interna.
 
@@ -1501,18 +1469,16 @@ maxillaris en haar takken worden behandeld bij de studie van de fossa infratempo
 De eindtakjes van n.
 transversus colli doorboren het platysma en voorzien de huid over de anterior driehoek.
 
-N.
-accessorius passeert helemaal boven in de driehoek mediaal of lateraal van de v. jugularis interna naar het diepe oppervlak van m.
-sternocleidomastoideus.
+N.  accessorius passeert helemaal boven in de driehoek mediaal of lateraal van de v. jugularis interna naar het diepe oppervlak van m.
+    sternocleidomastoideus.
 
-N.
-hypoglossus is de twaalfde craniale zenuw en dé motorische zenuw voor de tongspieren.
-Hij draait lateraal van de a.
-carotis interna en externa naar voor (hij 'omarmt' ze a.h.w.).
-Hierbij haakt hij onder de naar achter lopende a.
-occipitalis door.
-Hij loopt mediaal van de achterste digastricusbuik en lateraal van m.
-hypoglossus de mondbodem binnen.
+O.  hypoglossus is de twaalfde craniale zenuw en dé motorische zenuw voor de tongspieren.
+    Hij draait lateraal van de a.
+    carotis interna en externa naar voor (hij 'omarmt' ze a.h.w.).
+    Hierbij haakt hij onder de naar achter lopende a.
+    occipitalis door.
+    Hij loopt mediaal van de achterste digastricusbuik en lateraal van m.
+    hypoglossus de mondbodem binnen.
 
 De ansa cervicalis is een zenuwlus op de voorzijde van de a.
 carotis communis.
@@ -1529,21 +1495,8 @@ thyrohyoideus en m.
 geniohyoideus worden eveneens vanuit C1 bezenuwd door vezeltjes die eerst een eindje met n.
 hypoglossus meelopen maar deze afzonderlijk van de radix superior verlaten.
 
-N.
-laryngeus superior is een tak van n.
-vagus (craniale zenuw X), en ontstaat ter hoogte van het ganglion superius.
-Hij loopt tussen pharynx en a.
-carotis interna naar vóór-onder en splitst in r.
-internus (sensibele tak voor de mucosa van de larynx boven de stembanden) en r.
-externus (motorische voor één enkele larynxspier, nl. m. cricothyroideus).
-Beide takken bereiken de larynx mediaal van de a.
-carotis externa.
-De r.
-internus doorboort de membrana thyrohyoidea samen met de a.
-laryngea superior.
-R.
-externus loopt iets meer naar caudaal en begeleidt de a.
-thyroidea superior.
+N.  laryngeus superior is een tak van n. vagus (craniale zenuw X), en ontstaat ter hoogte van het ganglion superius. Hij loopt tussen pharynx en a. carotis interna naar vóór-onder en splitst in r. internus (sensibele tak voor de mucosa van de larynx boven de stembanden) en r. externus (motorische voor één enkele larynxspier, nl. m. cricothyroideus). Beide takken bereiken de larynx mediaal van de a. carotis externa. De r. internus doorboort de membrana thyrohyoidea samen met de a. laryngea superior.
+O.  externus loopt iets meer naar caudaal en begeleidt de a. thyroidea superior.
 
 #### Verdere indeling van de anterior driehoek
 
@@ -1578,15 +1531,20 @@ In tegenstelling met de arterie, blijft de vena facialis oppervlakkig van de gla
 
 Trigonum caroticum Grenzen:
 
--   venter superior van m. omohyoideus
+-   venter superior van m.
+    omohyoideus
 
--   voorrand van m. sternocleidomastoideus
+-   voorrand van m.
+    sternocleidomastoideus
 
 -   
 
     m.  stylohyoideus en venter posterior van m. digastricus
 
--   de bodem wordt gevormd door m. hyoglossus, m. thyrohyoideus en m. constrictor pharyngis medius en inferior.
+-   de bodem wordt gevormd door m.
+    hyoglossus, m.
+    thyrohyoideus en m.
+    constrictor pharyngis medius en inferior.
 
 Deze driehoek is oppervlakteanatomisch belangrijk omdat hij de carotisvaten, verpakt in de carotisschede, bevat.
 Hun pulsaties kunnen hier goed worden gevoeld.
