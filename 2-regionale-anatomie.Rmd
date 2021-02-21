@@ -702,17 +702,12 @@ Spieren en benige elementen vormen de grenzen.
 
 Het gedeelte van de nek dat binnen het bestek van deze cursus valt, wordt begrensd door:
 
-+------------+----------------------------------------------------------------------------------------+
 | Begrenzing | Structuur                                                                              |
-+============+========================================================================================+
+|------------|----------------------------------------------------------------------------------------|
 | Bovenaan   | Onderrand van de mandibula Processus mastoideus Linea nuchalis superior (gedeeltelijk) |
-+------------+----------------------------------------------------------------------------------------+
 | Achteraan  | Voorrand m. trapezius                                                                  |
-+------------+----------------------------------------------------------------------------------------+
 | Vooraan    | De verticale middellijn van bij de kin tot aan de incisura Jugularis van het sternum   |
-+------------+----------------------------------------------------------------------------------------+
 | Onderaan   | manubrium sterni en clavicula                                                          |
-+------------+----------------------------------------------------------------------------------------+
 
 De Nomina Anatomica heeft geen afzonderlijke naam voor dit gebied.
 In de Angelsaksische literatuur spreekt men van 'the side of the neck'.
@@ -890,19 +885,13 @@ De scalenusspieren
 -   M. scalenus posterior is de kleinste van de scalenusspieren en insereert op de tweede rib. Hij wordt beschouwd als het achterste deel van m. scalenus medius.
 -   Voor de beschrijving van m. levator scapulae en m. splenius capitis: zie elders.
 
-+------------------------+-------------------------------------------+------------------------------------------------------+-------------------------------------------------+---------------------------------------------------------+
 | Spier                  | Oorsprong                                 | Insertie                                             | Innervatie                                      | Functie                                                 |
-+========================+===========================================+======================================================+=================================================+=========================================================+
+|------------------------|-------------------------------------------|------------------------------------------------------|-------------------------------------------------|---------------------------------------------------------|
 | m\. scalenus anterior  | Tubercula anteriora C3-C6                 | Mediale rand rib 1                                   | Ventrale rami C4,5,6                            | Laterale flexie cervicale wervelkolom; elevatie 1e rib  |
-+------------------------+-------------------------------------------+------------------------------------------------------+-------------------------------------------------+---------------------------------------------------------+
 | m\. scalenus medius    | Tubercula posteriora van alle halswervels | Bovenzijde rib 1, achter de groeve voor a. subclavia | Ventrale rami C3 tot C8                         | Laterale flexie cervicale wervelkololm; elevatie 1e rib |
-+------------------------+-------------------------------------------+------------------------------------------------------+-------------------------------------------------+---------------------------------------------------------+
 | m\. scalenus posterior | Tubercula posteriora C4,5,6               | Buitenzijde rib 2                                    | Ventrale rami C(6),7 en C8                      | Laterale flexie cervicale wervelkolom; elevatie 2e rib  |
-+------------------------+-------------------------------------------+------------------------------------------------------+-------------------------------------------------+---------------------------------------------------------+
 | m\. levator scapulae   | Tubercula posteriora C1 tot C4            | Mediale rand scapula boven spina                     | n\. dorsalis scapulae                           | Elevatie en mediale rotatie van de scapula              |
-+------------------------+-------------------------------------------+------------------------------------------------------+-------------------------------------------------+---------------------------------------------------------+
 | m\. splenius capitis   | Lig. Nuchae en processus spinosus T1-T6   | Processus mastoideus linea nuchalis                  | Superior dorsale rami cervicale spinale zenuwen | Laterale flexie en extensie van de nek                  |
-+------------------------+-------------------------------------------+------------------------------------------------------+-------------------------------------------------+---------------------------------------------------------+
 
 #### Venen in de posterieure halsdriehoek
 

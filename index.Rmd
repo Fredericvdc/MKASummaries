@@ -1,7 +1,7 @@
 --- 
 title: "MKA Compendium"
-author: "dr. Fréderic Van der Cruyssen"
-date: "`r Sys.Date()`"
+author: "Auteur: dr. Fréderic Van der Cruyssen"
+date: "Laatste update: `r Sys.Date()`"
 site: bookdown::bookdown_site
 cover-image: 'figures/logo-mka.png'
 ---
@@ -13,4 +13,5 @@ knitr::include_graphics('figures/logo-mka.png')
 ```
    
 Dit zijn samenvattingen voor de Mond-, Kaak-, en Aangezichtschirurg. Veel van de informatie is gebaseerd op de meest recente cursus MKA van Leuvens diensthoofd prof. dr. C. Politis.
+Dit is een work-in-progress... Opmerkingen en correcties zijn steeds welkom.
 

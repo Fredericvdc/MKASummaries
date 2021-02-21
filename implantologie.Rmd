@@ -1,0 +1,150 @@
+# Implantologie
+
+# Varia
+
+## Doorbuigsterktes van dentaal keramiek
+
+-   Versterkt veldspaatporselein: 90 (opbakporselein) /120 (CADCAM blok) MPa 
+
+-   Al~2~O~3~ versterkt porselein
+
+    -   Jacket crown: 120
+
+    -   Hi-Ceram: 150
+
+    -   Glas-geïnfiltreerd keramiek (In-Ceram, Vita)
+
+        -   In-Ceram Spinell: 300
+
+        -   In-Ceram Alumina: 400
+
+        -   In-Ceram Zircona: 500
+
+-   Dens gesinterd Alumina: 700
+
+-   MgO bevattend keramiek: 130/270
+
+-   Dens gesinterd zirconia: 900-1000
+
+-   Glaskeramiek
+
+    -   Dycor: 150
+
+    -   Cerapearl: 150
+
+    -   Leuciet-versterkt glaskeramiek (Empress, Ivoclar Vivadent): 170
+
+    -   Lithium-disilicaat glaskeramiek (Empress II, eMax, Ivoclar Vivadent): 320
+
+    -   Zicrona-versterkt lithium-disilicaat glaskeramiek (Celtra Duo, Denstply Suprinity, Vita): 370
+
+## Indicaties van dentaal keramiek
+
+-   Versterkt veldspaatporselein: enkel partiële kroonrestauratie
+
+-   Glas-geïnfiltreerd keramiek
+
+    -   In-Ceram Spinell: maximaal solitaire frontkroon
+
+    -   In-Ceram Alumina: maximaal solitaire posterior kroon, evt 3-unit frontbrug
+
+    -   In-Ceram Zirconia: maximaal solitaire posterior kroon, evt 3-unit frontbrug
+
+-   Dens gesinterd alumina: maximaal solitaire front/posterior kroon, 3/4-unit frontbrug
+
+-   Dens gesinterd zirconia: maximaal 5-unit posterior brug
+
+-   Glaskeramiek
+
+    -   Leuciet-versterkt glaskeramiek: partiële kroonrestauratie (evt. solitaire front/posterior kroon)
+
+    -   Lithium-disilicaat glaskeramiek: maximaal solitaire posterior kroon (maximaal 3-unit brug mete vervanging van fronttand/premolaar)
+
+    -   Zirconia-versterkt lithium-disilicaat glaskeramiek: maximaal solitaire posterior kroon (maximaal 3-unit brug mete vervanging van fronttand/premolaar)
+
+## Richtlijnen voor het cementeren van keramische restauraties
+
+### Glas-rijk en etsbaar keramiek
+
+-   Veldspaatporselein
+
+-   Glaskeramiek
+
+**ACTIEF** cementeren, **ALTIJD** met composietcement (idem voor cementeren van porseleinen veneers met uitzondering dat het adhesief op de tand **niet** wordt uitgehard en men gebruik maakt van een zuiver licht-hardend composietcement)
+
+-   Start met voorbehandeling **restauratie**
+
+    -   Ets met HF (20-60 sec etsen (afh van type keramiek cfr bijsluiter. Vb: Vita Mark II 60 sec, Empress: 60 sec, Ivoclar-Vivadent: 20 sec)
+
+    -   Silaniseren (60 sec, solvent laten verdampen, zacht drogen) m.b.v. Clearfil Ceramic Primer Plus, GC Ceramic Primer II, Monobond Plus
+
+    -   Adhesief hars aanbrengen, uitdunnen, maar NIET uitharden (afschermen van licht)
+
+-   Adhesieve behandeling van **glazuur en dentine**
+
+    -   Selectief etsen van glazuur met fosforzuur (15 sec)
+
+    -   Zelf-etsende primer op geëtst glazuur en niet-geëtst dentine (Clearfil SE Bond primer; 15 sec actief inborstelen, zacht drogen)
+
+    -   Adhesief (Clearfil SE Bond), goed uitdunnen, licht-uitharden (Cave: pas restauratie!)
+
+-   Composietvulmateriaal (vb Clearfil AP-X) als licht-hardend cement (op voorwaarde dat de restauratie voldoende licht doorlaat, verlichtingstijd verlengen tot 40 sec/oppervlak), eventueel 2 lampen gebruiken, best niet continu belichten o.w.v. opwarmingseffecten. Het alternatief is gebruik maken van een dual-cure composietcement (vb Panavia)
+
+**Algemene regel betreffende uitharden van het adhesief:**Adhesief **altijd** uitharden op de tand (vooraf goed uitdunnen) ter stabilisatie van het hechtvlak, adhesief **nooit** uitharden op de restauratie (pas restauratie)Uitzondering: niet uitharden op de tand bij porselein veneers
+
+### Glas-arm, niet-etsbaar keramiek 
+
+-   Dens-geïnfiltreerd keramische basiskap (InCeram)
+
+-   Dens gesinterd alumina
+
+-   Dens gesinterd zirconia
+
+**PASSIEF** cementeren m.b.v. een conventioneel glasionomeercement (vb Fuji I) waarbij men de restauratie vooraf zandstraalt en de tand conditioneert met een PAZ conditioner (vb Cavity, Dentin conditioner). Dit is de standaardprocedure.\
+Zirconia kan heden best gekleefd (ACTIEF) gecemteerd worden als volgt:
+
+-   Start met voorbehandeling **restauratie**:
+
+    -   Zandstralen met silica-bekleed Al2O3 (\< 50 micron) zand (vb Cojet)
+
+    -   10-MDP & silaan gecombineerde primer (vb Clearfil Ceramic primer plus, GC Ceramic Primer II, Monobond Plus)
+
+-   Adhesieve behandeling van **glazuur en dentine:**
+
+    -   Selectief etsen van glazuur met fosforzuur (15 seconden)
+
+    -   Zelf-etsende primer op geëtst glazuur en niet-geëtst dentine (clearfil SE Bond primer; 15 sec actief inborstelen, zacht drogen)
+
+    -   Adhesief (Clearfil SE Bond), goed uitdunnen, licht-uitharden (cave: pas restauratie)
+
+-   Cementeren met dual-cure composietcement (vb Panavia V5)
+
+### Hybriede keramische CAD-CAM blokken
+
+Voorbeeld: Vita Enamic\
+**ACTIEF** cementeren, **ALTIJD** m.b.v. composietcement volgens de procedure van "glas-rijk" en etsbaar keramiek.Indicatie: maximaal solitaire posterior kroon
+
+### Composiet CAD-CAM blokken
+
+Voorbeeld: Cerasmart, Lava UltimateIndicatie: partiële kroonrestauratie (eventueel solitaire front/posterior kroon)\
+**ACTIEF** cementeren, **ALTIJD** m.b.v. composietcement volgens de procedure:
+
+-   Start met voorbehandeling **restauratie:**
+
+    -   Zandstralen met Al~2~O~3~ zand (vb Cojet)
+
+    -   Silaan primer (vb: Clearfil Ceramic Primer Plus, GC Ceramic Primer II, Monobond plus)
+
+    -   Adhesief hars aanbrengen, uitdunnen maar **niet** uitharden (afschermen van licht)
+
+-   Adhesieve behandeling van **glazuur en dentine:**
+
+    -   Selectief etsen van glazuur met fosforzuur (15 sec)
+
+    -   Zelf-etsende primer op geëtst glazuur en niet-geëtst dentine (Clearfil SE Bond primer, 15 sec actief inborstelen, zacht drogen)
+
+    -   Adhesief (Clearfil SE Bond), goed uitdunnen, licht-uitharden (Cave: pas restauratie)
+
+-   Cementeren met composietvulmateriaal (vb: Clearfil AP-X).
+
+    -   Alternatief: dual-cure composietcement (vb: Panavia V5)

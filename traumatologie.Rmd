@@ -1,0 +1,2818 @@
+# Traumatologie
+
+## Tetanus
+
+-   Boostrix (difterie-anatoxine, tetanus-anatoxine, bordetella pertussis-antigenen)
+
+-   Tetagam: tetanus-immuunglobulinen
+
++-------------------------------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------------------------+
+| Vaccinatiestatus                                | Oppervlakkige en schone wonde                                            | Wonde met risico van tetanus^3^                                                |
++=================================================+==========================================================================+================================================================================+
+| Geen of onzekere vaccinatie                     | Volledige primovaccinatie^2^                                             | Volledige primovaccinatie^2^ + specifieke immunoglobulinen^3^                  |
++-------------------------------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------------------------+
+| Onvolledige primovaccinatie                     | Vaccinatieschema afwerken                                                | Vaccinatieschema afwerken + specifieke immunoglobulinen^3^                     |
++-------------------------------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------------------------+
+| Volledige primovaccinatie                       |                                                                          |                                                                                |
++-------------------------------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------------------------+
+| -   Laatste vaccinatie \< 5 jaar                | ------------------------------------------------------------------------ | ------------------------------------------------------------------------       |
++-------------------------------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------------------------+
+| -   Laatste vaccinatie \> 5 jaar en \< 10 jaar  | ------------------------------------------------------------------------ | 1 dosis van het vaccin                                                         |
++-------------------------------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------------------------+
+| -   Laatste vaccinatie \> 10 jaar en \< 20 jaar | 1 dosis van het vaccin                                                   | 1 dosis van het vaccin + specifieke immunoglobulinen^3^                        |
++-------------------------------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------------------------+
+| -   Laatste vaccinatie \> 20 jaar               | 2 doses van het vaccin met 6 maanden interval                            | 2 doses van het vaccin met 6 maanden interval + specifieke immunoglobulinen^3^ |
++-------------------------------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------------------------+
+|                                                 |                                                                          |                                                                                |
++-------------------------------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------------------------+
+
+^1^ Kneus- of verbrijzelingswonden, bijtwonden, prikwonden door houtsplinters of doornen, wonden bevuild met aarde of dierlijke uitwerpselen, wonden die meer dan 6 uur werden verwaarloosd\
+^2^ Vaccin tegen tetanus-difterie-kinkhoest: 2 injecties met een maand interval, gevolgd door een derde injectie 6 tot 12 maanden later\
+^3^ Specifieke immunoglobulinen
+
+## Onderzoek en eerste zorgen van de trauma patiënt
+
+-   Urgentie R/
+
+    -   Vrijwaren luchtweg
+
+    -   Controle bloeding
+
+    -   Onderzoek bijkomende letsels:
+
+-   Tetanuspreventie!
+
+-   *1. Obstructie van luchtwegen*:
+
+    -   Prothese in orofarynx/larynx
+
+    -   Tanden/bloed
+
+    -   Relaxatie tong tegen dorsale farynxwand (*bilat fract corpus/collum mandibulae*)=\> Fract bilat paramediaan=\> **Tongspieren** & **hyoïdspieren** trekken hyoïd & tong naar dorsocaudaal
+
+    -   HOE?
+
+        -   1\. Manueel: met vinger alles uit mond halen / Laryngoscoop & zuiger
+
+        -   2. **Chin-lift**: goed bij bilat subcondylaire fractuur
+
+        -   3\. Mayo-canule: duwt tongbasis naar voor -- OF -- 2 latex buizen in neus
+
+        -   4\. Sutuur in tongpunt & ventrale tractie uitvoeren!
+
+        -   5\. Vervoer in stabiele zijligging (Cave: nekfractuur)
+
+        -   6\. ASAP: veilig luchtweg =\> intuberen
+
+            -   Endotracheale intubatie: (+) kan \# dagen
+
+            -   Tracheotomie: (+) kan véél langer
+
+-   *2. Controle bloeding*:
+
+    -   Arterieklem/tamponneren/
+
+-   *3. Onderzoek bijkomende letsels*:
+
+    -   Fractuur halswervel -- Cerebraal (bloeding/contusio/commotio) -- Orgaanschade -- Thoraxletsels -- ...
+
+    -   GCS: 15/15 (verbaal/fysiek/ogen)
+
+-   Cave:
+
+    -   **Pas HIERNA**: bilan opmaken van faciaal skelet
+
+        -   Klinisch onderzoek:
+
+            -   Occlusie (CAVE: fractuur/orthodontie/luxatie tand)
+
+            -   Zwelling (pas meestal na \# uur)
+
+            -   Beencrepitatie/abnormale beweeglijkheid
+
+            -   PIJN
+
+        -   Radiologie:
+
+            -   CT: in 3 dimensies & 3D, zowel weke weefsels/bot
+
+            -   OPG: goed voor mandibula
+
+                -   ­  **Symfyse-**fracturen worden gemist
+
+                -   ­  **Condylaire** fracturen worden gemist
+
+-   Fracturen kunnen na \# dagen nog geopereerd wordenó Weke weefsels kunnen niet zo lang wachten!
+
+-   Chronisch Ethylisme is een PROBLEEM:
+
+    -   Moeilijke IMF: verwijderen spalken zelf, ondervoeding, mondhygiëne, FU=\> hierbij liever primaire rigide fixatie!!!
+
+## Andere oorzaken van onderkaaksfracturen
+
+-   Uitbreidende infecties/osteomyelitis
+
+-   Lage stadia van osteonecrose van kaakbeenderen na antiresorptieve R/:
+
+-   Extreme atrofie van OK
+
+-   Belasting van tandimplantaten in sterk geatrofieerde onderkaken
+
+-   Botinvaderende maligne tumoren of metastasen
+
+-   Kaakcysten
+
+-   Goedaardige tumoren van de kaakbeenderen
+
+-   Peroperatief verwijderen M3
+
+## Tandtrauma
+
+### **Inleiding**
+
+-   Bij wie zien we ze:
+
+    -   Kinderen
+
+        -   Cave battered child
+
+    ```{=html}
+    <!-- -->
+    ```
+    -   Sporters
+
+    -   Geweldslachtoffers
+
+-   Wat meest getroffen
+
+    -   Fronttanden
+
+        -   Boven: kroonfractuur, luxatie
+
+        -   Onder: vaak onduidelijker (pulpanecrose met jaren later als abces)
+
+-   Belang van goede documentatie bij tandtraumata
+
+    -   Niet enkel klinisch belang, ook medicolegaal
+
+    -   Belang van Rx, klinische foto's, uur tijdstip, wat gedaan
+
+    -   Belang van goede navraag uitlokkende factor (vb. epilepsie)
+
+    -   Belang van factoren met repercussie op prognose
+
+    -   Tetanusprofylaxis
+
+-   Klinisch onderzoek
+
+    -   Mobiliteit?
+
+    -   Blootliggende pulpa?
+
+    -   Vitaal?
+
+        -   Indirecte techniek
+
+            -   Warmte: meest betrouwbaar, MAAR glazuurbreuk/brandplek
+
+            -   Koude: makkelijker uitvoerbaar, minder betrouwbaar
+
+                -   Koolzuursneeuw: -78°C
+
+                -   Ijs: 0°C
+
+                -   Ethylchloride/Dichloordifluoromethaan: -18°C
+
+            -   Elektrisch: (+) betrouwbaar
+
+        -   **Direct**: laserdopplerflowmeter
+
+            -   CAVE: posttrauma (-) antwoord =\> kan door "shock" van tand zijn!=\> als (-) vitaliteit NIET PER SE pulpanecrose!=\> gewoon goed opvolgen: klinisch & radiologisch=\> als Vit nog (-) 3m posttrauma =\> endo
+
+        -   CAVE: pulpanecrose zz bij kids, freq bij volw
+
+        -   Directe techniek (laserdopplerflow)
+
+        -   Pulpanecrose door
+
+            -   Blootstelling pulpa
+
+            -   Afrukken bloedvaten foramen apicale
+
+        -   Negatieve test kort na ongeval -\> weinig betekenis = pulpa in shock à niet direct pulpectomie maar wel goed opvolgen (verkleuring!)
+
+        -   Indien echter overgang van positieve naar negatieve test na ongeval = wel verdacht
+
+        -   Necrose minder makkelijk bij kinderen = open apex
+
+            -   Bij kinderen ook vaak minder duidelijke tekens van necrose (tot er plots een abces is)
+
+            -   Bij kids vaak ook moeilijk te detecten verkleuring
+
+-   Rx
+
+    -   Voorzichtig interpreteren
+
+    -   Fractuurlijnen niet altijd zichtbaar
+
+-   FU:
+
+    -   Standaard 1, 2, 6, 12m
+
+-   Denk verder dan de tand
+
+    -   Zwaar letsel -\> mogelijk maxillofaciaal letsl
+
+    -   Cave gestoorde occlusie, middelijn, beperkte MO
+
+    -   Cave hersenletsel
+
+Iatrogeen trauma bestaat natuurlijk ook
+
+### **Kroonfractuur**
+
+-   Glazuurfractuur (ongecompliceerd)
+
+-   Glazuur-dentinefractuur (ongecompliceerd)
+
+-   Glazuur-dentinefractuur met blootliggende pulpa (gecompliceerd\
+
+**Kroon-wortelfractuur**
+
+-   **Inleiding**
+
+    -   Verticaal of schuin
+
+    -   Zowel in front (direct trauma) als lateraal (indirect trauma)
+
+    -   Lateraal vooral al verzwakte tanden (MOD vulling)
+
+-   **Klinisch** **onderzoek**
+
+    -   Gefractureerd deel te plaatse gehouden door PDL à minimale verplaatsing à soms moeilijke diagnostiek
+
+    -   Fronttand
+
+        -   Meestal fractuurlijkn enkele mm incisaal gingivale rand à schuin naar palataal à tot enkele mm onder gingivale rand
+
+        -   Indien volledig doorgebroken tand = vaak pulpa exposure
+
+    -   Posterieur
+
+        -   Fractuurlijn vaak in sulcus en schuinverloop naar subgingivaal
+
+        -   Vaak onverplaatst à moeilijke diagnose (enkel door actief bewegen gefractureerd stuk)
+
+        -   Meestal ongecompliceerd
+
+-   **Rx**
+
+    -   Vaak niet te zien à straalinval loodrecht op breukvlak
+
+    -   Subgingivale fractuurrand moeilijk vast te stellen = PDL houdt alles op zijn plaats
+
+    -   Indien stukken verplaatst à dubbele fractuurlijn = indruk van dubbele breuk
+
+-   **R/**
+
+    -   Afgebroken kroondeel vaak niet meer bruikbaar
+
+    -   Spalken als tijdelijke maatregel
+
+    -   Defintieve behandeling bepaald door aard en lokalisatie
+
+        -   Fractuur \> 1/3 van de radix è extractie of chirurgisch-orthodontische extrusie
+
+        -   Fractuur \<1/3 van de radix
+
+            -   Pulpabehandeling
+
+                -   Gecompliceerd + gesloten apex = endo
+
+                -   Gecompliceerd + open apex = pulpotomie (wachten tot volgroeiing wortel tot eventuele ortho extrusie)
+
+            -   Herstel kroon
+
+                -   Gingivectomie en ostectomie tot fractuurlijn
+
+                -   Daarna kroon die ook afgebroken worteldeel herstelt
+
+                -   OF orthoextrusie van de tand tot fractuurlijn opduikt à dan kroon
+
+### **Wortelfractuur**
+
+-   =\> geeft vrij zz pulpanecrose=\> vaak revascularisatie vanuit fractuurlijn & periodontium
+
+-   4 types wortelheling volgens *Andreasen & Hjörting-hansen*
+
+    -   **Calcificatie van fractuurlijn**:
+
+        -   (+) vorm van herstel
+
+        -   Centraal: dentine -- Perifeer: onvolledige vulling met cement
+
+    -   **Ingroeien bindweefsel tussen 2 delen**:
+
+        -   (+) initieel pulpa nog vitaal=\> zal later vaak partiële of totale verkalking ondergaan
+
+    -   **Interpositie van bot- & bindweefsel**:
+
+        -   "Benige" brug tussen 2 fragmenten, MAAR minder dens
+
+    -   **Ingroei van granulatieweefsel**:
+
+        -   (-) radiolucentie in & rond breuklijn.
+
+        -   Pulpa is necrotisch & secundair geïnfecteerd.
+
+-   CAVE: coronale 1/3 fractuur van wortel=\> Moet vaak geëxtraheerd worden=\> Atern: orthodontische extrusie van wortel =\> plaatsen stifttand
+
+-   CAVE: Verticale kroon-wortelfractuur=\> vaak tand verloren zéker als tot diep naar wortel verloop (infectie)
+
+```{=html}
+<!-- -->
+```
+-   **Klinisch onderzoek**
+
+    -   Zeer mobiele tand
+
+    -   Indien indruk dat bij geweging rotatiepunt erg incisaal ligt
+
+-   **Rx**
+
+    -   Afh van as fractuurlijn en Rxstraal en eventuele diastase
+
+    -   Parallelisme breuklijn en centrale Rx straal van belang!
+
+-   **Prognose**
+
+    -   4 mogelijke evoluties
+
+    -   Calcificatie van de fractuurlijn = beste optie
+
+        -   Opacificatie van de fractuurlijn
+
+        -   Niet zelfde intensiteit van omgevend tandweefsel en hoeken vna lijn niet afgerond
+
+        -   Histologie breukvlak:
+
+            -   Centraal dentine
+
+            -   Perifeer cementum
+
+            -   Calcificatie pulpakanaal breuk deel en paicaal
+
+        -   Normale mobiliteit, percussie en normale of licht verminderde reactie op vitaliteitstest
+
+    -   Interpositie van bindweefsel
+
+        -   Bindweefsel in breukvlak à fractuurlijn blijft zichtbaar
+
+        -   Randen afgerond
+
+        -   Gehele of gedeeltelijke obliteratie van wortelkanaal
+
+        -   Vitaliteitstest kan normaal zijn
+
+    -   Interpositie van been- en bindweefsel
+
+        -   Benige brug tussen wortelfragmenten
+
+        -   Indruk van twee tandfragmenten (apicaal deel in kaakbeen blijven steken)
+
+        -   Vaak bij fracturen in onvolgroeide proc. Alveolaris
+
+        -   Vaak obliteratie wortelkanaal
+
+    -   Interpositie granulatieweefsel
+
+        -   Bij necrotische pulpa in kroon
+
+        -   Vitaal apicaal deel
+
+        -   Rx
+
+            -   Verbredeing PDL en breuklijn
+
+        -   Mobiele en pijnlijke tand
+
+-   **R**/
+
+    -   Afh van lokalisatie
+
+    -   Fractuur tussen gingivale rand en gingivaal derde à extractie met evt daarna ortho extrusie wortel.
+
+    -   Fractuur dieper dan gingivaal derde -\> genezing mogelijk
+
+        -   Repositie en stevige fixatie (2-3 maand)
+
+        -   Regelmatige controle!
+
+### **Luxatie**
+
+Tand gedeeltelijk los uit alveole maar niet eruit
+
+-   Loskomen van tand met volledig scheuring van parodontale vezels.=\> tand staat los en is verplaatst=\> kan **INTRUSIE** -- **EXTRUSIE** -- **VOLLEDIG UIT ALVEOLE** (avulsie/exarticulatie)
+
+-   R/:
+
+    -   1\. Spalken van tand
+
+        -   **Spalken met** **draadligaturen**(-): vaak neiging tot extrusie van tand
+
+        -   **Spalken met** **ligatuur van** ***Duclos & Benoist***(+): duwt tand IN alveole
+
+        -   **Spalken met brackets**
+
+    -   2\. R/: van pulpa
+
+        -   Kids: afwachten
+
+        -   Volw: Pulpectomie 1 à 2w posttrauma
+
+-   CAVE: als tand volledig uit alveole=\> kan je altijd proberen tot reïmplantatie!
+
+-   CAVE: prognose bij luxatie
+
+    -   **Restitutio ad Integrum**
+
+        -   Tand groeit goed in + Herstel PDL
+
+        -   (+) perfecte prognose
+
+    -   **Ankylose met wortelresorptie**
+
+        -   PDL is vervangen door ankylose met omliggend been
+
+        -   Tand zit muurvast: (-) **max 15 jaar**
+
+        -   Apicaal: al na **2 maanden**
+
+            -   X Apicale spleet
+
+            -   Peri-apicale radiolucentie
+
+    -   **Inflammatoire resorptie**
+
+-   CAVE: prognose bij luxatie:
+
+    -   3 factoren:
+
+        -   Vitaliteit van PDL
+
+            -   Tijdsduur van extra-alveolaire fase
+
+            -   Graad van uitdroging van tand
+
+                -   Idealiter: tand vlug afspoelen en ONMIDD in alveole zetten + drukken met vinger.
+
+                -   Zo niet: onder tong
+
+                -   Zo niet: fysiologisch of melk.
+
+                -   NOOIT reinigen met antiseptica of borstel
+
+    -   90% succes ratio als:
+
+        -   Reïmplantatie binnen 30 minuten
+
+    -   5% succes ratio als:
+
+        -   \> 2u vooraleer reïmplantatie
+
+    -   Altijd AB geven!
+
+### **Concussie**
+
+-   Trauma tand zonder extensieve schade Sharpey vezels
+
+-   Pijnlijke tand zonder abnormale beweeglijkheid
+
+-   R/
+
+    -   Controle vitaliteit
+
+    -   Paar weken -\> zacht voedsel\
+
+### **Subluxatie**
+
+-   Abnormale beweeglijkheid zonder verplaatsing
+
+-   Pijnlijk bij percussie + lichte bloeding uit gingivale sulcus
+
+-   R/
+
+    -   Vitaliteitscontrole + evt. pulpabehandeling
+
+    -   Soms licht insluiten van de occlusie
+
+    -   Paar weken à zacht voedsel\
+
+### **Intrusie**
+
+-   In de alveole gedrukt, soms tot onder gingivale rand
+
+-   De facto breuk alveole met stevige fixatie tand in alveole
+
+-   Percussie: pijnloos + metaalklank
+
+-   Rx
+
+    -   Tand in diepte
+
+    -   Geen PDL
+
+-   R/ veel discussie
+
+    -   Volgroeide tand
+
+        -   Orthodontische extrusie over vier weken
+
+        -   Tand moet na 2-3 weken voldoende naar boven zijn voor endo
+
+        -   Onmiddelijke chirurgische repositie = meer kans of infectie en externe wortelresorptie
+
+    -   Onvolgroeide tand
+
+        -   Met rust laten en laten uitgroeien
+
+        -   Opvolgen voor pulpanecrose
+
+    -   Melktanden
+
+        -   Cave schade defintieve kiem
+
+        -   Afwachtende houding
+
+        -   Extractie indien duidelijk dat melktand drukt op blijvende tand of bij infectie\
+
+### **Extrusie**
+
+-   Gedeeltelijk uit de alveole
+
+-   Verlengd uitzicht + omgevend tandvlees bloedt
+
+-   Rx: verbreding PDL spleet
+
+-   Prognose
+
+    -   Meestal pulpanexrose
+
+    -   Bij vitale pulpa à vaak calcificatie
+
+    -   Bij onvolgroeide wortelvorming, dentinevorming kan hernemen
+
+    -   Bij volgroeide wortelvorming à partiële wortelresorptie
+
+-   R/
+
+    -   Repositie en fixatie
+
+    -   Extractie van melktanden
+
+-   **Laterale luxatie**
+
+    -   Verplaatste tand naar vestibular of palataal à alveolaire beenplaat gebrokn
+
+    ```{=html}
+    <!-- -->
+    ```
+    -   Andere gevallen -\> twijfel dat er breuk is
+
+    ```{=html}
+    <!-- -->
+    ```
+    -   Hoe aard van luxatie bepalen à laten dichtbijten in CR
+
+```{=html}
+<!-- -->
+```
+-   **Spalken van tanden**
+
+    -   Verschillende manieren om te immobiliseren à moeten voldoen aan:
+
+        -   Niet enkel lateraal immobiliseren, ook egressie voorkomen
+
+        -   In redelijke tijd zonder grote moeilijkheid te plaatsen zijn
+
+        -   Moet onmiddellijk aan de stoel te vervaardigen zijn (geen labo)
+
+        -   Controle articulatie toelaten
+
+        -   Tandkroon doorgankelijk laten voor endo
+
+        -   Periodontium gaaf houden
+
+    -   Duur spalk
+
+        -   Luxatie: 2-3 weken
+
+        -   Alveolaire fractuur + luxatie: 3-4w
+
+        -   Communitieve fractuur: 6-8w
+
+    -   Zuur-ets-spalk
+
+        -   Voorkeur bij geluxeerde tanden
+
+        -   Moeilijkheden
+
+            -   Droog houden omgeving
+
+        -   Voordelen
+
+            -   Eenvoud aanbrengen
+
+            -   Paro vriendelijk
+
+            -   Toegang voor endo
+
+        -   Indien blootliggend dentine -\> bedekken met CaOH
+
+        -   Types
+
+            -   Metaaldraad, orthoboog, getwijnde spalkdraad
+
+            -   Flexibel (verticaal rigied)
+
+                -   Vooraf plooien zodat hij passief aanligt
+
+        -   Techniek
+
+            -   Zuur ets techniek
+
+            -   Eerst gezonde tanden (3 tanden naast getraumatiseerd element), dan losse tand
+
+    -   Brackets en afneembare boog
+
+        -   HET IDEALE
+
+            -   Onschadelijk voor parodontium
+
+            -   Toegang palataal voor endo
+
+            -   Vestibulaire boog die afneembaar is voor controle
+
+        -   Nadeel
+
+            -   Zeer omslachtig
+
+            -   Moeilijk droog
+
+    -   MKA spalktechnieken (zoek plaatjes op google-
+
+        -   Kunstharsplaatje
+
+        -   8-ligatuur
+
+            -   Staaldraad 0,4mm
+
+            -   Door conische vorm tand -\> altijd extrusieve kracht (dus niet na avulsie of extrusie)
+
+        -   Laddervorminge spalk
+
+            -   Betere fixatie dan 8-ligatuur
+
+            -   Groote draadligatuur rond aangetaste tanden
+
+            -   Dan interdentale ligaturen die de hoofdligatuur omvatten à aansnoeren geeft fixatie
+
+        -   Ivy-ligatuur
+
+            -   Kan ook voor IMF gebruikt worden
+
+        -   Obwegeser ligatuur
+
+            -   Variant of ivy ligatuur
+
+        -   Draadboogspalk
+
+            -   Spalk met metaalligaturen
+
+            -   Nadeel: extrusieve krachten + weinig paro vriendelijk
+
+        -   Schuchardt splak
+
+            -   Parovriendelijk / geen egressie losse tanden
+
+        -   Benoist Ligatuur
+
+            -   Ook geen egressie losse tanden
+
+        -   Ligatuur van Duclas
+
+            -   Geen egressie losse tanden
+
+        -   Kunstharsspalk
+
+            -   Labo nodig -\> niet urgent te gebruiken
+
+## Dental Trauma Guide
+
+### Permanent dentition
+
+#### Concussion
+
+**Clinical findings**
+
+-   The tooth is tender to touch or tapping; it has not been displaced and does not have increased mobility.
+
+**Radiographic findings**
+
+-   No radiographic abnormalities.
+
+**Treatment**
+
+-   No treatment is needed.
+
+-   Monitor pulpal condition for at least one year.
+
+**Follow-up**
+
+-   4 weeks -- Clinical and radiographic examination.
+
+-   6-8 weeks -- Clinical and radiographic examination.
+
+-   1 year -- Clinical and radiographic examination.
+
+#### Subluxation
+
+**Clinical findings**
+
+-   The tooth is tender to touch or tapping and has increased mobility; it has not been displaced.
+
+-   Bleeding from gingival crevice may be noted.
+
+-   Sensibility testing may be negative initially indicating transient pulpal damage.
+
+-   Monitor pulpal response until a definitive pulpal diagnosis can be made.
+
+**Radiographic findings**
+
+-   Radiographic abnormalities are usually not found.
+
+**Treatment**
+
+-   Normally no treatment is needed, however, a flexible splint to stabilize the tooth for patient comfort can be used for up to 2 weeks.
+
+**Follow-up**
+
+-   2 weeks -- Splint removal, clinical and radiographic examination.
+
+-   4 weeks -- Clinical and radiographic examination.
+
+-   6-8 weeks -- Clinical and radiographic examination.
+
+-   6 months -- Clinical and radiographic examination.
+
+-   1 year -- Clinical and radiographic examination.
+
+#### Extrusion
+
+**Clinical findings**
+
+-   The tooth appears elongated and is excessively mobile.
+
+-   Sensibility tests will likely give negative results.
+
+**Radiographic findings**
+
+-   Increased periodontal ligament space apically.
+
+**Treatment**
+
+-   Reposition the tooth by gently reinserting It into the tooth socket.
+
+-   Stabilize the tooth for 2 weeks using a flexible splint.
+
+-   In mature teeth where pulp necrosis is anticipated, or if several signs and symptoms indicate that the pulp of mature or immature teeth is becoming necrotic, root canal treatment is indicated.
+
+**Follow-up**
+
+-   2 weeks -- Splint removal, clinical and radiographic examination.
+
+-   4 weeks -- Clinical and radiographic examination.
+
+-   6-8 weeks -- Clinical and radiographic examination.
+
+-   6 months -- Clinical and radiographic examination.
+
+-   1 year -- Clinical and radiographic examination yearly.
+
+-   5 years -- Clinical and radiographic examination.
+
+#### Lateral luxation
+
+**Clinical findings**
+
+-   The tooth is displaced, usually in a palatal/lingual or labial direction.
+
+-   It will be immobile and percussion usually gives a high, metallic (ankylotic) sound.
+
+-   Fracture of the alveolar process present.
+
+-   Sensibility tests will likely give negative results.
+
+**Radiographic findings**
+
+-   The widened periodontal ligament space is best seen on eccentric or occlusal exposures.
+
+**Treatment**
+
+-   Reposition the tooth digitally or with forceps to disengage it from its bony lock and gently reposition it into its original location.
+
+-   Stabilize the tooth for 4 weeks using a flexible splint.
+
+-   Monitor the pulpal condition.
+
+-   If the pulp becomes necrotic, root canal treatment is indicated to prevent root resorption.
+
+**Follow-up**
+
+-   2 weeks -- Clinical and radiographic examination.
+
+-   4 weeks -- Splint removal, clinical and radiographic examination.
+
+-   6-8 weeks -- Clinical and radiographic examination.
+
+-   6 months -- Clinical and radiographic examination.
+
+-   1 year -- Clinical and radiographic examination.
+
+-   Yearly for 5 years -- Clinical and radiographic examination.
+
+#### Intrusion
+
+**Clinical findings**
+
+-   The tooth is displaced axially into the alveolar bone.
+
+-   It is immobile and percussion may give a high, metallic (ankylotic) sound.
+
+-   Sensibility tests will likely give negative results.
+
+**Radiographic findings**
+
+-   The periodontal ligament space may be absent from all or part of the root.
+
+-   The cemento-enamel junction is located more apically in the intruded tooth than in adjacent non-injured teeth, at times even apical to the marginal bone level.
+
+**Treatment**
+
+Teeth with incomplete root formation:
+
+-   Allow eruption without intervention.
+
+-   If no movement within few weeks, initiate orthodontic repositioning.
+
+-   If the tooth is intruded more than 7 mm, reposition surgically or orthodontically.
+
+Teeth with complete root formation:
+
+-   Allow eruption without intervention if the tooth is intruded less than 3 mm. If no movement after 2-4 weeks, reposition surgically or orthodontically before ankylosis can develop.
+
+-   If the tooth is intruded 3-7 mm, reposition surgically or orthodontically.
+
+-   If the tooth is intruded beyond 7 mm, reposition surgically.
+
+-   The pulp will likely become necrotic in teeth with complete root formation. Root canal therapy using a temporary filling with calcium hydroxide is recommended and treatment should begin 2-3 weeks after repositioning.
+
+-   Once an intruded tooth has been repositioned surgically or orthodontically, stabilize with a flexible splint for 4 weeks.
+
+**Follow-up**
+
+-   2 weeks -- Clinical and radiographic examination.
+
+-   4 weeks -- Splint removal, clinical and radiographic examination.
+
+-   6-8 weeks -- Clinical and radiographic examination.
+
+-   6 months -- Clinical and radiographic examination.
+
+-   1 year -- Clinical and radiographic examination.
+
+-   Yearly for 5 years -- Clinical and radiographic examination.
+
+#### Avulsion
+
+**Avulsion -- First aid for avulsed teeth**
+
+Dentists should always be prepared to give appropriate advice to the public about first aid for avulsed teeth. An avulsed permanent tooth is one of the few real emergency situations in dentistry. In addition to increasing the public awareness by mass media campaigns, healthcare professional, parents and teachers should receive information on how to proceed following these severe unexpected injuries. Also, instructions may be given by telephone to parents at the emergency site.
+
+If a tooth is avulsed, make sure it is a permanent tooth (primary teeth should not be replanted).
+
+-   Keep the patient calm.
+
+-   Find the tooth and pick it up by the crown (the white part). Avoid touching the root.
+
+-   If the tooth is dirty, wash it briefly (10 seconds) under cold running water and reposition it. Try to encourage the patient / parent to replant the tooth. Bite on a handkerchief to hold it in position.
+
+-   If this is not possible, place the tooth in a suitable storage medium, e.g. a glass of milk or a special storage media for avulsed teeth if available (e.g. Hanks balanced storage medium or saline). The tooth can also be transported in the mouth, keeping it between the molars and the inside of the cheek. If the patient is very young, he/she could swallow the tooth- therefore it is advisable to get the patient to spit in a container and place the tooth in it. Avoid storage in water!
+
+-   Seek emergency dental treatment immediately.
+
+The poster "Save a Tooth" is written for the public and is available in several languages: Spanish, English, Portuguese, French, Icelandic, Italian, and can be obtained at the IADT website: [<https://www.iadt-dentaltrauma.org.>](https://www.google.com/url?q=https%3A%2F%2Fwww.iadt-dentaltrauma.org.%2F&sa=D&sntz=1&usg=AFQjCNEIf0ZK-k-vXNMRzn953GHV7pIeVA)
+
+**Closed Apex: Tooth replanted prior to the patient's arrival at the dental office or clinic**
+
+**Treatment**
+
+-   Leave the tooth in place.
+
+-   Clean the area with water spray, saline, or chlorhexidine.
+
+-   Suture gingival lacerations if present.
+
+-   Verify normal position of the replanted tooth both clinically and radiographically.
+
+-   Apply a flexible splint for up to 2 weeks.
+
+-   Administer systemic antibiotics. Tetracycline is the first choice (Doxycycline 2x per day for 7 days at appropriate dose for patient age and weight). The risk of discoloration of permanent teeth must be considered before systemic administration of tetracycline in young patients (In many countries tetracycline is not recommended for patients under 12 years of age). In young patients Phenoxymethyl Penicillin (Pen V) or amoxycillin, at an appropriate dose for age and weight, is an alternative to tetracycline.
+
+-   If the avulsed tooth has been in contact with soil, and if tetanus coverage is uncertain, refer to physician for a tetanus booster.
+
+-   Initiate root canal treatment 7-10 days after replantation and before splint removal.
+
+**Patient instructions**
+
+-   Avoid participation in contact sports.
+
+-   Soft food for up to 2 weeks.
+
+-   Brush teeth with a soft toothbrush after each meal.
+
+-   Use a chlorhexidine (0.1 %) mouth rinse twice a day for 1 week.
+
+**Follow-up**
+
+-   Root canal treatment 7-10 days after replantation. Place calcium hydroxide as an intra-canal medicament for up to 1 month followed by root canal filling with an acceptable material. Alternatively an antibiotic-corticosteroid paste may be placed immidiately or shortly following replantation and left for at least 2 weeks.
+
+-   Splint removal and clinical and radiographic control after 2 weeks.
+
+-   Clinical and radiographic control after 4 weeks, 3 months, 6 months, 1 year and then yearly thereafter.
+
+**Closed apex: Extraoral dry time less than 60 min. The tooth has been kept in physiologic storage media or osmolality balanced media (Milk, saline, saliva or Hank's Balanced Salt Solution) and/or stored dry less than 60 minutes**
+
+**Treatment**
+
+-   Clean the root surface and apical foramen with a stream of saline and soak the tooth in saline thereby removing contamination and dead cells from the root surface.
+
+-   Administer local anesthesia
+
+-   Irrigate the socket with saline.
+
+-   Examine the alveolar socket. If there is a fracture of the socket wall, reposition it with a suitable instrument.
+
+-   Replant the tooth slowly with slight digital pressure. Do not use force.
+
+-   Suture gingival lacerations if present.
+
+-   Verify normal position of the replanted tooth both, clinically and radiographically.
+
+-   Apply a flexible splint for up to 2 weeks, keep away from the gingiva.
+
+-   Administer systemic antibiotics. Tetracycline is the first choice (Doxycycline 2x per day for 7 days at appropriate dose for patient age and weight). The risk of discoloration of permanent teeth must be considered before systemic administration of tetracycline in young patients (In many countries tetracycline is not recommended for patients under 12 years of age). In young patients Phenoxymethyl Penicillin (Pen V) or amoxycillin, at appropriate dose for age and weight, is an alternative to tetracycline.
+
+-   If the avulsed tooth has been in contact with soil, and if tetanus coverage is uncertain, refer to physician for a tetanus booster.
+
+-   Initiate root canal treatment 7-10 days after replantation and before splint removal.
+
+**Patient instructions**
+
+-   Soft food for up tp 2 weeks.
+
+-   Brush teeth with a soft toothbrush after each meal.
+
+-   Use a chlorhexidine (0.1 %) mouth rinse twice a day for 1 week.
+
+**Follow-up**
+
+-   Root canal treatment 7-10 days after replantation. Place calcium hydroxide as an intra-canal medicament for up to 1 month followed by root canal filling with an acceptable material. Alternatively an antibiotic-corticosteroid paste may be placed immidiately or shortly following replantation and left for at least 2 weeks.
+
+-   Splint removal and clinical and radiographic control after 2 weeks.
+
+-   Clinical and radiographic control after 4 weeks, 3 months, 6 months, 1 year and then yearly thereafter.
+
+**Closed apex: Extraoral dry time exceeding 60 min or other reasons suggesting non-viable cells**
+
+**Treatment**
+
+Delayed replantation has a poor long-term prognosis. The periodontal ligament will be necrotic and can not be expected to heal. The goal in delayed replantation is, in addition to restoring the tooth for esthetic, functional and psychological reasons, to maintain alveolar bone contour. However, the expected eventual outcome is ankylosis and resorption of the root and the tooth will be lost eventually.
+
+-   Remove attached non-viable soft tissue carefully, with gauze.
+
+-   Root canal treatment can be performed prior to replantation, or it can be done 7-10 days later.
+
+-   Administer local anesthesia
+
+-   Irrigate the socket with saline.
+
+-   Examine the alveolar socket. If there is a fracture of the socket wall, reposition it with a suitable instrument.
+
+-   Replant the tooth slowly with slight digital pressure. Do not use force.
+
+-   Suture gingival lacerations if present.
+
+-   Verify normal position of the replanted tooth clinically and radiographically.
+
+-   Stabilize the tooth for 4 weeks using a flexible splint.
+
+-   Administer systemic antibiotics. Tetracycline is the first choice (Doxycycline 2x per day for 7 days at appropriate dose for patient age and weight). The risk of discoloration of permanent teeth must be considered before systemic administration of tetracycline in young patients (In many countries tetracycline is not recommended for patients under 12 years of age). In young patients Phenoxymethyl Penicillin (Pen V) or amoxycillin, at an appropriate dose for age and weight, is an alternative to tetracycline.
+
+-   If the avulsed tooth has been in contact with soil, and if tetanus coverage is uncertain, refer to physician for a tetanus booster.
+
+To slow down osseous replacement of the tooth, treatment of the root surface with fluoride prior to replantation has been suggested (2 % sodium fluoride solution for 20 min.
+
+**Patient instructions**
+
+-   Avoide participation in contact sports.
+
+-   Soft food for up to 2 weeks.
+
+-   Brush teeth with a soft toothbrush after each meal.
+
+-   Use a chlorhexidine (0.1%) mouth rinse twice a day for 1 week.
+
+**Follow-up**
+
+-   Root canal treatment 7-10 days after replantation. Place calcium hydroxide as an intra-canal medicament for up to 1 month followed by root canal filling with an acceptable material. Alternatively an antibiotic-corticosteroid paste may be placed immidiately or shortly following replantation and left for at least 2 weeks.
+
+-   Splint removal and clinical and radiographic control after 4 weeks.
+
+-   Clinical and radiographic control after 4 weeks, 3 months, 6 months, 1 year and then yearly thereafter.
+
+Ankylosis is unavoidable after delayed replantation and must be taken into consideration. In children and adolescents ankylosis is frequently associated with infraposition. Careful follow-up is required and good communication is necessary to ensure the patient and guardian of this likely outcome. Decoronation may be necessary when infraposition (\> 1 mm) is seen. For more detailed information of this procedure the reader is referred to textbooks.
+
+**Open apex: Tooth replanted prior to the patients arrival at the dental office or clinic**
+
+**Treatment**
+
+-   Leave the tooth in place.
+
+-   Clean the area with water spray, saline, or chlorhexidine.
+
+-   Suture gingival laceration if present.
+
+-   Verify normal position of the replanted tooth both clinically and radiographically.
+
+-   Apply a flexible splint for up to 1-2 weeks.
+
+-   Administer systemic antibiotics. Tetracycline is the first choice (Doxycycline 2x per day for 7 days at appropriate dose for patient age and weight). The risk of discoloration of permanent teeth must be considered before systemic administration of tetracycline in young patients (In many countries tetracycline is not recommended for patients under 12 years of age). In young patients Phenoxymethyl Penicillin (Pen V) or amoxycillin, at an appropriate dose for age and weight, is an alternative to tetracycline.
+
+-   If the avulsed tooth has been in contact with soil and if tetanus coverage is uncertain, refer to physician for a tetanus booster.
+
+-   The goal for replanting still-developing (immature) teeth in children is to allow for possible revascularization of the tooth pulp. If that does not occur, root canal treatment is recommended.
+
+**Patient instructions**
+
+-   Avoide participation in contact sports.
+
+-   Soft food for up to 2 weeks.
+
+-   Brush teeth with a soft toothbrush after each meal.
+
+-   Use a chlorhexidine (0.1%) mouth rinse twice a day for 1 week.
+
+**Follow-up**
+
+-   For immature teeth, root canal treatment should be avoided unless there is clinical or radiographic evidence of pulp necrosis.
+
+-   Splint removal and clinical and radiographic control after 2 weeks.
+
+-   Clinical and radiographic control after 4 weeks, 3 months, 6 months, 1 year and then yearly thereafter.
+
+**Open apex: Extraoral dry time less than 60 min. The tooth has been kept in physiologic storage media or osmolality balanced media (Milk, saline, saliva or Hank's Balanced Salt Solution) and/or stored dry less than 60 minutes**
+
+**Treatment**
+
+-   Clean the root surface and apical foramen with a stream of saline.
+
+-   Topical application of antibiotics has been shown to enhance chances for revascularization of the pulp and can be considered if available (minocycline or doxycycline 1 mg per 20 ml saline for 5 minutes soak).
+
+-   Administer local anesthesia.
+
+-   Examine the alveolar socket. If there is a fracture of the socket wall, reposition it with a suitable instrument.
+
+-   Irrigate the socket with saline.
+
+-   Replant the tooth slowly with slight digital pressure.
+
+-   Suture gingival lacerations, especially in the cervical area.
+
+-   Verify normal position of the replanted tooth clinically and radiographically.
+
+-   Apply a flexible splint for up to 2 weeks.
+
+-   Administer systemic antibiotics. Tetracycline is the first choice (Doxycycline 2x per day for 7 days at appropriate dose for patient age and weight). The risk of discoloration of permanent teeth must be considered before systemic administration of tetracycline in young patients (In many countries tetracycline is not recommended for patients under 12 years of age). In young patients Phenoxymethyl Penicillin (Pen V) or amoxycillin, at an appropriate dose for age and weight, is an alternative to tetracycline.
+
+-   If the avulsed tooth has been in contact with soil and if tetanus coverage is uncertain, refer to physician for a tetanus booster.
+
+The goal for replanting still-developing (immature) teeth in children is to allow for possible revascularization of the pulp space. The risk of infection-related root resorption should be weighed up agains the chances of revascularization. such resorption is very rapid in children. If revascularization does not occur, root canal treatment may be recommended.
+
+**Patient instructions**
+
+-   Avoide participation in contact sports.
+
+-   Soft food for up to 2 weeks.
+
+-   Brush teeth with a soft toothbrush after each meal.
+
+-   Use a chlorhexidine (0.1%) mouth rinse twice a day for 1 week.
+
+**Follow-up**
+
+-   For immature teeth, root canal treatment should be avoided unless there is clinical or radiographic evidence of pulp necrosis.
+
+-   Splint removal and clinical and radiographic control after 2 weeks.
+
+-   Clinical and radiographic control after 4 weeks, 3 months, 6 months, 1 year and then yearly thereafter.
+
+**Open apex: Dry time longer than 60 min or other reasons suggesting non-viable cells**
+
+**Treatment**
+
+Delayed replantation has a poor long-term prognosis. The periodontal ligament will be necrotic and not expected to heal. The goal in delayed replantation is to restore the tooth to the dentition for esthetic, functional , and psychological reasons and to maintain alveolar contour. The eventual outcome will be ankylosis and resorption of the root.
+
+-   Remove attached non-viable soft tissue with gauze.
+
+-   Root canal treatment can be carried out prior to replantation or later.
+
+-   Administer local anesthesia.
+
+-   Irrigate the socket with saline.
+
+-   Examine the alveolar socket. if there is a fracture of the socket wall, reposition it with a suitable instrument.
+
+-   Replant the tooth slowly with slight digital pressure.
+
+-   Suture gingival lacerations if present.
+
+-   Verify normal position of the replanted tooth clinically and radiographically.
+
+-   Stabilize the tooth for 4 weeks using a flexible splint.
+
+-   Administer systemic antibiotics. Tetracycline is the first choice (Doxycycline 2x per day for 7 days at appropriate dose for patient age and weight). The risk of discoloration of permanent teeth must be considered before systemic administration of tetracycline in young patients (In many countries tetracycline is not recommended for patients under 12 years of age). In young patients Phenoxymethyl Penicillin (Pen V) or amoxycillin, at an appropriate dose for age and weight, is an alternative to tetracycline.
+
+-   If the avulsed tooth has been in contact with soil or if tetanus coverage is uncertain, refer to physician for evaluation of the need for a tetanus booster.
+
+To slow down osseous replacement of the tooth, treatment of the root surface with fluoride prior to replantation has been suggested (2 % sodium fluoride solution for 20 min.
+
+**Patient instructions**
+
+-   Avoide participation in contact sports.
+
+-   Soft food for up to 2 weeks.
+
+-   Brush teeth with a soft toothbrush after each meal.
+
+-   Use a chlorhexidine (0.1%) mouth rinse twice a day for 1 week.
+
+**Follow-up**
+
+-   For immature teeth, root canal treatment should be avoided unless there is clinical or radiographic evidence of pulp necrosis.
+
+-   Splint removal and clinical and radiographic control after 4 weeks.
+
+-   Clinical and radiographic control after 4 weeks, 3 months, 6 months, 1 year and then yearly thereafter.
+
+Ankylosis is unavoidable after delayed replantation and must be taken into consideration. In children and adolescents ankylosis is frequently associated with infraposition. Careful follow-up is required and good communication is necessary to ensure the patient and guardian of this likely outcome. Decoronation may be necessary when infraposition (\> 1 mm) is seen. For more detailed information of this procedure the reader is referred to textbooks.
+
+#### Infraction
+
+**Clinical findings**
+
+-   An incomplete fracture (crack) of the enamel without loss of tooth structure.
+
+-   Not tender. If tenderness is observed, evaluate the tooth for a possible luxation injury or a root fracture.
+
+**Radiographic findings**
+
+-   No radiographic abnormalities.
+
+-   Radiographs recommended: a periapical view. Additional radiographs are indicated if other signs or symptoms are present.
+
+**Treatment**
+
+-   In case of marked infractions, etching and sealing with resin to prevent discoloration of the infraction lines. Otherwise, no treatment is necessary.
+
+**Follow-up**
+
+-   No follow-up is generally needed for infraction injuries unless they are associated with a luxation injury or other types of fracture.
+
+#### Enamel fractures
+
+**Clinical findings**
+
+-   A complete fracture of the enamel.
+
+-   Loss of enamel. No visible sign of exposed dentin.
+
+-   Not tender. If tenderness is observed, evaluate the tooth for a possible luxation or root fracture injury.
+
+-   Normal mobility.
+
+-   Sensibility pulp test usually positive.
+
+**Radiographic findings**
+
+-   Enamel loss is visible.
+
+-   Radiographs recommended: periapical, occlusal and eccentric exposures. They are recommended in order to rule out the possible presence of a root fracture or a luxation injury.
+
+-   Radiograph of lip or cheek to search for tooth fragments or foreign materials.
+
+**Treatment**
+
+-   If the tooth fragment is available, it can be bonded to the tooth.
+
+-   Contouring or restoration with composite resin depending on the extent and location of the fracture.
+
+**Follow-up**
+
+-   6-8 weeks -- Clinical and radiographic examination.
+
+-   1 year -- Clinical and radiographic examination.
+
+#### Enamel-dentin fracture
+
+**Clinical findings**
+
+-   A fracture confined to enamel and dentin with loss of tooth structure, but not exposing the pulp.
+
+-   Percussion test: not tender. If tenderness is observed, evaluate the tooth for possible luxation or root fracture injury.
+
+-   Normal mobility.
+
+-   Sensibility pulp test usually positive.
+
+**Radiographic findings**
+
+-   Enamel-dentin loss is visible.
+
+-   Radiographs recommended: periapical, occlusal and eccentric exposure to rule out tooth displacement or possible presence of root fracture.
+
+-   Radiograph of lip or cheek lacerations to search for tooth fragments or foreign materials.
+
+**Treatment**
+
+-   If a tooth fragment is available, it can be bonded to the tooth. Otherwise, perform a provisional treatment by covering the exposed dentin with glassIonomer or a more permanent restoration using a bonding agent and composite resin or other accepted dental restorative materials.
+
+-   If the exposed dentin is within 0.5 mm of the pulp (pink, no bleeding), place calcium hydroxide base and cover with a material such as a glass ionomer.
+
+**Follow-up**
+
+-   6-8 weeks -- Clinical and radiographic examination.
+
+-   1 year -- Clinical and radiographic examination.
+
+#### Enamel-dentin-pulp fracture
+
+**Clinical findings**
+
+-   A fracture involving enamel and dentin with loss of tooth structure and exposure of the pulp.
+
+-   Normal mobility.
+
+-   Percussion test: not tender. If tenderness is observed, evaluate for possible luxation or root fracture injury.
+
+-   Exposed pulp sensitive to stimuli.
+
+**Radiographic findings**
+
+-   Enamel-dentin loss visible.
+
+-   Radiographs recommended: periapical, occlusal and eccentric exposures, to rule out tooth displacement or possible presence of root fracture.
+
+-   Radiograph of lip or cheek lacerations to search for tooth fragments or foreign materials.
+
+**Treatment**
+
+-   In young patients with immature, still developing teeth, it is advantageous to preserve pulp vitality by pulp capping or partial pulpotomy. Also, this treatment is the choice in young patients with completely formed teeth.
+
+-   Calcium hydroxide is a suitable material to be placed on the pulp wound in such procedures.
+
+-   In patients with mature apical development, root canal treatment is usually the treatment of choice, although pulp capping or partial pulpotomy also may be selected.
+
+-   If tooth fragment is available, it can be bonded to the tooth.
+
+-   Future treatment for the fractured crown may be restoration with other accepted dental restorative materials.
+
+**Follow-up**
+
+-   6-8 weeks -- Clinical and radiographic examination.
+
+-   1 year -- Clinical and radiographic examination.
+
+#### Crown-root fracture without pulp involvement
+
+**Clinical findings**
+
+-   A fracture involving enamel, dentin and cementum with loss of tooth structure, but not exposing the pulp.
+
+-   Crown fracture extending below gingival margin.
+
+-   Percussion test: Tender.
+
+-   Coronal fragment mobile.
+
+-   Sensibility pulp test usually positive for apical fragment.
+
+**Radiographic findings**
+
+-   Apical extension of fracture usually not visible.
+
+-   Radiographs recommended: periapical, occlusal and eccentric exposures. They are recommended in order to detect fracture lines in the root.
+
+**Treatment**
+
+**Emergency treatment**
+
+-   As an emergency treatment a temporary stabilization of the loose segment to adjacent teeth can be performed until a definitive treatment plan is made.
+
+**Non-emergency treatment alternatives**
+
+-   Fragment removal only.
+
+-   Removal of the coronal crown-root fragment and subsequent restoration of the apical fragment exposed above the gingival level.
+
+**Fragment removal and gingivectomy (sometimes ostectomy)**
+
+-   Removal of the coronal crown-root segment with subsequent endodontic treatment and restoration with a post-retained crown. This procedure should be preceded by a gingivectomy, and sometimes ostectomy with osteoplasty.
+
+**Orthodontic extrusion of apical fragment**
+
+-   Removal of the coronal segment with subsequent endodontic treatment and orthodontic extrusion of the remaining root with sufficient length after extrusion to support a post-retained crown.
+
+**Surgical extrusion**
+
+-   Removal of the mobile fractured fragment with subsequent surgical repositioning of the root in a more coronal position.
+
+**Root submergence**
+
+-   Implant solution is planned.
+
+**Extraction**
+
+-   Extraction with immediate or delayed implant-retained crown restoration or a conventional bridge. Extraction is inevitable in crown-root fractures with a severe apical extension, the extreme being a vertical fracture.
+
+**Follow-up**
+
+-   6-8 weeks -- Clinical and radiographic examination.
+
+-   1 year -- Clinical and radiographic examination.
+
+#### Crown-root fracture with pulp involvement
+
+**Clinical findings**
+
+-   A fracture involving enamel, dentin and cementum and exposing the pulp.
+
+-   Percussion test: tender.
+
+-   Coronal fragment mobile.
+
+**Radiographic findings**
+
+-   Apical extension of fracture usually not visible.
+
+-   Radiographs recommended: periapical and occlusal exposure.
+
+**Treatment**
+
+**Emergency treatment**
+
+-   As an emergency treatment a temporary stabilization of the loose segment to adjacent teeth.
+
+-   In patients with open apices, it is advantageous to preserve pulp vitality by a partial pulpotomy. This treatment is also the choice in young patients with completely formed teeth. Calcium hydroxide compounds are suitable pulp capping materials. In patients with mature apical development, root canal treatment can be the choice of treatment.
+
+**Non-emergency treatment alternatives**
+
+-   Fragment removal and gingivectomy (sometimes ostectomy) Removal of the coronal fragment with subsequent endodontic treatment and restoration with a post-retained crown. This procedure should be preceded by a gingivectomy and sometimes ostectomy with osteoplasty. This treatment option is only indicated in crown-root fractures with palatal subgingival extension.
+
+**Orthodontic extrusion of apical fragment**
+
+-   Removal of the coronal segment with subsequent endodontic treatment and orthodontic extrusion of the remaining root with sufficient length after extrusion to support a post-retained crown.
+
+**Surgical extrusion**
+
+-   Removal of the mobile fractured fragment with subsequent surgical repositioning of the root in a more coronal position.
+
+**Root submergence**
+
+-   An implant solution is planned, the root fragment may be left in situ.
+
+**Extraction**
+
+-   Extraction with immediate or delayed implant-retained crown restoration or a conventional bridge. Extraction is inevitable in very deep crown-root fractures, the extreme being a vertical fracture
+
+**Follow-up**
+
+-   6-8 weeks -- Clinical and radiographic examination.
+
+-   1 year -- Clinical and radiographic examination.
+
+#### Root fracture
+
+**Clinical findings**
+
+-   The coronal segment may be mobile and may be displaced.
+
+-   The tooth may be tender to percussion.
+
+-   Bleeding from the gingival sulcus may be noted.
+
+-   Sensibility testing may give negative results initially, indicating transient or permanent neural damage.
+
+-   Monitoring the status of the pulp is recommended.
+
+-   Transient crown discoloration (red or grey) may occur.
+
+**Radiographic findings**
+
+-   The fracture involves the root of the tooth and is in a horizontal or oblique plane.
+
+-   Fractures that are in the horizontal plane can usually be detected in the regular periapical 90^o^ angle film with the central beam through the tooth. This is usually the case with fractures in the cervical third of the root.
+
+-   If the plane of fracture is more oblique which is common with apical third fractures, an occlusal view or radiographs with varying horizontal angles are more likely to demonstrate the fracture including those located in the middle third.
+
+**Treatment**
+
+-   Reposition, if displaced, the coronal segment of the tooth as soon as possible.
+
+-   Check position radiographically.
+
+-   Stabilize the tooth with a flexible splint for 4 weeks. If the root fracture is near the cervical area of the tooth, stabilization is beneficial for a longer period of time (up to 4 months).
+
+-   It is advisable to monitor healing for at least 1 year to determine pulpal status.
+
+-   If pulp necrosis develops, root canal treatment of the coronal tooth segment to the fracture line is indicated to preserve the tooth.
+
+**Follow-up**
+
+-   4 weeks -- Splint removal, clinical and radiographic examination.
+
+-   6-8 weeks -- Clinical and radiographic examination.
+
+-   4 months -- Splint removal in cervical third fractures, clinical and radiographic examination.
+
+-   6 months -- Clinical and radiographic examination.
+
+-   1 year -- Clinical and radiographic examination.
+
+-   5 years -- Clinical and radiographic examination.
+
+#### Alveolar fracture
+
+**Clinical findings**
+
+-   The fracture involves the alveolar bone and may extend to the adjacent bone.
+
+-   Segment mobility and dislocation with several teeth moving together are common findings.
+
+-   An occlusal change due to misalignment of the fractured alveolar segment is often noted.
+
+-   Sensibility testing may or may not be positive.
+
+**Radiographic findings**
+
+-   Fracture lines may be located at any level, from the marginal bone to the root apex and above the apex.
+
+-   In addition to the 3 angulations and occlusal film, additional views such as a panoramic radiograph can be helpful in determining the course and position of the fracture lines.
+
+**Treatment**
+
+-   Reposition any displaced segment and then splint.
+
+-   Suture gingival laceration, if present.
+
+-   Stabilize the segment for 4 weeks.
+
+**Follow-up**
+
+-   4 weeks -- Splint removal, clinical and radiographic examination.
+
+-   6-8 weeks -- Clinical and radiographic examination.
+
+-   4 months -- Clinical and radiographic examination.
+
+-   6 months -- Clinical and radiographic examination.
+
+-   1 year -- Clinical and radiographic examination.
+
+-   5 years -- Clinical and radiographic examination.
+
+### Primary dentition
+
+#### Concussion
+
+##### **Clinical findings**
+
+-   The tooth is tender to touch. It has normal mobility and no sulcular bleeding.
+
+##### **Radiographic findings**
+
+-   No radiographic abnormalities. Normal periodontal space.
+
+##### **Treatment**
+
+-   No treatment is needed. Observation.
+
+##### **Follow-up**
+
+-   1 week -- Clinical examination.
+
+-   6-8 weeks -- Clinical examination.
+
+#### Subluxation
+
+##### **Clinical findings**
+
+-   The tooth has increased mobility, but it has not been displaced.
+
+-   Bleeding from gingival crevice may be noted.
+
+##### **Radiographic findings**
+
+-   Radiographic abnormalities are usually not found. Normal periodontal space. An occlusal exposure is recommended in order to screen for possible signs of displacement or the presence of a root fracture. Furthermore, the radiograph can be used as a reference point in case of future complications.
+
+##### **Treatment**
+
+-   No treatment is needed. Observation. Brushing with a soft brush and use of chlorhexidine 0.12% alcohol-free topically to the affected area with cotton swabs twice a day for one week.
+
+##### **Follow-up**
+
+-   1 week -- Clinical examination.
+
+-   6-8 weeks -Clinical examination.
+
+Crown discoloration might occur. No treatment is needed unless a fistula develops. Dark discolored teeth should be followed carefully to detect signs of infection as soon as possible.
+
+#### Extrusion
+
+##### **Clinical findings**
+
+-   Partial displacement of the tooth out of its socket.
+
+-   The tooth appears elongated and can be excessively mobile.
+
+##### **Radiographic findings**
+
+-   Increased periodontal ligament space apically.
+
+##### **Treatment**
+
+-   Treatment decisions are based on the degree of displacement, mobility, root formation and the ability of the child to cope with the emergency situation.
+
+-   For minor extrusion (\< 3mm) in an immature developing tooth, careful repositioning or leaving the tooth for spontaneous alignment can be treatment options.
+
+-   Extraction is the treatment of choice for severe extrusion in a fully formed primary tooth.
+
+##### **Follow-up**
+
+-   1 week -- Clinical examination.
+
+-   6-8 weeks -- Clinical and radiographic examination.
+
+-   6 months -- Clinical and radiographic examination.
+
+-   1 year -- Clinical and radiographic examination.
+
+Discoloration might occur. Dark discolored teeth should be followed carefully to detect signs of infection as soon as possible.
+
+#### Lateral extrusion
+
+##### **Clinical findings**
+
+-   The tooth is displaced, usually in a palatal/lingual or labial direction.
+
+-   It will be immobile.
+
+##### **Radiographic findings**
+
+-   Increased periodontal ligament space apically is best seen on the occlusal exposure. Someties an occlusal exposure can also show the position of the displaced tooth and its relation to the permanent successor.
+
+##### **Treatment**
+
+-   If there is no occlusal interference, as is often the case in anterior open bite, the tooth is allowed to reposition spontaneously.
+
+-   If minor occlusal interference, slight grinding is indicated.
+
+-   When there is more severe occlusal interference, the tooth can be gently repositioned by combined labial and palatal pressure after the use of local anesthesia.
+
+-   In severe displacement, when the crown is dislocated in a labial direction, extraction is the treatment of choice.
+
+##### **Follow-up**
+
+-   1 week -- Clinical examination.
+
+-   2-3 weeks -- Clinical examination.
+
+-   6-8 weeks -- Clinical and radiographic examination.
+
+-   1 year -- Clinical and radiographic examination.
+
+#### Intrusion
+
+##### **Clinical findings**
+
+-   The tooth is usually displaced through the labial bone plate or can be impinging upon the succedaneous tooth bud.
+
+##### **Radiographic findings**
+
+-   When the apex is displaced toward or through the labial bone plate, the apical tip can be visualized and appears shorter than its contra lateral. When the apex is displaced towards the permanent tooth germ, the apical tip cannot be visualized and the tooth appears elongated.
+
+##### **Treatment**
+
+-   If the apex is displaced toward or through the labial bone plate, the tooth is left for spontaneous repositioning.
+
+-   If the apex is displaced into the developing tooth germ, extract.
+
+##### **Follow-up**
+
+-   1 week -- Clinical examination.
+
+-   3-4 weeks -- Clinical and radiographic examination.
+
+-   6-8 weeks -- Clinical examination.
+
+-   6 months -- Clinical and radiographic examination.
+
+-   1 year -- Clinical and radiographic examination, clinical and radiographic monitoring until eruption of the permanent successor.
+
+#### Avulsion
+
+##### **Clinical findings**
+
+-   The tooth is completely out of the socket.
+
+##### **Radiographic findings**
+
+-   A radiographic examination is essential to ensure that the missing tooth is not intruded.
+
+##### **Treatment**
+
+-   It is not recommended to replant avulsed primary teeth.
+
+##### **Follow-up**
+
+-   1 week -- Clinical examination.
+
+-   6 months -- Clinical and radiographic examination.
+
+-   1 year -- Clinical and radiographic examination, clinical and radiographic monitoring until eruption of the permanent successor.
+
+#### Enamel fracture
+
+##### **Clinical findings**
+
+-   Fracture involves enamel.
+
+##### **Radiographic findings**
+
+-   No radiographic abnormalities.
+
+##### **Treatment**
+
+-   Smooth sharp edges.
+
+##### **Follow-up**
+
+-   No follow-up procedures needed.
+
+#### Enamel-dentin fracture
+
+##### **Clinical findings**
+
+-   Fracture involves enamel and dentin; the pulp is not exposed.
+
+##### **Radiographic findings**
+
+-   No radiographic abnormalities. The relation between the fracture and the pulp chamber will be disclosed.
+
+##### **Treatment**
+
+-   If possible, seal the involved dentin completely with glass ionomer to prevent microleakage. In case of large lost tooth structure, the tooth can be restored with composite.
+
+##### **Follow-up**
+
+-   3-4 weeks -- Clinical examination.
+
+#### Enamel-dentin-pulp fracture
+
+##### **Clinical findings**
+
+-   Fracture involves enamel and dentin and the pulp is exposed.
+
+##### **Radiographic findings**
+
+-   The stage of root development can be determined from one exposure.
+
+##### **Treatment**
+
+-   If possible, preserve pulp vitality by partial pulpotomy. Calcium hydroxide is a suitable material for such procedures. A well condensed layer of pure calcium hydroxide paste can be applied over the pulp, covered with a lining such as reinforced glass ionomer. Restore the tooth with composite.
+
+-   The treatment is depending on the child's maturity and ability to cope. Extraction is usually the alternative option.
+
+##### **Follow-up**
+
+-   1 week -- Clinical examination.
+
+-   6-8 weeks -- Clinical and radiographic examination.
+
+-   1 year -- Clinical and radiographic examination.
+
+#### Crown-root fracture without pulp involvement
+
+##### **Clinical findings**
+
+-   Fracture involves enamel, dentin and root structure; the pulp may or may not be exposed.
+
+-   Additional findings may include loose, but still attached, fragments of the tooth.
+
+-   There is minimal to moderate tooth displacement.
+
+##### **Radiographic findings**
+
+-   In laterally positioned fractures, the extent in relation to the gingival margin can be seen. One exposure is necessary to disclose multiple fragments.
+
+##### **Treatment**
+
+Depending on the clinical findings, two treatment scenarios may be considered:
+
+-   Fragment removal only. If the fracture involves only a small part of the root and the stable fragment is large enough to allow coronal restoration.
+
+-   Extraction in all other instances.
+
+##### **Follow-up**
+
+In cases of fragment removal only:
+
+-   1 week -- Clinical examination.
+
+-   6-8 weeks -- Clinical and radiographic examination.
+
+-   1 year -- Clinical and radiographic monitoring until eruption of the permanent successor.
+
+#### Crown-root fracture with pulp involvement
+
+##### **Clinical findings**
+
+-   Fracture involves enamel and dentin and the pulp is exposed.
+
+##### **Radiographic findings**
+
+-   The stage of root development can be determined from one exposure.
+
+##### **Treatment**
+
+-   If possible preserve pulp vitality by partial pulpotomy. Calcium hydroxide is a suitable material for such procedures. A well condensed layer of pure calcium hydroxide paste can be applied over the pulp, covered with a lining such as reinforced glass ionomer. Restore the tooth with composite.
+
+-   The treatment is depending on the child's maturity and ability to cope. Extraction is usually the alternative option.
+
+##### **Follow-up**
+
+-   1 week -- Clinical examination.
+
+-   6-8 weeks -- Clinical and radiographic examination.
+
+-   1 year -- Clinical and radiographic examination.
+
+#### Root fracture
+
+##### **Clinical findings**
+
+-   The fracture involves the alveolar bone and may extend to adjacent bone.
+
+-   Segment mobility and dislocation are common findings.
+
+-   Occlusal interference is often noted.
+
+##### **Radiographic findings**
+
+-   The horizontal fracture line to the apices of the primary teeth and their permanent successors will be disclosed.
+
+-   A lateral radiograph may also give information about the relation between the two dentitions and if the segment is displaced in labial direction
+
+##### **Treatment**
+
+-   Reposition any displaced segment and then splint.
+
+-   General anesthesia is often indicated.
+
+-   Stabilize the segment for 4 weeks.
+
+-   Monitor teeth in fracture line
+
+##### **Follow-up**
+
+*No displacement:*
+
+-   1 week -- Clinical examination.
+
+-   6-8 weeks -- Clinical examination.
+
+-   1 year -- Clinical and radiographic examination, clinical and radiographic monitoring until eruption of the permanent successor each subsequent year until exfoliation.
+
+*Extraction:*
+
+-   1 year -- Clinical and radiographic examination, clinical and radiographic monitoring until eruption of the permanent successor each subsequent year until exfoliation.
+
+#### Alveolar fracture
+
+##### **Clinical findings**
+
+-   The fracture involves the alveolar bone and may extend to the adjacent bone.
+
+-   Segment mobility and dislocation are common findings.
+
+-   Occlusal interference is often noted.
+
+##### **Radiographic findings**
+
+-   The horizontal fracture line to the apices of the primary teeth and their permanent successors will be disclosed.
+
+-   A lateral radiograph may also give information about the relation between the two dentitions and if the segment is displaced in labial direction
+
+##### **Treatment**
+
+-   Reposition any displaced segment and then splint.
+
+-   General anesthesia is often indicated.
+
+-   Stabilize the segment for 4 weeks.
+
+-   Monitor teeth in fracture line
+
+##### **Follow-up**
+
+-   1 week -- Clinical examination.
+
+-   3-4 weeks -- Splint removal, clinical and radiographic examination.
+
+-   6-8 weeks -- Clinical and radiographic examination.
+
+-   1 year -- Clinical and radiographic examination, clinical and radiographic monitoring until eruption of the permanent successor each subsequent year until exfoliation.
+
+## Fracturen van processus alveolaris
+
+-   Geïsoleerd of geassocieerd met corpus mandibulae/maxillafractuur
+
+-   K.O.:
+
+    -   Gestoorde tandocclusie
+
+    -   Sterke mobiliteit van \# tanden
+
+    -   Bloedende gingiva scheuren
+
+-   Radiologie:
+
+    -   OPG & intra-oraal
+
+-   R/:
+
+    -   CONSERVATIEF: goede prognose door doorbloeding bot via spier/mucosa.
+
+    -   Repositie & spalken
+
+        -   Cave: gereponeerde element uit occlusie (X traumatische occlusie)
+
+    -   ***Semi-rigide spalken***:
+
+        -   **"Draadspalken"**: (-) ONVOLDOENDE stabiliteit
+
+        -   **"Autopolymeriserende kunsthars"**: (+) goede stabiliteit
+
+            -   Vb: Schuchardt-spalk
+
+        -   **"Zuur-etsspalk met gebogen/getwijnde metaaldraad 0.3mm"** op tanden gekleefd
+
+        -   **"Lab-vervaardigde kunsthars overkappingssplint"**:CAVE: afdrukname
+
+    -   ***Rigide spalken***:
+
+        -   "**Traumasplint**": halfronde boogspalk van \# mm breed met zuur-ets=\> gefixeerd op vestibulair vlak tanden=\> MOETEN 2 GEZONDE tanden aan elke zijde letsel!
+
+        -   "**Zuuretstechniek mét inclusie van approximale vlakken**":=\> (+) is rigide, MAAR (-) niet goed want composiet moeilijk te verwijderen & reinigen wordt moeilijk!
+
+        -   "**Zuur-ets-spalk**" met gebogen **metaaldraad 0.5mm** & dikker
+
+    -   Toepassing:
+
+        -   *Semi-rigide spalkfixatie:*
+
+            -   Avulsie zonder alveolaire breuk: 2 -- 3w semi-rigide
+
+            -   Subluxatie met mobiliteit van element: 2 -- 3w semi-rigide
+
+            -   Laterale luxatie: 6w (meestal fract proc alv)
+
+        -   *Rigide spalkfixatie*
+
+            -   Tandwortelfractuur: 12 w rigide fixatie
+
+            -   Fractuur processus alveolaris BOVEN wortelniveau: 6 w rigide fixatie
+
+            -   Avulsie met schade aan alveole: 3 -- 6w rigide fixatie
+
+## Onderkaaksfracturen
+
+-   Voorkomen:
+
+    -   Geïsoleerd -- combinatie met Maxilla/zygoma/schedel/cervicaal
+
+    -   Tgv verkeersongeval/vuistslag/sportongeval/extractie WHT
+
+-   Anatomische bijzonderheden:
+
+    -   Gesloten ring mandibula + schedelbasis=\> meestal dubbele fractuur
+
+    -   Loci minores resistentiae:
+
+        -   Subcondylaire streek: slag op kin
+
+        -   Angulus mandibulae: ingesloten WHT
+
+        -   Symfyse: slag op kaakhoek
+
+    -   OPG & CBCT
+
+    -   Aanhechting kauwspieren!
+
+        -   **Subcondylair fractuur**=\> M. Pterygoideus lateralis verplaatst condyl naar medioventraal=\> M. Pterygoideus medialis & Masseter verplaatst ramus asc. Naar boven
+
+        -   **Bilaterale paramediane fractuur**=\> M. Digastricus & tongspieren verplaatsen mediaan fragm naar dorsaal=\> tong valt naar achter: **X** AH!!!
+
+        -   **Fractuur molaarstreek**: ONGUNSTIG als schuin distaal onder naar mesiaal=\> M. Pterygoideus medialis & Masseter: trekt dorsale deel naar boven=\> M. Digastricus & tongspieren verplaatsen mediaan deel naar onder
+
+        -   **Fractuur molaarstreek**: GUNSTIG als distaal boven naar mesiaal onder=\> werkt spiertractie tegen!
+
+```{=html}
+<!-- -->
+```
+-   4 groepen spieren:
+
+    -   **Retractorgroep**
+
+        -   Diepe masseter -- Achterste temporalisbundel.
+
+    -   **Protrusorgroep**
+
+        -   Masseter -- Pterygoideus medialis -- Voorste temporalisbundel
+
+    -   **Elevatorgroep**
+
+        -   Masseter -- Pterygoideus Medialis -- Voorste temporalisbundel
+
+    -   **Depressorgroep**
+
+        -   Geniohyoïdeus -- Digastricus -- Mylohyoïdeus
+
+-   Symptomen & klinische vormen
+
+    -   ***Fracturen binnen de tandenrij***:
+
+        -   WAT? Fractuur mesiaal & distaal omgeven door tanden
+
+        -   CAVE: edentate patiënten =\> zelfde symptomen, doch andere R/:
+
+        -   Symptomen:
+
+            -   Stoornis tandocclusie
+
+            -   Trapvorm: vnl thv Crista te voelen (minder onderrand door (+) weefsel)
+
+            -   Scheuren gingiva OP breuklijn, want slijmvlies verbonden aan periost
+
+            -   Anesthesie  N. Mentalis bij fractuur tussen M3 en PM1.
+
+            -   Abnormale beweeglijkheid 2 fragmenten
+
+        -   Radiologie:
+
+            -   Schuine fractuur symfyse: delen iets over elkaar geschoven=\> tandenboog lichtjes versmalt=\> enkel op CBCT / CT te zien!
+
+            -   Tandeloze monden: lateraal héél dun tgv atrofie processus alveolaris =\> kan naar pseudartrose gaan!
+
+    -   ***Fracturen van de kaakhoek & ramus ascendens***:
+
+        -   Fractuur processus coronoïdeus: ZZ!!!!
+
+            -   Weinig problemen
+
+            -   CAVE: vergroeiing met Zygoma!
+
+            -   CAVE: stressfractuur na dragen van **mandibulaire repositieapp**.(houden mandibula naar ventraal)=\>M. Temporalis kan osteolyse veroorzaken thv coronoïd!
+
+        -   CAVE: geen tanden dorsaal van breuklijn =\> moeilijkere fixatie!=\> PSOS!
+
+        -   (+) beperkte verplaatsing owv fixatie breuk in spiermassa!=\> enkel radiologisch te zien!
+
+    -   ***Condylus- en collumfracturen***:
+
+        -   Tgv val/slag op kin: meestal 1 subcondylaire fract & heterolat fract corpus
+
+        -   Kan fractuur MET of ZONDER luxatie
+
+            -   Luxatie =\> naar mediaal
+
+            -   Zz: naar dorsaal =\> scheur & bloeding gehoorgang
+
+            -   Zz: naar craniaal =\> doorheen schedelbasis
+
+        -   Indeling van niveau fractuur
+
+            -   Condylaire -- Intracapsulaire fracturen: zz
+
+                -   Caputfractuur: kans op **necrose**
+
+            -   Collum -- Extracapsulaire fracturen
+
+                -   Breuklijn EXTRACAPSULAIR
+
+                -   Breuklijn ONDER aanhechting **M. Pterygoideus lateralis**
+
+                -   (+): geen necrose, pterygoideus lateralis blijft bevloeien!
+
+            -   Basisfractuur, daalt schuin af naar incisura semilunaris.
+
+        -   Kliniek: (vaak zéér mild)
+
+            -   Behoorlijke openings- & sluitingsmogelijkheid van mond
+
+            -   Zéér minimale uitwendige zwelling
+
+            -   (!)(!) occlusiestoornis (!)(!)
+
+                -   Bilaterale collumfractuur:=\> **Frontaal open beet**
+
+                -   Eénzijdig collumfractuur:=\> Verplaatsing **middellijn naar aangetaste zijde**=\> **Heterolaterale zijde open beet** (nabij hoektand)
+
+                -   Caput sterk naar mediaal verplaatst=\> kan compressie N. Mandibularis: sensib tong/lip/wang
+
+            -   Palpatie caput: vinger in gehoorgang + duim boven gewricht
+
+        -   Radiologie:
+
+            -   OPG is ONVOLDOENDE!=\> doe CBCT/CT
+
+    -   ***Paradefractuur***:
+
+        -   HOE?
+
+            -   Slag recht op kin=\> symfysefractuur EN bilaterale condylusfractuur"Guardsman fracture" = "paradefractuur"
+
+        -   Kliniek:
+
+            -   Bilaterale condylusfractuurMET VERPLAATSINGMET VERBREDING van gelaatsbreedteMET VERLIES voor-achterwaartse dimensie.
+
+        -   R/:
+
+            -   Condyli in fossa plaatsen met discus articularis=\> via kaakhoek & pre-auriculair=\> fixatie discus mbv MITEK-anker/jugger knot procedure
+
+            -   Symfysisfractuur vestibulair & linguaal op elkaar aansluiten=\> mbv reconstructieplaat(veel krachten die hierop inwerken!!!)
+
+        -   CAVE:
+
+            -   Zéér moeilijk te R/: zéker als fractuur genezen is in foute positie.
+
+            -   Mbv osteotomie klasse II + Open beet corrigeren=\> dmv inverted L-procedure met verlaging foramen mandibulare
+
+            -   Laatste optie: Resectie beide rami ascendens boven foramen mand. & verwijderen beide processi coronoïdei& verwijderen beide processi condylares& verwijderen beide disci met kapsel=\> vervangen door alloprothese!
+
+### Behandeling
+
+-   **Fracturen binnen de tandenrij**:
+
+    -   **GEEN R/:**
+
+        -   (+): slechts barst, géén verplaatsing, nle occlusie=\> 6 weken malse voeding
+
+-   **Conservatie R/: spalken tanden IMF** = **CR** (closed reduction)
+
+    -   Indicatie:
+
+        -   (+): niet-verplaatste fracturen
+
+        -   (+): verbrijzelde/multifragmentaire breuken
+
+        -   (+): belangrijk verlies weke delen
+
+        -   (+): edentate kaken
+
+        -   (+): kids met dentitie in volle ontwikkeling
+
+        -   (+): fracturen processus coronoideus/condylusfracturen
+
+    -   Beperkingen:
+
+        -   (-) IMF =\> 6 weken, gewichts¯, perm mondopeningsbep.
+
+        -   (-) onnauwkeurige repositie
+
+        -   (+)(+) MAAR geen iatrogene sensib-stoornissen!
+
+    -   *Externe skeletale pinfixatie* 
+
+        -   (+): vermijdt stripping periost, sterk verbrijzelde fracturen, continuïteitsdefecten, edentate patiënten, extreme atrofie OK.
+
+    -   \# methoden van IMF voor uitvoeren gesloten reductie:
+
+        -   **Remaniumdraden**/**Metaaldraden**:
+
+            -   Eye-lets
+
+            -   Stout- of Obwegeser ligaturen
+
+            -   Draad-acryl splint volgens Schuchardt
+
+        -   **Spalken**:
+
+            -   Industriële spalken (Ehrich)
+
+            -   Custom-made
+
+        -   **Orthodontische bogen**:
+
+        -   **Capsplints**:
+
+        -   **Prothese van patiënt**:
+
+            -   Fixatie met ophangingsdraden paranasaal & perizygomatisch in BK
+
+            -   Fixatie circumferentieel rond OK
+
+            -   Gefixeerd met schroeven in bot
+
+        -   **Gunning splints**:= Speciaal vervaardigde prothese voor edentate kaak=\> zo fixatie!
+
+            -   OK: bevestigen door cerclage-draden rond mandibula
+
+            -   BK: fixatie aan zygoma/apertura piriformis/orbitarand
+
+-   **Chirurgie met PSOS/Trekschroeven** = **ORIF** (open reduction & intern fixatie)
+
+    -   Indicatie:
+
+        -   IMF mag/kan niet (edentate BK)
+
+        -   Uitgestelde fractuurR/:
+
+        -   Slechte voorgaande heling van breuk
+
+        -   Sterk verplaatste botfragmenten/Ongunstige fracturen
+
+        -   Multipele aangezichtsbreuken
+
+    -   Beperkingen:
+
+        -   Zenuwschade (R. Marginalis N. facialis bij uitwendige inc/NAI)
+
+        -    (-) meestal 2^e^ ingreep voor verwijderen PSOS
+
+    -   (+):
+
+        -   Onmiddellijk normale kauwfunctie
+
+    -   CAVE:
+
+        -   Draadosteosynthese is volledig verlaten
+
+        -   PSOS:=\> Microplates/Miniplates/Fractureplates/Reconstruct plates
+
+        -   Trekschroef-osteosynthese.
+
+        -   Mono- of bicorticaal:
+
+            -   **Miniplates**: monocorticaal
+
+            -   **Compressie-osteosynthese**: bicorticaal
+
+            -   **Reconstructieplaten**: bicorticaal
+
+        -   Schroeven:
+
+            -   **Miniplates**:
+
+                -   Monocorticaal 5 à 7mm loodrecht inboren
+
+                -   Mét koeling, Géén overtorque
+
+                -   Minimum 2 aan elke zijde
+
+            -   **Compressieplaten**:
+
+                -   Vastschroeven van bicorticale schroeven=\> verkleint fractuurdiastase door compressie=\> tgv design plaat
+
+            -   **Reconstructieplaten**:  mbv LOCK-schroeven
+
+                -   Schroefgat & schroef hebben schroefdraad!=\> plaat stabiliseert EN draagt ALLE KRACHTEN= "**Load-bearing plate**" ó "**Load-sharing plate"** = bot tegen plaat aanduwen =\> bot EN plaat SHAREN krachten
+
+    -   Atrofe mandibula:
+
+        -   Autogeen bottransplant rond breuk: heupkamgreffe
+
+    -   Tand in breuklijn:
+
+        -   Bron van infectie: verhindert callusvorming=\> Extractie??? ó AB???
+
+        -   Afhankelijk van:
+
+            -   Nut tand: esthetisch/functioneel/fix fract
+
+            -   Toestand tand/parodontium
+
+            -   ALTIJD VERWIJDEREN: apicale infectie/luxatie/wortelfractuur/parodontitis.
+
+-   **Fracturen van de kaakhoek & ramus ascendens**:
+
+    -   Weinig problemen
+
+    -   Als radiologisch géén verplaatsing: IMF
+
+    -   Als radiologisch wél verplaatsing: ORIF
+
+    -   Fractuur processus coronoideus:meestal conservatiefMAAR: als mondopeningsbeperking: coronoïdectomie.
+
+-   **Condylus & collumfracturen**
+
+    -   (!)(!) als **GOEDE OCCLUSIE** (!)(!)=\> voorkeur conservatief: IMF 3 weken (niet-rigide met elastieken)=\> soms + beetverhoging thv MOLAREN **(!)(!)** (**hypomochlion**) **(!)(!)**( geeft verlenging van R. Ascendens) & betere stand van fractuur=\> hoe méér chirurgie, hoe méér kans op caput-necrose/posttraumatishe artritis/ankylose.
+
+    -   (!)(!) als **GEEN goede OCCLUSIE** (!)(!) of **LAGE SUBCONDYLAIRE FRACTUREN**=\> chirurgie
+
+    -   (!)(!) **KIDS** (!)(!)=\> conservatief & **activator-therapie**door orthodontist bij verplaatst condylfractuur. Min 1 jaar occlusie in end-to-end houden mbv activator.
+
+-   Verwikkelingen
+
+    -   **Vertraagde callusvorming** & **pseudartrose**
+
+        -   Nl: Genezing OK-fractuur na 6 weken.
+
+        -   \>6w nog lichte mobiliteit: vertraagde callusvorming
+
+        -   \>12w nog lichte mobiliteit: pseudartrose
+
+        -   Oorzaak:
+
+            -   Slechte repositie -- Onvoldoende immobilisatie -- infectie --laattijdige R/: -- tanden in fractuurhaard -- ethylisme -- cyste -- tumor -- fibreuze dysplasie -- radiotherapie -- leeftijd -- ...
+
+        -   Oude patiënten: resorptie processus alveolaris
+
+            -   Decorticatie van botfragmenten & PSOS & transplantatie autogeen spongieus bot rond breuk
+
+        -   CONSOLIDATIE:
+
+            -   = toestand bereikt waarin géén verandering meer te verwachten valt(vnl juridisch
+
+    -   **Infectie** en **osteomyelitis**
+
+        -   Oorzaak:
+
+            -   Open fractuur -- moeilijke mondhygiëne -- hematoom rond fractuur -- tanden in breuklijn -- multifragmentair -- Corpora Aliena
+
+        -   Verloop:
+
+            -   Meestal infectie =\> abces=\> zz uiteindelijk naar osteomyelitis
+
+    -   **Zenuwverwikkelingen**
+
+        -   Anesthesie van N. Mentalis is frequent bij breuk in tand dragend deel OK.
+
+        -   Verloop:
+
+            -   Meestal spontaan herstel
+
+            -   Zz: neuropathische pijn als zenuw in fractuur geplet
+
+    -   **Articulaire verwikkelingen**
+
+        -   Condylaire fracturen =\> artrose
+
+        -   Intracapsulaire/sterk verplaatste subcondylaire fracturen =\> ankylose=\> zorg voor vroegtijdige mobilisatie.=\> IMF met elastieken
+
+        -   Fractuur processus coronoideus =\> ankylose met zygoma.
+
+    -   **Groeistoornis** van het gelaat
+
+        -   Eenzijdig of bilaterale condylusfracturen Mét verplaatsing bij JONG kind=\> Groeistoornis gelaat.
+
+    -   **Iatrogene letsels** tgv de behandeling
+
+        -   Sensibiliteitsstoornissen
+
+        -   Tandschade
+
+        -   Slechte repositie met blijvende malocclusie
+
+## Bovenkaaksfracturen
+
+-   Voorkomen & anatomische bijzonderheden
+
+    -   Minder frequent ivm OK
+
+    -   Bij zware verkeersongevallen =\> nu \# tgv veiligheidsgordel.
+
+    -   Geïsoleerd OF met zygoma
+
+    -   Veel luchtholten: sinus maxillaris/ethmoïdalis -- neus -- orbita.
+
+    -   2 steunpijlers:
+
+        -   **Mediaal**: rand apertura piriformis -- processus frontalis max -- neusbot
+
+        -   **Lateraal**: proc zygomaticus max -- zygoma -- processus zygom ossis front
+
+    -   Kauwvlak van tanden: **15° met schedelbasis**=\>Frontaal inwerkende kracht =\> faciaal complex schuift schuin onder schedelbasis.=\> Geeft open beet.
+
+-   Vormen & symptomen
+
+-   **Le Fort I** = **Lage transversale fractuur** (**fractuur van Guérin**)
+
+    -   Bodem apertura piriformis=\> bodem sinus maxillaris=\> evt + processus pterygoideus.
+
+    -   Tandocclusie is frequent (NIET ALTIJD) gestoord
+
+    -   Maxilla kan in blok bewogen worden=\> grote verplaatsing: Kl III malocclusie of open beet
+
+    -   Als neusmucosa is ingescheurd =\> onderste neusgang vol bloed.
+
+-   **Le Fort II** = p**iramidale fractuur**
+
+    -   Neusbasis onder sutura frontonasalis=\> Os lacrimale=\> Mediaal 1/3 van infra-orbitale rand=\> Voorwand sinus maxillaris=\> Onderrand processus zygomaticus=\> Loopt uit doorheen processus pterygoideus
+
+    -   Kliniek:
+
+        -   Brilhematoom (onderste conjunctiva ook!!!)
+
+        -   Snel zwelling =\> maskeert "dish-face"
+
+        -   Trapvorming van infra-orbitale rand
+
+        -   Anesthesie N. Infraorbitalis (vaak tijdelijk door zwelling)
+
+        -   Bewegen van Maxilla =\> neus beweegt mee!CAVE: voorzichtig =\> lethale bloeding!
+
+        -   Lek CSV: liquorree
+
+        -   ZENUWLETSEL: N. Abducens (N. VI)
+
+        -   Intra-oraal:
+
+            -   Onregelmatigheid in vestibulaire omslagplooi boven molaren
+
+            -   Mucosa voelt fluweelachtig aan door onderliggende ecchymose
+
+            -   Occlusiestoornis: frontaal open beet/klasse III malocclusie
+
+-   **Le Fort III** = **craniofaciale disjunctiefractuur**
+
+    -   Volledig losstaan van maxillair complex van schedel
+
+    -   Net onder sutura frontonasalis/frontomaxillaris=\> Doorheen orbita=\> Mediale rand fissura orbitalis inferior=\> Net VOOR foramen opticum (N. Opticus is 99% intact!!!)=\> Laterale wand fissura orbitalis inferior=\> Naar superior naar sutura frontozygomatica=\> Dorsaal afrukken processi pterygoidei van os sfenoïdale=\> Breuklijn nabij sutura temporozygomatica
+
+    -   Cave: mediale wand orbita & lamina papyracea van os ethmoïdale is multifragmentair gebroken!
+
+    -   Kliniek:
+
+        -   Breuk lamina cribriformis =\> dura mater scheur =\> verlies CVS (neus)=\> twijfel? Glucosetest van neussecreet -- radio-isotopentest na LP
+
+        -   Anosmie
+
+        -   Impactie neusbasis ONDER os frontale: indeuking gelaatsmassief(maskering 1^ste^ dagen door zwelling)
+
+        -   Verbrijzeling naso-ethmoidaal complex: neusbasis verbreed= hypertelorisme
+
+        -   Brilhematoom (conjunctivale ecchymose meer naar boven)
+
+        -   Gestoorde occlusie: frontaal open beet
+
+        -   Indeuking van het faciaal skelet: "dished-in face"
+
+        -   ZENUWLETSEL: N. Abducens (N. VI):
+
+        -   Breuk fissura orbitalis superior:
+
+            -   Oftalmoplegie
+
+            -   Pupildilatatie
+
+            -   Anesthesie N. V1
+
+        -   Zz: blindheid
+
+    -   Radiologie:
+
+    -   CT vertex -- hyoïd in coupes van MAX 1mm
+
+    -   CAVE: soms + verticaal fractuur geassocieerd.
+
+-   R/:
+
+    -   Repositie & fixatie
+
+        -   Als impactie =\> repositie mbv **continue tractie** via headcap/headframe
+
+        -   Tractie mbv transcutane draden -- schroeven -- ...
+
+        -   Als OK & BK gebroken=\> eerst OK terugplaatsen=\> hierop BK positioneren.
+
+    -   Immobilisatie mbv:
+
+        -   **IMF**
+
+        -   **Uitwendige fixatie**:
+
+            -   Head-cap (plaasterhelm): mbv uitwendige staven met spalk op tanden dmv headframe =\> mbv schroeven IN schedeldak
+
+        -   **Interne suspensie**:
+
+            -   Maxilla opspannen aan schedel mbv metaalligaturen
+
+            -   Spalk op boven- & ondertanden=\> vastgehecht aan spina nasalis -- randen apertura piriformis -- processus zygomaticus van os frontale.
+
+        -   **Osteosynthese**:
+
+            -   PSOS
+
+            -   Als gecombineerde duraplastiek nodig=\> coronaire incisie: optimaal herstel.
+
+-   Verwikkelingen
+
+    -   **Bloeding**
+
+        -   A. Palatina (!)(!)
+
+        -   Neusbloeding!
+
+        -   Zz: A. Maxillaris interna =\> via embolisatie
+
+        -   Zz: Schedelbasis-arterie =\> immobilisatie, trepanatie
+
+-   **Fractuur naso-ethmoidaal complex**
+
+    -   Geeft hypertelorisme = telecanthus
+
+-   **Ruptuur traankanaal**
+
+    -   Epiphora: check doorgankelijkheid traankanalen
+
+-   **Fractuur sinus frontalis**
+
+    -   Kan buiten- en/of binnenwand zijn!=\> hersenweefsel In sinus
+
+    -   R/:Grondige curettage sinusslijmvlies+ opvullen sinus frontalis (spongieus bot/vetweefsel)+ afsluiten afvoergang naar neus.OFBehouden sinusslijmvlies maar + plaatsen drain naar neus(ter plekke 6 à 12 weken)
+
+-   **Meningitis**
+
+    -   Lek dura mater =\> afvloei CSV =\> Duraplastiek!
+
+    -   Schedelbasisfractuur: vaak als Le Fort I & II & III combo! (50%
+
+    -   Schedelbasisfractuur: Le Fort II (35%)
+
+    -   Schedelbasisfractuur: Le Fort III (10%)
+
+    -   Schedelbasisfractuur: Le Fort I (1%)
+
+    -   Kans op meningitis=\> onbehandeld CSV-lek: 25% na 1 jaar                (Wel R/: 4%)=\> onbehandeld CSV-lek: 85% na 10 jaar              (Wel R/: 7%)
+
+-   **Sinusitis**
+
+    -   Maxillafractuur =\> hemosinus =\> resorbeert spontaan
+
+    -   Necrotisch bot/corpora aliena =\> sinusitis
+
+-   **Anosmie**
+
+    -   Fractuur door lamina cribriformis =\> BLIJVENDE anosmie
+
+-   **Verkeerde stand**
+
+    -   Niet op tijd gereponeerd
+
+    -   R/: osteotomie
+
+-   **Zenuwuitval**
+
+    -   Anesthesie N. Infraorbitalis: ALTIJD bij Le Fort II
+
+    -   Zz: compressie van N. Opticus (N. II)
+
+-   **Oftalmologische problematiek**
+
+    -   Enoftalmie/exoftalmie/traumatisch opticusneuropathie/...
+
+    -   40% van midfaciale fracturen heeft ook oftalmologische problemen!
+
+## Sinusvoorwandfracturen
+
+-   Zéér frequent
+
+-   Meestal géén indicatie tot chirurgie
+
+-   WEL CHIRURGIE bij:
+
+    -   Hypo-esthesie N. Infra-orbitalis =\> na 1 week nog geen verbetering
+
+## Zygoma- en orbitafracturen
+
+-   Anatomische bemerkingen
+
+    -   Os zygomaticum: 3 pijlers!
+
+        -   **Processus frontalis**
+
+        -   **Processus zygomatico-orbitalis**
+
+        -   **Processus temporalis**         (=geeft arcus zygomaticus)
+
+            -   Arcus: doorgang M. Temporalis & processus coronoïdeus
+
+    -   Aditus orbitae: 4-hoekig
+
+        -   Mediale wand is zwakste(Cave: traankanaal/trochlea/M. Obliquus inferior)
+
+        -   Afrukking M. Obliquus superior: diplopie
+
+    -   M. Levator palpebrae
+
+        -   Origo: achteraan orbita-dak
+
+        -   Insertio: Tarsus superior
+
+        -   Innervatie: N. Occulomotorius (N. III)
+
+        -   CAVE: afzakking bovenste ooglid=\> scheur/vergroeiing M. Levator palpebraeOF=\> N. Occulomotorius-schade.
+
+    -   Lig. Palpebrale laterale & mediale.
+
+        -   Bij disjunctie sutura-frontozygomatica=\> ligamentum laterale verplaatst naar beneden=\> oogspleet zakt lateraalwaarts af (hypertelorisme)
+
+        -   Bij fractuur mediale oogrand/afrukking mediaal lig=\> ligamentum naar beneden.=\> mongoloïde aspect oogspleet
+
+        -   CAVE: hypertelorisme = ­ afstand canthi interni
+
+    -   Orbitarand (= Zéér stevig) versus wanden oogkas (= Zéér broos)
+
+        -   Caudale wand: broos
+
+        -   Mediale wand: broos (lamina papyracea)
+
+-   3 Foramina
+
+    -   **Foramen opticum**:
+
+        -   N. Opticus=\> Als foramen barst kan dit permanente blindheid veroorzaken
+
+        -   A. Ophtalmica
+
+        -   V. Ophtalmica
+
+        -   Aanhechting 4 musculi=\> Vormen bindweefselige schede: "**Anulus tendineus**"=\> Als hierin bloeding: compressie A en V =\> Blindheid!
+
+    -   **Fissura orbitalis superior**
+
+        -   N. V: N. Lacrimalis -- Frontalis -- Nasocilliaris
+
+        -   N. Occulomotorius
+
+        -   N. Trochlearis
+
+        -   N. Abducens
+
+        -   V. Ophtalmica superior
+
+    -   **Fissura orbitalis inferior**:
+
+        -   R. Zygomaticus N. V2.
+
+        -   Opstijgende takken Ganglion Pterygopalatina
+
+        -   N. Infraorbitalis
+
+        -   V. Ophtalmica inferior
+
+```{=html}
+<!-- -->
+```
+-   **Zygomafractuur**
+
+    -   Meest frequent: verplaatsing naar ONDER tov infra-orbitale rand=\> Nét mediaal van sutura zygomatico-maxillaris& uiteenrukken (disjunctie) van sutura zygomatico-frontalis.
+
+    -   Kliniek:
+
+        -   Palpebrale ecchymose (monocle-ecchymose / periorbitaal hematoom)
+
+        -   Oedeem/zwelling =\>indeuking te zien!
+
+        -   Anesthesie N. Infraorbitalis =\> meestal voorbijgaand!
+
+        -   Mondopeningsbeperking: hinder Processus Coronoideus tegen zygoma
+
+        -   Epistaxis
+
+        -   Freq: oogsymptomen:
+
+            -   Zakking van oog
+
+            -   ¯ blikrichting naar boven (inklemming M. Rectus inferior)
+
+            -   Enoftalmie (als ooginhoud door sinus maxillaris)
+
+            -   Lagere stand pupil
+
+            -   Diplopie
+
+    -   Klinisch onderzoek:
+
+        -   Palpeer infra-orbitale rand =\> Trapstand thv Crista infrazygomatica(sutura frontozygomatica is moeilijker te voelen)
+
+        -   Periorbitaal emfyseem (uit sinus maxillaris -- OF -- sinus ethmoïdalis: med orbitawand)
+
+        -   Occlusie gestoord?
+
+        -   Oogkasinhoud: uitzakking in sinus maxillaris?
+
+    -   Radiologisch onderzoek:
+
+        -   CT:
+
+            -   Infra-orbitale rand
+
+            -   Laterale rand: disjunctie sutura frontozygomatica
+
+            -   Overgang zygoma =\> Maxilla
+
+            -   Zygoma zelf
+
+-   **Blow-out fractuur**:
+
+    -   Bij STOMP geweld op orbita: kracht naar alle richtingen
+
+    -   Orbitabodem breekt ZONDER fractuur orbita-rand
+
+    -   Mediale wand (lamina papyracea) breekt zonder orbita-rand fractuur
+
+    -   Kliniek:
+
+        -   Enoftalmie   =\> vaak pas in 2^e^ tijd! (verdoezeld door oedeem)
+
+        -   ¯ opwaartse blik: inklemming M. Rectus inferior
+
+        -   Diplopie
+
+        -   Anesthesie N. Infraorbitalis (!)(!) (loopt IN bodem orbita)
+
+        -   Emfyseem oogleden
+
+        -   Periorbitale ecchymose
+
+        -   Subconjunctivale bloeding
+
+    -   RADIOLOGIE:
+
+        -   CT: inzakking orbita-inhoud IN sinus maxillaris
+
+    -   R/:
+
+        -   Snuitverbod =\> vermijdt emfyseem in orbita
+
+-   **Jukboogfractuur** = **fractuur arcus zygomaticus**
+
+    -   HOE?
+
+        -   Kan + zyogmafractuur
+
+        -   Kan geïsoleerd
+
+    -   Klinisch onderzoek:
+
+        -   Palpatie: indeuking te voelen li ó re
+
+        -   Als grote indeuking=\> Processus coronoïdeus TEGEN arcus=\> Beperkte mondopening
+
+            -   R/: VROEGTIJDIG door fractuur te reduceren
+
+            -   R/: LAATTIJDIG door transorale coronoïdectomie
+
+    -   R/:
+
+        -   CT
+
+-   **Fractuur laterale orbitarand mét losrukken van lateraal ligament**
+
+    -   Klinisch onderzoek:
+
+        -   Zakking latero-caudale ooghoek
+
+        -   = "Antimongoloïd uitzicht"
+
+    -   R/:
+
+        -   Als ligament nog aan bot bevestigd is        =\> stabiele repositie
+
+        -   Als ligament losgerukt is                            =\> fixeer aan bot
+
+-   **Fractuur mediale orbitarand**
+
+    -   3 (!)(!) risico's:
+
+        -   **Beschadiging traankanaal**
+
+        -   **Afrukking ligamentum palpebrale mediale**
+
+        -   **Afrukking trochlea bovenste ooghoek**MET **functiestoornis M. Obliquus superior**
+
+    -   Afrukking palpebraal ligament OF verplaatsing botfragment=\> oogspleet naar lateraal:  Hypertelorisme=\> oogspleet naar onder:    Mongoloïde uitzicht=\> R/: repositie bot/ligament
+
+    -   OFTALMOLOGISCH ONDERZOEK:
+
+        -   Doorgankelijkheid traankanaal=\> R/: herstel doorgankelijkheid OF vorm nieuw kanaal
+
+        -   Functie oogspieren (M. Obliquus superior)
+
+```{=html}
+<!-- -->
+```
+-   **Fractuur orbitadak**
+
+    -   Geeft OOK zakking van oog (door DRUK op oog!)
+
+    -   Cave: Hersenen puilen uit in orbita.
+
+-   (!) 5 types (!) Orbitale bloedingen
+
+    -   Ecchymose oogleden:
+
+        -   Bloeding ANTERIEUR van septum orbitale
+
+        -   Circumorbitale ecchymose (blauw oog) bij:
+
+            -   Zygomafractuur
+
+            -   Orbitafractuur
+
+            -   Le fort I & II fractuur
+
+    -   Subperiostale hematomen:
+
+    -   Bloeding posterieur aan septum orbitale MET subconjunctivale bloeding
+
+        -   Bij orbitafracturen
+
+    -   Bloeding binnen spierconus:
+
+    -   Intracraniale bloeding die uitbreidt NAAR fissura orbitalis superior
+
+-   R/: Zygomafracturen:
+
+    -   Repositie mbv ééntands beenhaak
+
+        -   Gaat door huid -- onder jukbeen
+
+        -   (+) zéér kleine insteekwonde
+
+    -   Temporale toegangsweg volgens Gillis:
+
+        -   Fascia temporalis: hecht aan BOVENAAN jukboog=\> Incisie temporaal: MAX 1,5cm=\> Breng elevator onder fascia in=\> Schuif door tot onder jukbeen=\> (+) arcus-fracturen
+
+```{=html}
+<!-- -->
+```
+-   Intra-orale toegangsweg:
+
+    -   Via vestibulaire omslagplooi
+
+-   Via sinus maxillaris:
+
+    -   Orbita-bodemfractuur endoscopisch R/:
+
+## Weke delen laceraties
+
+-   Parotisregio 
+
+    -   Letsel ductus Stensen
+
+    -   Letsel N. Facialis
+
+-   Scalpwonden:
+
+    -   Bloedverlies!
+
+-   Bijtwonden door dieren
+
+    -   ALTIJD "vuile wonden"
+
+-   Verwondingen ooghoeken
+
+    -   Letsel traankanalen
+
+-   Laceraties lip/vermilion
+
+    -   Aligneer lippenrood EXACT
+
+    -   Hecht spierlagen aan elkaar
+
+-   Hematoom van Pinna van oor/neusseptum
+
+    -   Draineer hematoom=\> NECROSE KRAAKBEEN!!!

@@ -1,0 +1,123 @@
+# Oncologie
+
+## Management van de N0 nek
+
+### Achtergrond
+
+-   Incidentie: 275.000/jaar
+
+-   40-50% presenteert in stadium I-II
+
+-   Oculte metastases bij 20-40%
+
+-   Lymfekliermeta is meest bepalend voor prognose met tot 50% daling van de survival rate bij N1
+
+-   Indicatie voor electieve nekdissectie (END)
+
+    -   Invasie van 2 of meer lymfeklieren
+
+    -   Kapseldoorbraak
+
+-   Een kleine T1 tumor in de anterieure mondbodem die naar bilaterale hals metastaseert is gelijk aan stadium IVa met expected 5Y-OS van 34%
+
+-   Wat kan je doen met de nek?
+
+    -   Upfront electieve nekdissectie
+
+    -   Watch & wait
+
+    -   Sentinel node biopsie
+
+![Gelateraliseerde tumoren (buccaal, gingivaal, retromolair en maxillair) metastaseren eerst in de ipsilaterale levels I en IIa. Hoe meer anterieur de tumor gelegen is hoe hoger de kans op Ia-betrokkenheid. Hoe meer posterieur de tumor gelegen is, hoe hoger de kans op IIa betrokkenheid. Bij buccale tumoren is er kans op metastase in de faciale lymfeklier.](https://i2.wp.com/omfs.academy/wp-content/uploads/2020/08/image.png?resize=1024%252C291&ssl=1)
+
+![Tong OSCC metastaseren voornamelijk naar I en II. 6-12% metastaseert naar contralateraal of bilateraal. Hoe meer naar posterieur gelegen, hoe hoger kans op IIa en contralaterale betrokkenheid.](https://i1.wp.com/omfs.academy/wp-content/uploads/2020/08/image-1.png?resize=1024%252C468&ssl=1)
+
+![![](https://i0.wp.com/omfs.academy/wp-content/uploads/2020/08/image-2.png?resize=1024%252C432&ssl=1)](https://i0.wp.com/omfs.academy/wp-content/uploads/2020/08/image-2.png?resize=1024%252C432&ssl=1)
+
+![![](https://i1.wp.com/omfs.academy/wp-content/uploads/2020/08/image-3.png?resize=1024%252C454&ssl=1)](https://i1.wp.com/omfs.academy/wp-content/uploads/2020/08/image-3.png?resize=1024%252C454&ssl=1)
+
+-   In de meerderheid van de gevallen is level IV betrokken enkel wanneer de andere levels positief zijn.
+
+-   Bij een klinische N0 is level IV positief bij 3-15%. Echte "skip metastases" werden in 5% aangetoond.
+
+-   Level V is bij een cN0 in \< 1% positief
+
+-   Ondertussen toonden enkele landmark studies dat electieve nekdissectie zelfs bij kleine T1N0 een overlevingsvoordeel oplevert. Zie tabel.
+
+![Prospective Randomised Trials and Meta-Analyses on END vs Observation](https://i0.wp.com/omfs.academy/wp-content/uploads/2020/08/image-4.png?resize=613%252C438&ssl=1)
+
+### Sentinel node biopsie (SNB)
+
+-   Injectie van nanocolloid gelabeld 99m technetium op plaats van tumor met nadien lymphoscintigrafie + SPECT/CT. Intraoperatief op te sporen door gebruik van blauwe inkt, fluorescentie-technieken, gamma-probe
+
+-   De eerste klier = echolon node
+
+-   Indien de echolonklier positief is, moet een electieve nekdissectie volgen
+
+-   Vals negatieve ratio: 5-27%
+
+-   De accuraatheid hangt af van de localisatie van de tumor
+
+    -   Mondvloertumoren vertonen een hogere valsnegatieve waarde bij SNB tot 25%
+
+    -   Weinig tot geen evidentie bij maxillaire tumoren en bovendien een hoog recidief risico op recidief in de contralaterale nek (tot 45%)
+
+-   Mogelijks nuttig bij midline tumoren om betrokkenheid van contralaterale/bilaterale na te gaan 
+
+-   Mogelijks ook nuttig in reeds behandelde nekken waar lymfedrainage gewijzigd is
+
+-   Het toepassen van SNB zorgt voor een "upgrade" van de nekstatus bij 9-38% van patiënten en dus noodzaak tot END
+
+    -   Na nekdissectie is er nogmaals een upgrade in nekstatus (naar pN2 of pN3) bij 20% 
+
+-   SNB zou kost-effectief zijn in SNB-negatieve patiënten maar bij positieve SNB stijgen de kosten aanzienlijk
+
+    -   Dus wellicht enkel nuttig in de echte pN0 cases en niet bij N+ patiënten gezien geen therapeutische consequenties + mogelijks 2x ingreep nodig.
+
+### Invasiediepte -- tumordikte
+
+Deze termen zijn niet synoniem.
+
+-   Tumordikte: verticale dimensie van diepste punt van invasie tot mucosale oppervlakte
+
+-   Invasiediepte (depth of invasion/DOI): afstand van diepste punt van invasie tot de basale membraan van meest normale aanliggende mucosa
+
+    -   DOI zou een betere predictor zijn voor penetratie/invasie potentieel
+
+Dit separeert de "dikke" exofytische tumoren" van "endofytische" geulcereerde tumoren
+
+-   Zodra *tumordikte* bij een mondbodemca \> 1.5 mm stijgt risico op N+ boven 20%
+
+-   Zodra *tumordikte* bij alle andere orale ca \> 4-5 mm stijgt risico op N+ boven 20%
+
+Dit werd ook geïmplementeerd in laatste TNM classificatie (8e editie): 
+
+-   DOI van 5 mm of meer = T2
+
+-   DOI van 10 mm of meer = T3
+
+-   =\> Dit is ongeacht van de maximum diameter!
+
+### Management
+
+Een upfront electieve nekdissectie wordt aangeraden en heeft volgende voordelen:
+
+-   Accurate staging
+
+-   Locoregionale controle
+
+-   Adjuvante behandelingsplanning: correct en op tijd
+
+Sentinel node biopsie kan in selectieve gevallen nuttig zijn:
+
+-   Dunne tong-, alveolaire-, buccale tumoren (DOI \< 2 mm)
+
+-   Histologisch weinig agressieve tumoren van 2-4 mm DOI
+
+-   Het wordt AFGERADEN bij mondbodem tumoren (hoog valsnegatief)
+
+Mondbodem tumoren worden best als een separate entiteit beschouwd wegens hoog risico op recidief: overweeg bilaterale nekdissectie
+
+DOI kan niet steeds betrouwbaar worden bepaald pre-operatief. Dus steeds andere klinische, histologische en radiografische parameters mee in overweging nemen met laagdrempeligheid tot END.
+
+Samenvatting van: Vassiliou LV, Acero J, Gulati A, Hölzle F, Hutchison IL, Prabhu S, TestelinS, Wolff K-D, Kalavrezos N, EACMFS Head & Neck Oncology Group, Acero J, Gulati A, Hölzle F,Prabhu S, Testelin S, Wolff K-D, Kalavrezos N, Management of the clinically N0 neck in early-stageOral Squamous Cell Carcinoma (OSCC). An EACMFS Position Paper∗, Journal of Cranio-MaxillofacialSurgery, <https://doi.org/10.1016/j.jcms.2020.06.004.>
