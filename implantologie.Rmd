@@ -1,8 +1,10 @@
 # Implantologie
 
-# Varia
+## Nog aan te vullen
 
-## Doorbuigsterktes van dentaal keramiek
+## Varia
+
+### Doorbuigsterktes van dentaal keramiek
 
 -   Versterkt veldspaatporselein: 90 (opbakporselein) /120 (CADCAM blok) MPa 
 
@@ -38,7 +40,7 @@
 
     -   Zicrona-versterkt lithium-disilicaat glaskeramiek (Celtra Duo, Denstply Suprinity, Vita): 370
 
-## Indicaties van dentaal keramiek
+### Indicaties van dentaal keramiek
 
 -   Versterkt veldspaatporselein: enkel partiële kroonrestauratie
 
@@ -62,9 +64,9 @@
 
     -   Zirconia-versterkt lithium-disilicaat glaskeramiek: maximaal solitaire posterior kroon (maximaal 3-unit brug mete vervanging van fronttand/premolaar)
 
-## Richtlijnen voor het cementeren van keramische restauraties
+### Richtlijnen voor het cementeren van keramische restauraties
 
-### Glas-rijk en etsbaar keramiek
+#### Glas-rijk en etsbaar keramiek
 
 -   Veldspaatporselein
 
@@ -92,7 +94,7 @@
 
 **Algemene regel betreffende uitharden van het adhesief:**Adhesief **altijd** uitharden op de tand (vooraf goed uitdunnen) ter stabilisatie van het hechtvlak, adhesief **nooit** uitharden op de restauratie (pas restauratie)Uitzondering: niet uitharden op de tand bij porselein veneers
 
-### Glas-arm, niet-etsbaar keramiek 
+#### Glas-arm, niet-etsbaar keramiek 
 
 -   Dens-geïnfiltreerd keramische basiskap (InCeram)
 
@@ -119,12 +121,12 @@ Zirconia kan heden best gekleefd (ACTIEF) gecemteerd worden als volgt:
 
 -   Cementeren met dual-cure composietcement (vb Panavia V5)
 
-### Hybriede keramische CAD-CAM blokken
+#### Hybriede keramische CAD-CAM blokken
 
 Voorbeeld: Vita Enamic\
 **ACTIEF** cementeren, **ALTIJD** m.b.v. composietcement volgens de procedure van "glas-rijk" en etsbaar keramiek.Indicatie: maximaal solitaire posterior kroon
 
-### Composiet CAD-CAM blokken
+#### Composiet CAD-CAM blokken
 
 Voorbeeld: Cerasmart, Lava UltimateIndicatie: partiële kroonrestauratie (eventueel solitaire front/posterior kroon)\
 **ACTIEF** cementeren, **ALTIJD** m.b.v. composietcement volgens de procedure:
