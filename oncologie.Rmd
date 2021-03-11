@@ -265,13 +265,13 @@ Carcinoom van de orale caviteit
 
     -   Sentinel node biopsie
 
-![Gelateraliseerde tumoren (buccaal, gingivaal, retromolair en maxillair) metastaseren eerst in de ipsilaterale levels I en IIa. Hoe meer anterieur de tumor gelegen is hoe hoger de kans op Ia-betrokkenheid. Hoe meer posterieur de tumor gelegen is, hoe hoger de kans op IIa betrokkenheid. Bij buccale tumoren is er kans op metastase in de faciale lymfeklier.](https://i2.wp.com/omfs.academy/wp-content/uploads/2020/08/image.png?resize=1024%252C291&ssl=1)
+![Gelateraliseerde tumoren (buccaal, gingivaal, retromolair en maxillair) metastaseren eerst in de ipsilaterale levels I en IIa. Hoe meer anterieur de tumor gelegen is hoe hoger de kans op Ia-betrokkenheid. Hoe meer posterieur de tumor gelegen is, hoe hoger de kans op IIa betrokkenheid. Bij buccale tumoren is er kans op metastase in de faciale lymfeklier.](https://i2.wp.com/omfs.academy/wp-content/uploads/2020/08/image.png?resize=1024%252C291&ssl=1){width="500"}
 
-![Tong OSCC metastaseren voornamelijk naar I en II. 6-12% metastaseert naar contralateraal of bilateraal. Hoe meer naar posterieur gelegen, hoe hoger kans op IIa en contralaterale betrokkenheid.](https://i1.wp.com/omfs.academy/wp-content/uploads/2020/08/image-1.png?resize=1024%252C468&ssl=1)
+![Tong OSCC metastaseren voornamelijk naar I en II. 6-12% metastaseert naar contralateraal of bilateraal. Hoe meer naar posterieur gelegen, hoe hoger kans op IIa en contralaterale betrokkenheid.](https://i1.wp.com/omfs.academy/wp-content/uploads/2020/08/image-1.png?resize=1024%252C468&ssl=1){width="500"}
 
-![![](https://i0.wp.com/omfs.academy/wp-content/uploads/2020/08/image-2.png?resize=1024%252C432&ssl=1)](https://i0.wp.com/omfs.academy/wp-content/uploads/2020/08/image-2.png?resize=1024%252C432&ssl=1)
+![![](https://i0.wp.com/omfs.academy/wp-content/uploads/2020/08/image-2.png?resize=1024%252C432&ssl=1){width="500"}](https://i0.wp.com/omfs.academy/wp-content/uploads/2020/08/image-2.png?resize=1024%252C432&ssl=1){width="500"}
 
-![![](https://i1.wp.com/omfs.academy/wp-content/uploads/2020/08/image-3.png?resize=1024%252C454&ssl=1)](https://i1.wp.com/omfs.academy/wp-content/uploads/2020/08/image-3.png?resize=1024%252C454&ssl=1)
+![![](https://i1.wp.com/omfs.academy/wp-content/uploads/2020/08/image-3.png?resize=1024%252C454&ssl=1){width="500"}](https://i1.wp.com/omfs.academy/wp-content/uploads/2020/08/image-3.png?resize=1024%252C454&ssl=1){width="500"}
 
 -   In de meerderheid van de gevallen is level IV betrokken enkel wanneer de andere levels positief zijn.
 
@@ -281,7 +281,7 @@ Carcinoom van de orale caviteit
 
 -   Ondertussen toonden enkele landmark studies dat electieve nekdissectie zelfs bij kleine T1N0 een overlevingsvoordeel oplevert. Zie tabel.
 
-![Prospective Randomised Trials and Meta-Analyses on END vs Observation](https://i0.wp.com/omfs.academy/wp-content/uploads/2020/08/image-4.png?resize=613%252C438&ssl=1)
+![Prospective Randomised Trials and Meta-Analyses on END vs Observation](https://i0.wp.com/omfs.academy/wp-content/uploads/2020/08/image-4.png?resize=613%252C438&ssl=1){width="500"}
 
 ### Sentinel node biopsie (SNB)
 
