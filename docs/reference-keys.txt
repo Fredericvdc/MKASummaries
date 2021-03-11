@@ -163,6 +163,7 @@ liponixx
 primartic
 primaner
 primaril
+pea-ixx-plus
 tetanusvaccinatie-bij-wondes
 iv-sedatie
 academisering
@@ -255,6 +256,22 @@ glas-arm-niet-etsbaar-keramiek
 hybriede-keramische-cad-cam-blokken
 composiet-cad-cam-blokken
 oncologie
+tnm-8e-editie
+lip-oraal-spinocellulair-carcinoma
+t-klassering
+n-klassering-klinisch
+n-klassering-pathologie
+stadiëring
+hpv-oropharyngeaal-spinocellulair-carcinoma
+t-klassering-1
+n-klassering-klinisch-1
+n-klassering-pathologie-1
+m-klassering
+surival-rates
+spinocellulair-tongcarcinoom
+spinocellulair-lipcarcinoom
+speekselklierkanker
+verschillen-tnm7-versus-tnm8
 management-van-de-n0-nek
 achtergrond
 sentinel-node-biopsie-snb
@@ -511,5 +528,3 @@ sinusvoorwandfracturen
 zygoma--en-orbitafracturen
 weke-delen-laceraties
 trigeminus-letsels
-pea-ixx-plus
-cerebrocraniale-afwijkingen
