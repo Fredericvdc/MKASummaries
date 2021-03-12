@@ -529,3 +529,5 @@ zygoma--en-orbitafracturen
 weke-delen-laceraties
 trigeminus-letsels
 cerebrocraniale-afwijkingen
+survival-rates
+carcinoom-van-de-orale-caviteit

@@ -120,17 +120,17 @@ M-klassering
 
 #### N-klassering (klinisch)
 
-+-----+----------------------------------------------------------------+
-| Nx  | Regional lymph nodes cannot be assessed                        |
-+-----+----------------------------------------------------------------+
-| N0  | No regional lymph node metastasis                              |
-+-----+----------------------------------------------------------------+
-| N1  | Metastasis to one or more ipsilateral nodes, ≤ 6 cm            |
-+-----+----------------------------------------------------------------+
-| N2  | Metastasis to contralateral or bilateral lymph nodes, ≤ 6 cm   |
-+-----+----------------------------------------------------------------+
-| N3  | Metastasis in any cervical lymph node \> 6 cm                  |
-+-----+----------------------------------------------------------------+
++----+----------------------------------------------------------------+
+| Nx | Regional lymph nodes cannot be assessed                        |
++----+----------------------------------------------------------------+
+| N0 | No regional lymph node metastasis                              |
++----+----------------------------------------------------------------+
+| N1 | Metastasis to one or more ipsilateral nodes, ≤ 6 cm            |
++----+----------------------------------------------------------------+
+| N2 | Metastasis to contralateral or bilateral lymph nodes, ≤ 6 cm   |
++----+----------------------------------------------------------------+
+| N3 | Metastasis in any cervical lymph node \> 6 cm                  |
++----+----------------------------------------------------------------+
 
 #### N-klassering (pathologie)
 
@@ -152,9 +152,9 @@ M-klassering
 | M1  | Presence of distant metastasis                                 |
 +-----+----------------------------------------------------------------+
 
-## Surival rates
+## Survival rates
 
-Carcinoom van de orale caviteit
+### Carcinoom van de orale caviteit
 
 | Parameter                 | Karakteristiek  | 5Y-Surivival in % (Rodrigues et al.) |
 |---------------------------|-----------------|--------------------------------------|
