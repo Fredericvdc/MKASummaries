@@ -531,3 +531,9 @@ trigeminus-letsels
 cerebrocraniale-afwijkingen
 survival-rates
 carcinoom-van-de-orale-caviteit
+neurosensorische-testen
+correlatie-van-sunderland---nst---chirurgie---mrn
+stratificatie-op-basis-van-mrn-en-chirurgie
+mrn-bevindingen-case-verus-control-ian-ln-schade
+chronologie-van-degeneratie-en-regeneratie
+neurosensorische-flowchart

@@ -33,25 +33,17 @@
 
 #### N-klassering (klinisch)
 
-+-----+-----------------------------------------------------------------------------------------------------+
+|     |                                                                                                     |
+|-----|-----------------------------------------------------------------------------------------------------|
 | Nx  | Regional lymph nodes cannot be assessed                                                             |
-+-----+-----------------------------------------------------------------------------------------------------+
 | N0  | No regional lymph node metastasis                                                                   |
-+-----+-----------------------------------------------------------------------------------------------------+
 | N1  | Metastasis in a single ipsilateral lymph node, 3 cm or less in greatest dimension                   |
-+-----+-----------------------------------------------------------------------------------------------------+
 | N2  | Metastasis as specified in N2a, 2b, 2c below                                                        |
-+-----+-----------------------------------------------------------------------------------------------------+
 | N2a | Metastasis in single ipsilateral lymph node \> 3 cm but ≤ 6 cm in greatest dimension and ENE ( -- ) |
-+-----+-----------------------------------------------------------------------------------------------------+
 | N2b | Metastasis in multiple ipsilateral lymph nodes, ≤ 6 cm in greatest dimension and ENE ( -- )         |
-+-----+-----------------------------------------------------------------------------------------------------+
 | N2c | Metastasis in bilateral or contralateral lymph nodes, ≤ 6 cm in greatest dimension and ENE ( -- )   |
-+-----+-----------------------------------------------------------------------------------------------------+
 | N3a | Metastasis in a lymph node more than 6 cm in greatest dimension en ENE -                            |
-+-----+-----------------------------------------------------------------------------------------------------+
 | N3b | Metastasis in any lymph node(s) with clinically overt ENE ( + )                                     |
-+-----+-----------------------------------------------------------------------------------------------------+
 
 #### N-klassering (pathologie)
 
@@ -79,13 +71,11 @@
 
 M-klassering
 
-+-----+----------------------------------------------------------------+
-| Mx  | Distant metastasis cannot be assessed                          |
-+-----+----------------------------------------------------------------+
-| M0  | No distant metastasis                                          |
-+-----+----------------------------------------------------------------+
-| M1  | Distant metastasis                                             |
-+-----+----------------------------------------------------------------+
+|     |                                       |
+|-----|---------------------------------------|
+| Mx  | Distant metastasis cannot be assessed |
+| M0  | No distant metastasis                 |
+| M1  | Distant metastasis                    |
 
 #### Stadiëring
 
@@ -106,51 +96,39 @@ M-klassering
 
 #### T-klassering
 
-+----+---------------------------------------------------------------------------------------------------------------------------------------+
-| T0 | Primair tumor niet geïdentificeerd                                                                                                    |
-+----+---------------------------------------------------------------------------------------------------------------------------------------+
-| T1 | Tumor ≤ 2 cm maximale diameter                                                                                                        |
-+----+---------------------------------------------------------------------------------------------------------------------------------------+
-| T2 | Tumor \> 2 cm maar ≤ 4 cm                                                                                                             |
-+----+---------------------------------------------------------------------------------------------------------------------------------------+
-| T3 | Tumor \> 4 cm OF extensie naar linguaal vlak van epiglottis                                                                           |
-+----+---------------------------------------------------------------------------------------------------------------------------------------+
-| T4 | Matig vergevorderde tumorinvasie in larynx, extrinsieke tongspieren, mediale pterygoid spier, hard verhemelte of mandibula en voorbij |
-+----+---------------------------------------------------------------------------------------------------------------------------------------+
+|     |                                                                                                                                       |
+|-----|---------------------------------------------------------------------------------------------------------------------------------------|
+| T0  | Primair tumor niet geïdentificeerd                                                                                                    |
+| T1  | Tumor ≤ 2 cm maximale diameter                                                                                                        |
+| T2  | Tumor \> 2 cm maar ≤ 4 cm                                                                                                             |
+| T3  | Tumor \> 4 cm OF extensie naar linguaal vlak van epiglottis                                                                           |
+| T4  | Matig vergevorderde tumorinvasie in larynx, extrinsieke tongspieren, mediale pterygoid spier, hard verhemelte of mandibula en voorbij |
 
 #### N-klassering (klinisch)
 
-+----+----------------------------------------------------------------+
-| Nx | Regional lymph nodes cannot be assessed                        |
-+----+----------------------------------------------------------------+
-| N0 | No regional lymph node metastasis                              |
-+----+----------------------------------------------------------------+
-| N1 | Metastasis to one or more ipsilateral nodes, ≤ 6 cm            |
-+----+----------------------------------------------------------------+
-| N2 | Metastasis to contralateral or bilateral lymph nodes, ≤ 6 cm   |
-+----+----------------------------------------------------------------+
-| N3 | Metastasis in any cervical lymph node \> 6 cm                  |
-+----+----------------------------------------------------------------+
+|     |                                                              |
+|-----|--------------------------------------------------------------|
+| Nx  | Regional lymph nodes cannot be assessed                      |
+| N0  | No regional lymph node metastasis                            |
+| N1  | Metastasis to one or more ipsilateral nodes, ≤ 6 cm          |
+| N2  | Metastasis to contralateral or bilateral lymph nodes, ≤ 6 cm |
+| N3  | Metastasis in any cervical lymph node \> 6 cm                |
 
 #### N-klassering (pathologie)
 
-+-----+----------------------------------------------------------------+
-| Nx  | Regional lymph nodes cannot be assessed                        |
-+-----+----------------------------------------------------------------+
-| pN0 | No regional nodal metastasis identified                        |
-+-----+----------------------------------------------------------------+
-| pN1 | Metastasis to 4 or fewer lymph nodes                           |
-+-----+----------------------------------------------------------------+
-| pN2 | Metastasis to 5 or more lymph nodes                            |
-+-----+----------------------------------------------------------------+
+|     |                                         |
+|-----|-----------------------------------------|
+| Nx  | Regional lymph nodes cannot be assessed |
+| pN0 | No regional nodal metastasis identified |
+| pN1 | Metastasis to 4 or fewer lymph nodes    |
+| pN2 | Metastasis to 5 or more lymph nodes     |
 
 #### M-klassering
 
-+-----+----------------------------------------------------------------+
-| M0  | Absence of distant metastasis                                  |
-+-----+----------------------------------------------------------------+
-| M1  | Presence of distant metastasis                                 |
-+-----+----------------------------------------------------------------+
+|     |                                |
+|-----|--------------------------------|
+| M0  | Absence of distant metastasis  |
+| M1  | Presence of distant metastasis |
 
 ## Survival rates
 
