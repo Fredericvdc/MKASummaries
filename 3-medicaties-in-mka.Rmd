@@ -1175,9 +1175,11 @@ DT/ tab. d.t.d. no. 21\
 S/ Drie per dag 1 tablet. Kuur afmaken.\
 (Kuur starten binnen 48 uur na verschijnen van de huiduitslag)
 
-R/ Capsaïcine (cremor capsicum FNA) 0.75%\
+R/ Capsaïcine (cremor capsicum FNA) 0.075%\
 DT/ creme da tube à 30 g\
-S/ 4 maal daags dun insmeren (pijnbestrijding)
+S/ 4 maal daags dun insmeren (pijnbestrijding) met handschoen aan. Heel
+goed opletten dat de creme niet in de mondopening, neus, oren of ogen
+terecht komt!
 
 ### Orale candidiase
 

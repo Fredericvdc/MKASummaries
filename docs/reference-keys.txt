@@ -267,7 +267,8 @@ t-klassering-1
 n-klassering-klinisch-1
 n-klassering-pathologie-1
 m-klassering
-surival-rates
+survival-rates
+carcinoom-van-de-orale-caviteit
 spinocellulair-tongcarcinoom
 spinocellulair-lipcarcinoom
 speekselklierkanker
@@ -528,12 +529,9 @@ sinusvoorwandfracturen
 zygoma--en-orbitafracturen
 weke-delen-laceraties
 trigeminus-letsels
-cerebrocraniale-afwijkingen
-survival-rates
-carcinoom-van-de-orale-caviteit
+chronologie-van-degeneratie-en-regeneratie
 neurosensorische-testen
+neurosensorische-flowchart
 correlatie-van-sunderland---nst---chirurgie---mrn
 stratificatie-op-basis-van-mrn-en-chirurgie
 mrn-bevindingen-case-verus-control-ian-ln-schade
-chronologie-van-degeneratie-en-regeneratie
-neurosensorische-flowchart
