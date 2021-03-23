@@ -6,3 +6,5 @@ library(tidyverse)
 library(kableExtra)
 library(readxl)
 library(plyr)
+
+bookdown::render_book("index.Rmd")
