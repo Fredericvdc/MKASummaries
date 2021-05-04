@@ -252,64 +252,59 @@ Consult your doctor for more information
 
 #### Combineren van neuroleptica
 
-+---------+------+---------+-----------------------------------------+
-| Pre     | CDC  | RCTs    | Clinical practice experience concerning |
-| gabali  | ra   | testing | combinations                            |
-| n/gaba  | ting | the com |                                         |
-| pentin  | of   | b       |                                         |
-| co      | sc   | ination |                                         |
-| mbined  | ient |         |                                         |
-| with:   | ific |         |                                         |
-|         | evid |         |                                         |
-|         | ence |         |                                         |
-+:========+:=====+:========+:========================================+
-| TCAs    | I +  | Gilron  | Combination well documented. Most with  |
-|         | A    | et al10 | peripheral NeP. Useful combination for  |
-|         |      | and     | patients who do not tolerate either     |
-|         |      | Holbech | drug in larger doses, as well as        |
-|         |      | et al11 | sedative effect from TCA to improve     |
-|         |      |         | sleep disturbance                       |
-+---------+------+---------+-----------------------------------------+
-| SNRIs   | I/II | Tesfaye | Combination reasonably well documented. |
-|         | +    | et al12 | Used by some of the experts with good   |
-|         | B/C  | and Ta  | effect and fewer side effects than with |
-|         |      | n       | TCA                                     |
-|         |      | nenberg |                                         |
-|         |      | et al13 |                                         |
-+---------+------+---------+-----------------------------------------+
-| SSRIs   | III  | None    | Insufficient evidence available. SSRIs  |
-|         | + C  |         | not relevant in the treatment of NeP    |
-+---------+------+---------+-----------------------------------------+
-| Op      | I +  | Gilron  | Good evidence to support combination    |
-| ioidsa  | B    | et      | therapy. Frequently used in daily       |
-|         |      | al16,   | clinical practice                       |
-|         |      | Hanna   |                                         |
-|         |      | et al17 |                                         |
-|         |      | and C   |                                         |
-|         |      | araceni |                                         |
-|         |      | et al18 |                                         |
-+---------+------+---------+-----------------------------------------+
-| Other   | C    | None    | Insufficient evidence available.        |
-| ant     |      |         | Combination could work in theory due to |
-| iepile  |      |         | different mechanisms of action. Limited |
-| pticsb  |      |         | clinical experience                     |
-| (Na+ c  |      |         |                                         |
-| hannel  |      |         |                                         |
-| blo     |      |         |                                         |
-| ckers)  |      |         |                                         |
-+---------+------+---------+-----------------------------------------+
-| Cut     | I +  | Casale  | Mixed evidence and results for          |
-| aneous  | A/C  | et      | localized NeP. Patches add-on to oral   |
-| p       |      | al,19   | therapy are used by some experts with   |
-| atches  |      | Meier   | good effect                             |
-|         |      | et al20 |                                         |
-|         |      | and     |                                         |
-|         |      | Irving  |                                         |
-|         |      | et al21 |                                         |
-+---------+------+---------+-----------------------------------------+
-| Others  | C    | None    | Insufficient evidence and clinical      |
-|         |      |         | practice available                      |
-+---------+------+---------+-----------------------------------------+
++---------+-------+----------+-----------------------------------------+
+| Pre     | CDC   | RCTs     | Clinical practice experience concerning |
+| gabali  | ra    | testing  | combinations                            |
+| n/gaba  | ting  | the com  |                                         |
+| pentin  | of sc | b        |                                         |
+| co      | ient  | ination  |                                         |
+| mbined  | ific  |          |                                         |
+| with:   | evid  |          |                                         |
+|         | ence  |          |                                         |
++:========+:======+:=========+:========================================+
+| TCAs    | I + A | Gilron   | Combination well documented. Most with  |
+|         |       | et al10  | peripheral NeP. Useful combination for  |
+|         |       | and      | patients who do not tolerate either     |
+|         |       | Holbech  | drug in larger doses, as well as        |
+|         |       | et al11  | sedative effect from TCA to improve     |
+|         |       |          | sleep disturbance                       |
++---------+-------+----------+-----------------------------------------+
+| SNRIs   | I/II  | Tesfaye  | Combination reasonably well documented. |
+|         | + B/C | et al12  | Used by some of the experts with good   |
+|         |       | and Ta n | effect and fewer side effects than with |
+|         |       | nenberg  | TCA                                     |
+|         |       | et al13  |                                         |
++---------+-------+----------+-----------------------------------------+
+| SSRIs   | III + | None     | Insufficient evidence available. SSRIs  |
+|         | C     |          | not relevant in the treatment of NeP    |
++---------+-------+----------+-----------------------------------------+
+| Op      | I + B | Gilron   | Good evidence to support combination    |
+| ioidsa  |       | et al16, | therapy. Frequently used in daily       |
+|         |       | Hanna et | clinical practice                       |
+|         |       | al17 and |                                        |
+|         |       | C        |                                         |
+|         |       | araceni  |                                         |
+|         |       | et al18  |                                         |
++---------+-------+----------+-----------------------------------------+
+| Other   | C     | None     | Insufficient evidence available.        |
+| ant     |       |          | Combination could work in theory due to |
+| iepile  |       |          | different mechanisms of action. Limited |
+| pticsb  |       |          | clinical experience                     |
+| (Na+ c  |       |          |                                         |
+| hannel  |       |          |                                         |
+| blo     |       |          |                                         |
+| ckers)  |       |          |                                         |
++---------+-------+----------+-----------------------------------------+
+| Cut     | I +   | Casale   | Mixed evidence and results for          |
+| aneous  | A/C   | et al,19 | localized NeP. Patches add-on to oral   |
+| p       |       | Meier et | therapy are used by some experts with   |
+| atches  |       | al20 and | good effect                             |
+|         |       | Irving   |                                         |
+|         |       | et al21  |                                         |
++---------+-------+----------+-----------------------------------------+
+| Others  | C     | None     | Insufficient evidence and clinical      |
+|         |       |          | practice available                      |
++---------+-------+----------+-----------------------------------------+
 
 : Combineren van neuroleptica
 
@@ -1729,40 +1724,39 @@ Vaccinatie tegen tetanus bij wonden (bron: Hoge Gezondheidsraad)
     pertussis-antigenen)
 -   Tetagam: tetanus-immuunglobulinen
 
-+------------------+------------------+------------------------------+
-| V                | Oppervlakkige en | Wonde met risico van         |
-| accinatiestatus  | schone wonde     | tetanus^1^                   |
-+:=================+:=================+:=============================+
-| Geen of onzekere | Volledige pr     | Volledige primovaccinatie2 + |
-| vaccinatie       | imovaccinatie^2^ | specifieke                   |
-|                  |                  | immunoglobulinen^3^          |
-+------------------+------------------+------------------------------+
-| Onvolledige      | Vaccinatieschema | Vaccinatieschema afwerken +  |
-| primovaccinatie  | afwerken         | specifieke                   |
-|                  |                  | immunoglobulinen^3^          |
-+------------------+------------------+------------------------------+
-| Volledige        | NA               | NA                           |
-| primovaccinatie  |                  |                              |
-+------------------+------------------+------------------------------+
-| -- Laatste       | NA               | NA                           |
-| vaccinatie \< 5  |                  |                              |
-| jaar             |                  |                              |
-+------------------+------------------+------------------------------+
-| -- Laatste       | NA               | 1 dosis van het vaccin       |
-| vaccinatie \> 5  |                  |                              |
-| jaar en \< 10    |                  |                              |
-| jaar             |                  |                              |
-+------------------+------------------+------------------------------+
-| -- Laatste       | 1 dosis van het  | 1 dosis van het vaccin +     |
-| vaccinatie \> 10 | vaccin           | specifieke                   |
-| jaar en \< 20    |                  | immunoglobulinen^3^          |
-| jaar             |                  |                              |
-+------------------+------------------+------------------------------+
-| -- Laatste       | 2 doses van het  | 2 doses van het vaccin met 6 |
-| vaccinatie \> 20 | vaccin met 6     | maanden interval +           |
-| jaar             | maanden interval | specifieke                   |
-|                  |                  | immunoglobulinen^3^          |
-+------------------+------------------+------------------------------+
++------------------+------------------+-------------------------------+
+| V                | Oppervlakkige en | Wonde met risico van          |
+| accinatiestatus  | schone wonde     | tetanus^1^                    |
++:=================+:=================+:==============================+
+| Geen of onzekere | Volledige pr     | Volledige primovaccinatie2 +  |
+| vaccinatie       | imovaccinatie^2^ | specifieke                    |
+|                  |                  | immunoglobulinen^3^           |
++------------------+------------------+-------------------------------+
+| Onvolledige      | Vaccinatieschema | Vaccinatieschema afwerken +   |
+| primovaccinatie  | afwerken         | specifieke                    |
+|                  |                  | immunoglobulinen^3^           |
++------------------+------------------+-------------------------------+
+| Volledige        | NA               | NA                            |
+| primovaccinatie  |                  |                               |
++------------------+------------------+-------------------------------+
+| -- Laatste       | NA               | NA                            |
+| vaccinatie \< 5  |                  |                               |
+| jaar             |                  |                               |
++------------------+------------------+-------------------------------+
+| -- Laatste       | NA               | 1 dosis van het vaccin        |
+| vaccinatie \> 5  |                  |                               |
+| jaar en \< 10    |                  |                               |
+| jaar             |                  |                               |
++------------------+------------------+-------------------------------+
+| -- Laatste       | 1 dosis van het  | 1 dosis van het vaccin +      |
+| vaccinatie \> 10 | vaccin           | specifieke                    |
+| jaar en \< 20    |                  | immunoglobulinen^3^           |
+| jaar             |                  |                               |
++------------------+------------------+-------------------------------+
+| -- Laatste       | 2 doses van het  | 2 doses van het vaccin met 6  |
+| vaccinatie \> 20 | vaccin met 6     | maanden interval + specifieke |
+| jaar             | maanden interval | immunoglobulinen^3^           |
++------------------+------------------+-------------------------------+
 
 ^1^ Kneus- of verbrijzelingswonden, bijtwonden, prikwonden door
 houtsplinters of doornen, wonden bevuild met aarde of dierlijke
