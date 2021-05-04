@@ -2,6 +2,8 @@
 
 ## Inleiding
 
+Vaak voorkomend probleem. De pijn kan van musculoskeletale, dentale, neurale, vasculosympathische of sinogene oorsprong zijn.
+
 ![Overzicht van nervus trigeminus](images/Laure%20Trigemenal%20Nerve%20-%20Schematic%20figure.png.webp)
 
 ![](images/Overview%20orofacial%20pain.jpg.webp)
@@ -21,6 +23,10 @@
 ![](images/Schermafbeelding-2020-06-23-om-17.00.20.png-01.webp)
 
 ## Classificaties en Taxonomie
+
+## Differentiaal diagnose
+
+![](figures/orofaciale%20pijn%20diff%20diagnose.png)
 
 ## Behandeling
 
