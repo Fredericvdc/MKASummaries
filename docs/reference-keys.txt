@@ -167,6 +167,15 @@ pea-ixx-plus
 nerixx
 tetanusvaccinatie-bij-wondes
 iv-sedatie
+labo-aanvragen
+aftosis
+xerostomie
+systeemziekten
+verhoogd-bloedingsrisico
+condylaire-resorptie
+facialisparese
+fibreuze-dysplasie-polyostotisch
+angioneurotisch-oedeem
 syndromen
 indeling-1
 gebruikte-indeling-in-uz-leuven
@@ -275,6 +284,7 @@ inleiding-2
 perifere-mechanismen
 centrale-mechanismen
 classificaties-en-taxonomie
+differentiaal-diagnose
 behandeling
 medicaties
 chirurgische-opties
@@ -348,7 +358,7 @@ chronische-recidiverende-parotitis-volwassene
 juveniele-recidiverende-parotitis
 specifieke-sialoadenitits
 sialolithiasis-1
-xerostomie
+xerostomie-1
 sialorhoea
 sjögren
 inleiding-5
@@ -382,7 +392,7 @@ malt-lymphoma
 operatieve-behandeling
 aanvullende-radiotherapie
 informed-consent
-systeemziekten
+systeemziekten-1
 inleiding-6
 histiocytose-x
 eosinofiel-granuloom

@@ -1,6 +1,323 @@
----
-title: "Labo aanvragen"
-output: html_document
----
+# Labo aanvragen
 
-\#Aftosis
+## Aftosis
+
+-   Complet formule
+
+    -   Hb
+
+    -   RBC telling + hematocriet
+
+    -   WBC-differentiatie
+
+    -   Trombocyten
+
+-   Sedimentatie
+
+-   CRP
+
+-   Ionen:
+
+    -   Na
+
+    -   K
+
+    -   Cl
+
+-   IJzerstatus
+
+    -   Fe
+
+    -   Transferrine saturatie
+
+    -   Ferritine
+
+-   Foliumzuur
+
+-   Zink
+
+-   VIT B12
+
+-   VIT B1
+
+Uitgebreider
+
+-   Leverset
+
+-   Nierset
+
+-   ANA
+
+-   ANCA
+
+-   RF
+
+## Xerostomie
+
+-   Complet formule
+
+    -   Hb
+
+    -   RBC telling + hematocriet
+
+    -   WBC-differentiatie
+
+    -   Trombocyten
+
+-   CRP
+
+-   ANA/ANF
+
+-   Anti-Ro/SSA
+
+-   Anti-La/SSB
+
+-   Reumafactor
+
+```{=html}
+<!-- -->
+```
+-   Andere opties; echter niet echt MKA:
+
+    -   Centromeer Ab's
+
+    -   ACPA (= Anti-citrullinated peptide antibodies)
+
+    -   Anticmitochondrial antibodies
+
+## Systeemziekten
+
+-   Complet formule
+
+    -   Hb
+
+    -   RBC telling + hematocriet
+
+    -   WBC-differentiatie
+
+    -   Trombocyten
+
+-   Sedimentatie
+
+-   CRP
+
+-   Glucose
+
+-   Ionen:
+
+    -   Na
+
+    -   K
+
+    -   Cl
+
+    -   Calcium
+
+    -   Fosfaat
+
+-   Renaal:
+
+    -   Creatinine & GFR
+
+-   Lever
+
+    -   AST/ALT
+
+    -   Alk fosf
+
+    -   gamma-GT
+
+-   IJzerstatus
+
+    -   Fe
+
+    -   Transferrine saturatie
+
+    -   Ferritine
+
+-   Foliumzuur
+
+-   Zink
+
+-   VIT B12
+
+-   VIT B1
+
+-   Schildklier
+
+    -   TSH
+
+    -   T4
+
+-   Eiwitelektroforese
+
+-   Albumine
+
+Uitgebreider:
+
+-   ANA
+
+-   ANCA
+
+-   RF
+
+-   Anti-Ro/SSA
+
+-   Anti-La/SSB
+
+-   C3
+
+## Verhoogd bloedingsrisico
+
+-   Bloedplaatjes
+
+-   PT
+
+-   aPTT
+
+-   INR
+
+-   Factor VIII
+
+-   vWF
+
+-   Calcium
+
+## Condylaire resorptie
+
+-   Complet formule
+
+    -   Hb
+
+    -   RBC telling + hematocriet
+
+    -   WBC-differentiatie
+
+    -   Trombocyten
+
+-   Sedimentatie
+
+-   CRP
+
+-   Glucose
+
+-   Ionen:
+
+    -   Na
+
+    -   K
+
+    -   Cl
+
+    -   Calcium
+
+    -   Fosfaat
+
+-   Renaal:
+
+    -   Creatinine & GFR
+
+-   Lever
+
+    -   AST/ALT
+
+    -   Alk fosf
+
+    -   gamma-GT
+
+-   IJzerstatus
+
+    -   Fe
+
+    -   Transferrine saturatie
+
+    -   Ferritine
+
+-   Foliumzuur
+
+-   Zink
+
+-   VIT B12
+
+-   VIT B1
+
+-   Schildklier
+
+    -   TSH
+
+    -   T4
+
+-   Oestradiol
+
+-   Progestageen
+
+-   Cholesterol
+
+-   VIT D
+
+-   Calcitonine
+
+-   Alkalisch fosfatase
+
+-   ANA
+
+```{=html}
+<!-- -->
+```
+-   RF
+
+-   ANCA
+
+## Facialisparese
+
+-   HbA1c (diabetes)
+
+-   Virale serologie
+
+    -   HSV1
+
+    -   (HSV2)
+
+    -   VZV
+
+-   Serum ACE (sarcoïdose)
+
+-   ANA
+
+-   B. Burgdorferi (Lyme; ELISA)
+
+## Fibreuze dysplasie (polyostotisch)
+
+-   Alkalisch fosfatase
+
+-   Calcium
+
+-   Fosfaat
+
+-   VIT D
+
+-   Hypofysaire as
+
+    -   Groeihormoon
+
+    -   IGF1
+
+    -   Prolactine
+
+    -   FSH
+
+-   Cortisol
+
+    -   Serum
+
+    -   Urine
+
+-   TSH/T4
+
+-   PTH
+
+-   GNAS2-mutatie
+
+## Angioneurotisch oedeem
+
+-   Cholinesterasedeficiëntie
