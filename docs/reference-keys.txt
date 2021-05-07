@@ -308,7 +308,6 @@ glossodynie
 hoofdpijn
 migraine
 spanningshoofdpijn
-section
 orthognathische-chirurgie
 arnett
 orientatie
@@ -534,6 +533,7 @@ trigeminus-letsels
 chronologie-van-degeneratie-en-regeneratie
 neurosensorische-testen
 neurosensorische-flowchart
+mrcs-score-voor-sensibele-zenuwrecuperatie
 correlatie-van-sunderland---nst---chirurgie---mrn
 stratificatie-op-basis-van-mrn-en-chirurgie
 mrn-bevindingen-case-verus-control-ian-ln-schade

@@ -74,9 +74,8 @@ Uitgebreider
 
 -   Reumafactor
 
-```{=html}
 <!-- -->
-```
+
 -   Andere opties; echter niet echt MKA:
 
     -   Centromeer Ab's
@@ -261,9 +260,8 @@ Uitgebreider:
 
 -   ANA
 
-```{=html}
 <!-- -->
-```
+
 -   RF
 
 -   ANCA
