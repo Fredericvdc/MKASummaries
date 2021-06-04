@@ -252,50 +252,69 @@ Consult your doctor for more information
 
 #### Combineren van neuroleptica
 
-+-----------------+----------+----------+-----------------------------------------+
-| Pregab          | Rating   | RCTs     | Clinical practice experience concerning |
-| alin/gabapentin | of       |          | combinations                            |
-| combined with:  | evidence |          |                                         |
-+:================+:=========+:=========+:========================================+
-| TCAs            | I + A    | Gilron   | Combination well documented. Most with  |
-|                 |          | et al10  | peripheral NeP. Useful combination for  |
-|                 |          | and      | patients who do not tolerate either     |
-|                 |          | Holbech  | drug in larger doses, as well as        |
-|                 |          | et al11  | sedative effect from TCA to improve     |
-|                 |          |          | sleep disturbance                       |
-+-----------------+----------+----------+-----------------------------------------+
-| SNRIs           | I/II +   | Tesfaye  | Combination reasonably well documented. |
-|                 | B/C      | et al12  | Used by some of the experts with good   |
-|                 |          | and Ta n | effect and fewer side effects than with |
-|                 |          | nenberg  | TCA                                     |
-|                 |          | et al13  |                                         |
-+-----------------+----------+----------+-----------------------------------------+
-| SSRIs           | III + C  | None     | Insufficient evidence available. SSRIs  |
-|                 |          |          | not relevant in the treatment of NeP    |
-+-----------------+----------+----------+-----------------------------------------+
-| Opioids         | I + B    | Gilron   | Good evidence to support combination    |
-|                 |          | et al16, | therapy. Frequently used in daily       |
-|                 |          | Hanna et | clinical practice                       |
-|                 |          | al17 and |                                         |
-|                 |          | C        |                                         |
-|                 |          | araceni  |                                         |
-|                 |          | et al18  |                                         |
-+-----------------+----------+----------+-----------------------------------------+
-| Other           | C        | None     | Insufficient evidence available.        |
-| antiepileptics  |          |          | Combination could work in theory due to |
-| (Na+ channel    |          |          | different mechanisms of action. Limited |
-| blockers)       |          |          | clinical experience                     |
-+-----------------+----------+----------+-----------------------------------------+
-| Cutaneous       | I + A/C  | Casale   | Mixed evidence and results for          |
-| patches         |          | et al,19 | localized NeP. Patches add-on to oral   |
-|                 |          | Meier et | therapy are used by some experts with   |
-|                 |          | al20 and | good effect                             |
-|                 |          | Irving   |                                         |
-|                 |          | et al21  |                                         |
-+-----------------+----------+----------+-----------------------------------------+
-| Others          | C        | None     | Insufficient evidence and clinical      |
-|                 |          |          | practice available                      |
-+-----------------+----------+----------+-----------------------------------------+
++--------------+--------+--------+-----------------------------------+
+| Pregab       | Rating | RCTs   | Clinical practice experience      |
+| ali          | of     |        | concerning combinations           |
+| n/gabapentin | ev     |        |                                   |
+| combined     | idence |        |                                   |
+| with:        |        |        |                                   |
++:=============+:=======+:=======+:==================================+
+| TCAs         | I + A  | Gilron | Combination well documented. Most |
+|              |        | et     | with peripheral NeP. Useful       |
+|              |        | al10   | combination for patients who do   |
+|              |        | and    | not tolerate either drug in       |
+|              |        | H      | larger doses, as well as sedative |
+|              |        | olbech | effect from TCA to improve sleep  |
+|              |        | et     | disturbance                       |
+|              |        | al11   |                                   |
++--------------+--------+--------+-----------------------------------+
+| SNRIs        | I/II + | T      | Combination reasonably well       |
+|              | B/C    | esfaye | documented. Used by some of the   |
+|              |        | et     | experts with good effect and      |
+|              |        | al12   | fewer side effects than with TCA  |
+|              |        | and Ta |                                   |
+|              |        | n      |                                   |
+|              |        | n      |                                   |
+|              |        | enberg |                                   |
+|              |        | et     |                                   |
+|              |        | al13   |                                   |
++--------------+--------+--------+-----------------------------------+
+| SSRIs        | III +  | None   | Insufficient evidence available.  |
+|              | C      |        | SSRIs not relevant in the         |
+|              |        |        | treatment of NeP                  |
++--------------+--------+--------+-----------------------------------+
+| Opioids      | I + B  | Gilron | Good evidence to support          |
+|              |        | et     | combination therapy. Frequently   |
+|              |        | al16,  | used in daily clinical practice   |
+|              |        | Hanna  |                                   |
+|              |        | et     |                                   |
+|              |        | al17   |                                   |
+|              |        | and C  |                                   |
+|              |        | a      |                                   |
+|              |        | raceni |                                   |
+|              |        | et     |                                   |
+|              |        | al18   |                                   |
++--------------+--------+--------+-----------------------------------+
+| Other        | C      | None   | Insufficient evidence available.  |
+| an           |        |        | Combination could work in theory  |
+| tiepileptics |        |        | due to different mechanisms of    |
+| (Na+ channel |        |        | action. Limited clinical          |
+| blockers)    |        |        | experience                        |
++--------------+--------+--------+-----------------------------------+
+| Cutaneous    | I +    | Casale | Mixed evidence and results for    |
+| patches      | A/C    | et     | localized NeP. Patches add-on to  |
+|              |        | al,19  | oral therapy are used by some     |
+|              |        | Meier  | experts with good effect          |
+|              |        | et     |                                   |
+|              |        | al20   |                                   |
+|              |        | and    |                                   |
+|              |        | Irving |                                   |
+|              |        | et     |                                   |
+|              |        | al21   |                                   |
++--------------+--------+--------+-----------------------------------+
+| Others       | C      | None   | Insufficient evidence and         |
+|              |        |        | clinical practice available       |
++--------------+--------+--------+-----------------------------------+
 
 ## Antibiotica
 
@@ -1337,32 +1356,6 @@ S/ Tweemaal per dag 1 tablet\
 (Bij onvoldoende effect geleidelijk ophogen tot maximaal 1200 mg of
 combineren met Baclofen 10 mg, 3x daags)
 
-### Spierspanningshoofdpijn
-
-R/ amitriptyline 10 mg\
-DT/ tab. d. t. d. no 15\
-S/ Eén tablet voor het slapen gaan
-
-### Cluster headache, migraine
-
-Recente RCT toonde duidelijk minder aanvallen met onderstaand protocol:
-
--   Prednisone 100 mg/d voor 5 dagen, vervolgens elke 3 dagen afbouwen
-    met 20 mg.
--   Gecombineerd met Verapamil 40 mg 3 co/d en op te hogen elke 3 dagen
-    met 40 mg tot max 360 mg/d
-
-Andere mogelijkheden: NSAID (bijvoorbeeld naproxennatrium) combineren
-met sumatriptan en/of zuurstof (02 uit cilinder).
-
-R/ sumatriptan 100 mg\
-DT/ tab. d.t.d. no 10\
-S/ Eén tablet innemen als migraine aanval of cluster headache zich
-aankondigt.
-
-(Eventueel als injectiepen ten behoeve van subcutane toediening of als
-neusspray voorschrijven)
-
 ### Oplossingen voor contactlenzen
 
 Om deze kort erin te bewaren want ze moeten verwijderd worden bij
@@ -1709,9 +1702,9 @@ Vaccinatie tegen tetanus bij wonden (bron: Hoge Gezondheidsraad)
 | Vaccinatiestatus | Oppervlakkige en | Wonde met risico van         |
 |                  | schone wonde     | tetanus^1^                   |
 +:=================+:=================+:=============================+
-| Geen of onzekere | Volledige        | Volledige primovaccinatie2 + |
-| vaccinatie       | pr               | specifieke                   |
-|                  | imovaccinatie^2^ | immunoglobulinen^3^          |
+| Geen of onzekere | Volledige pr     | Volledige primovaccinatie2 + |
+| vaccinatie       | imovaccinatie^2^ | specifieke                   |
+|                  |                  | immunoglobulinen^3^          |
 +------------------+------------------+------------------------------+
 | Onvolledige      | Vaccinatieschema | Vaccinatieschema afwerken +  |
 | primovaccinatie  | afwerken         | specifieke                   |

@@ -28,14 +28,6 @@ Vaak voorkomend probleem. De pijn kan van musculoskeletale, dentale, neurale, va
 
 ![](figures/orofaciale%20pijn%20diff%20diagnose.png)
 
-## Behandeling
-
-### Medicaties
-
-### Chirurgische opties
-
-## Informatie voor patiënten
-
 ## Dentogene pijn
 
 -   Cfr. andere hoofdstukken, voornamelijk pulpitis en periodontitis
@@ -770,6 +762,22 @@ Vaak voorkomend probleem. De pijn kan van musculoskeletale, dentale, neurale, va
 
         -   indien refractief/zeer hevig eventueem neurochirurgie met elektrostimulatie
 
+        -   Recente RCT toonde duidelijk minder aanvallen met onderstaand protocol:
+
+            -   Prednisone 100 mg/d voor 5 dagen, vervolgens elke 3 dagen afbouwen met 20 mg.
+
+                -   Dit schrijf je best als volgt voor: Medrol 32 mg 3 co/d gedurende 5 dagen, vervolgens elke drie dagen 1 halve co (16 mg) afbouwen
+
+            -   Gecombineerd met Verapamil 40 mg 3 co/d en op te hogen elke 3 dagen met 40 mg tot max 360 mg/d
+
+            Andere mogelijkheden: NSAID (bijvoorbeeld naproxennatrium) combineren met sumatriptan en/of zuurstof (02 uit cilinder).
+
+            R/ sumatriptan 100 mg\
+            DT/ tab. d.t.d. no 10\
+            S/ Eén tablet innemen als migraine aanval of cluster headache zich aankondigt.
+
+            (Eventueel als injectiepen ten behoeve van subcutane toediening of als neusspray voorschrijven)
+
     -   chirurgische behandeling
 
         -   minder betrouwbare resultaten dan bij trigeminusneuralgie
@@ -1224,3 +1232,9 @@ Vaak voorkomend probleem. De pijn kan van musculoskeletale, dentale, neurale, va
     -   bepaal visus
 
     -   een niet gecorrigeerde refractieafwijking kan spanningshoofdpijn veroorzaken
+
+-   Behandeling
+
+    -   R/ amitriptyline 10 mg\
+        DT/ tab. d. t. d. no 15\
+        S/ Eén tablet voor het slapen gaan

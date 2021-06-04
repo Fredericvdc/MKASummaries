@@ -139,8 +139,6 @@ remming-fibrinolyse-door-tranexaminezuur
 bestrijding-van-angst-strikte-medische-controle
 bestrijding-van-postoperatieve-zwelling
 neuralgiforme-pijn-trigeminus-neuralgie-glossopharyngeus-neuralgie
-spierspanningshoofdpijn
-cluster-headache-migraine
 oplossingen-voor-contactlenzen
 aanstipvloeistoffen
 keelinstrijksels
@@ -285,10 +283,6 @@ perifere-mechanismen
 centrale-mechanismen
 classificaties-en-taxonomie
 differentiaal-diagnose
-behandeling
-medicaties
-chirurgische-opties
-informatie-voor-patiënten
 dentogene-pijn
 acute-periodontitis
 parodontale-pijn
@@ -368,7 +362,7 @@ sialografie
 apo
 diagnose
 evolutie-en-prognose
-behandeling-1
+behandeling
 tumoren
 voorkomen
 stagering-en-prognose
@@ -524,7 +518,7 @@ treatment-12
 follow-up-12
 fracturen-van-processus-alveolaris
 onderkaaksfracturen
-behandeling-2
+behandeling-1
 bovenkaaksfracturen
 sinusvoorwandfracturen
 zygoma--en-orbitafracturen
